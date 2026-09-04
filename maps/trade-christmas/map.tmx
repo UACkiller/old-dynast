@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.11" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="66" height="66" tilewidth="256" tileheight="256" infinite="0" nextlayerid="9" nextobjectid="11710">
+ <tileset firstgid="1" source="Tiles_collection/Tiles.tsx"/>
+ <tileset firstgid="257" source="Tiles_collection/Decals.tsx"/>
+ <tileset firstgid="513" source="Tiles_collection/Decals_north.tsx"/>
+ <layer id="6" name="Background" width="66" height="66">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer id="5" name="Decals" width="66" height="66">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer id="7" name="Decals2" width="66" height="66">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAgBcDRBAAAQ==
+  </data>
+ </layer>
+ <objectgroup id="3" name="objects">
+  <object id="2993" name="spawnpoint" type="spawnpoint" x="7648" y="9312" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9318" name="spawnpoint" type="spawnpoint" x="8416" y="6496" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9319" name="spawnpoint" type="spawnpoint" x="8416" y="9568" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9321" name="spawnpoint" type="spawnpoint" x="9696" y="8800" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9322" name="spawnpoint" type="spawnpoint" x="9184" y="6752" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9323" name="spawnpoint" type="spawnpoint" x="7136" y="8800" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9324" name="spawnpoint" type="spawnpoint" x="9184" y="9312" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9325" name="spawnpoint" type="spawnpoint" x="7648" y="6752" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9326" name="spawnpoint" type="spawnpoint" x="7136" y="7264" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9327" name="spawnpoint" type="spawnpoint" x="9696" y="7264" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9328" name="spawnpoint" type="spawnpoint" x="6880" y="8032" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9330" name="spawnpoint" type="spawnpoint" x="9952" y="8032" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9944" name="snowtree" type="snowtree" x="14836" y="6916" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9945" name="snowtree" type="snowtree" x="15224" y="6792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10907" name="snowtree" type="snowtree" x="15356" y="7028" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10909" name="snowtree" type="snowtree" x="15476" y="7272" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10908" name="snowtree" type="snowtree" x="15088" y="7024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10911" name="snowtree" type="snowtree" x="15440" y="7532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10913" name="snowtree" type="snowtree" x="15412" y="7832" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10912" name="snowtree" type="snowtree" x="15208" y="7300" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10914" name="snowtree" type="snowtree" x="15156" y="7636" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9948" name="snowtree" type="snowtree" x="14728" y="6532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9949" name="snowtree" type="snowtree" x="14384" y="6648" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9950" name="snowtree" type="snowtree" x="14492" y="6396" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9951" name="snowtree" type="snowtree" x="14236" y="6396" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9952" name="snowtree" type="snowtree" x="14608" y="6768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9953" name="snowtree" type="snowtree" x="14960" y="6684" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9954" name="snowtree" type="snowtree" x="14336" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9955" name="snowtree" type="snowtree" x="14080" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9956" name="snowtree" type="snowtree" x="14336" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9957" name="snowtree" type="snowtree" x="14080" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10915" name="snowtree" type="snowtree" x="14089.1" y="5377.45" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10916" name="snowtree" type="snowtree" x="14343.6" y="5368.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10917" name="snowtree" type="snowtree" x="14504.2" y="5119.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10918" name="snowtree" type="snowtree" x="14207.3" y="5098.67" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10919" name="snowtree" type="snowtree" x="14689.1" y="4910.79" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10920" name="snowtree" type="snowtree" x="14407.3" y="4877.45" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10921" name="snowtree" type="snowtree" x="14595.2" y="4656.24" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10922" name="snowtree" type="snowtree" x="14937.6" y="4786.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10924" name="snowtree" type="snowtree" x="15161.6" y="4646.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10930" name="snowtree" type="snowtree" x="15301.6" y="4418.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10932" name="snowtree" type="snowtree" x="15465.6" y="4182.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10933" name="snowtree" type="snowtree" x="15433.6" y="3926.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10934" name="snowtree" type="snowtree" x="15197.6" y="3878.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10931" name="snowtree" type="snowtree" x="15177.6" y="4150.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10925" name="snowtree" type="snowtree" x="15033.6" y="4394.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10923" name="snowtree" type="snowtree" x="14817.6" y="4562.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9958" name="snowtree" type="snowtree" x="14080" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9959" name="snowtree" type="snowtree" x="14336" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9966" name="snowtree" type="snowtree" x="14836" y="10128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9967" name="snowtree" type="snowtree" x="15124" y="10032" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9968" name="snowtree" type="snowtree" x="14916" y="9856" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9969" name="snowtree" type="snowtree" x="14592" y="10024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9970" name="snowtree" type="snowtree" x="15036" y="10324" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9971" name="snowtree" type="snowtree" x="15304" y="10264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9972" name="snowtree" type="snowtree" x="14676" y="9780" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9973" name="snowtree" type="snowtree" x="14152" y="9728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9974" name="snowtree" type="snowtree" x="14336" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9975" name="snowtree" type="snowtree" x="14080" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9976" name="snowtree" type="snowtree" x="14428" y="9724" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9977" name="snowtree" type="snowtree" x="14316" y="9992" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9978" name="snowtree" type="snowtree" x="14336" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9979" name="snowtree" type="snowtree" x="14080" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9980" name="snowtree" type="snowtree" x="14336" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9981" name="snowtree" type="snowtree" x="14080" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9982" name="snowtree" type="snowtree" x="14080" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9983" name="snowtree" type="snowtree" x="14336" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9990" name="snowtree" type="snowtree" x="14336" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9991" name="snowtree" type="snowtree" x="14080" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9992" name="snowtree" type="snowtree" x="14336" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9993" name="snowtree" type="snowtree" x="14080" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9994" name="snowtree" type="snowtree" x="14080" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9995" name="snowtree" type="snowtree" x="14336" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9996" name="snowtree" type="snowtree" x="14361.5" y="12809.1" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10817" name="snowtree" type="snowtree" x="14625.1" y="12763.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10818" name="snowtree" type="snowtree" x="14473.6" y="12542.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10819" name="snowtree" type="snowtree" x="14194.8" y="12548.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10820" name="snowtree" type="snowtree" x="14879.6" y="12709.1" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10821" name="snowtree" type="snowtree" x="15109.9" y="12548.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10822" name="snowtree" type="snowtree" x="15297.8" y="12345.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10823" name="snowtree" type="snowtree" x="15485.7" y="12139.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10824" name="snowtree" type="snowtree" x="15361.5" y="11893.9" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10825" name="snowtree" type="snowtree" x="15173.6" y="12124.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10827" name="snowtree" type="snowtree" x="14970.5" y="12342.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10826" name="snowtree" type="snowtree" x="14728.1" y="12478.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9997" name="snowtree" type="snowtree" x="14116" y="12788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10000" name="snowtree" type="snowtree" x="14080" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10001" name="snowtree" type="snowtree" x="14336" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10010" name="snowtree" type="snowtree" x="14336" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10011" name="snowtree" type="snowtree" x="14080" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10026" name="snowtree" type="snowtree" x="14492" y="2788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10027" name="snowtree" type="snowtree" x="14212" y="2832" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10028" name="snowtree" type="snowtree" x="14336" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10029" name="snowtree" type="snowtree" x="14080" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10038" name="snowtree" type="snowtree" x="14336" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10039" name="snowtree" type="snowtree" x="14080" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10040" name="snowtree" type="snowtree" x="14336" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10041" name="snowtree" type="snowtree" x="14080" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10042" name="snowtree" type="snowtree" x="14336" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10043" name="snowtree" type="snowtree" x="14080" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10044" name="snowtree" type="snowtree" x="14080" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10045" name="snowtree" type="snowtree" x="14336" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10052" name="snowtree" type="snowtree" x="13568" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10053" name="snowtree" type="snowtree" x="13824" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10054" name="snowtree" type="snowtree" x="13824" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10055" name="snowtree" type="snowtree" x="13568" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10056" name="snowtree" type="snowtree" x="13156" y="14376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10057" name="snowtree" type="snowtree" x="13308" y="13856" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10058" name="snowtree" type="snowtree" x="13296" y="14136" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10059" name="snowtree" type="snowtree" x="13052" y="13996" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10060" name="snowtree" type="snowtree" x="12828" y="14516" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10061" name="snowtree" type="snowtree" x="12912" y="14248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10062" name="snowtree" type="snowtree" x="13068" y="14632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10063" name="snowtree" type="snowtree" x="13020" y="14892" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10064" name="snowtree" type="snowtree" x="12768" y="15048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10065" name="snowtree" type="snowtree" x="12784" y="14788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10066" name="snowtree" type="snowtree" x="13070.7" y="15186.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10067" name="snowtree" type="snowtree" x="12852.8" y="15366.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10070" name="snowtree" type="snowtree" x="12581.8" y="15370.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11180" name="snowtree" type="snowtree" x="12300" y="15367.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11181" name="snowtree" type="snowtree" x="12506.1" y="15121.9" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10072" name="snowtree" type="snowtree" x="12012" y="15132" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10474" name="snowtree" type="snowtree" x="11781.7" y="15432" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10475" name="snowtree" type="snowtree" x="11739.3" y="15183.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10476" name="snowtree" type="snowtree" x="11521.1" y="15492.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10477" name="snowtree" type="snowtree" x="11484.7" y="15210.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10478" name="snowtree" type="snowtree" x="11257.5" y="15556.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10486" name="snowtree" type="snowtree" x="10018.1" y="15768.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10487" name="snowtree" type="snowtree" x="9839.27" y="15562.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10490" name="snowtree" type="snowtree" x="10045.3" y="15419.9" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10483" name="snowtree" type="snowtree" x="11254.4" y="15295.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10073" name="snowtree" type="snowtree" x="12264" y="15112" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10075" name="snowtree" type="snowtree" x="12052" y="15424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10076" name="snowtree" type="snowtree" x="9954.55" y="15155.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11179" name="snowtree" type="snowtree" x="9886.55" y="14907.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10077" name="snowtree" type="snowtree" x="9739.52" y="15308.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10080" name="snowtree" type="snowtree" x="9642.18" y="15006.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10084" name="snowtree" type="snowtree" x="9396.85" y="14657.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10085" name="snowtree" type="snowtree" x="9389.21" y="14930.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10086" name="snowtree" type="snowtree" x="9661.94" y="14735" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10087" name="snowtree" type="snowtree" x="9127.15" y="14862.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10088" name="snowtree" type="snowtree" x="8903.03" y="14418.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10089" name="snowtree" type="snowtree" x="9131.76" y="14594.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10090" name="snowtree" type="snowtree" x="8892.36" y="14732" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10091" name="snowtree" type="snowtree" x="8669.7" y="14568.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10092" name="snowtree" type="snowtree" x="8448" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10093" name="snowtree" type="snowtree" x="8720" y="14200" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10491" name="snowtree" type="snowtree" x="8696" y="13944" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10094" name="snowtree" type="snowtree" x="8476" y="14352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10095" name="snowtree" type="snowtree" x="8448" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10096" name="snowtree" type="snowtree" x="7936" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10097" name="snowtree" type="snowtree" x="8192" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10098" name="snowtree" type="snowtree" x="8192" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10099" name="snowtree" type="snowtree" x="7936" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10144" name="snowtree" type="snowtree" x="1792" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10145" name="snowtree" type="snowtree" x="2048" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10146" name="snowtree" type="snowtree" x="2048" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10147" name="snowtree" type="snowtree" x="1792" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10150" name="snowtree" type="snowtree" x="1968" y="13560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11625" name="snowtree" type="snowtree" x="1828" y="13300" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11626" name="snowtree" type="snowtree" x="1532" y="13308" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11627" name="snowtree" type="snowtree" x="1596" y="13036" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11628" name="snowtree" type="snowtree" x="1332" y="13136" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11629" name="snowtree" type="snowtree" x="1092" y="13220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11630" name="snowtree" type="snowtree" x="1052" y="12964" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11632" name="snowtree" type="snowtree" x="788" y="12980" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11633" name="snowtree" type="snowtree" x="804" y="13228" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11634" name="snowtree" type="snowtree" x="524" y="12952" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11635" name="snowtree" type="snowtree" x="540" y="13220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11636" name="snowtree" type="snowtree" x="256" y="12848" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11637" name="snowtree" type="snowtree" x="0" y="12800" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11638" name="snowtree" type="snowtree" x="280" y="13148" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11639" name="snowtree" type="snowtree" x="0" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11631" name="snowtree" type="snowtree" x="1344" y="12836" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10151" name="snowtree" type="snowtree" x="1684" y="13552" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10292" name="snowtree" type="snowtree" x="8578.3" y="978.424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10293" name="snowtree" type="snowtree" x="8800.97" y="1139.03" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10294" name="snowtree" type="snowtree" x="8725.21" y="1410.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10295" name="snowtree" type="snowtree" x="8503.33" y="1221.76" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10296" name="snowtree" type="snowtree" x="8975.15" y="1354.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10297" name="snowtree" type="snowtree" x="9216" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10298" name="snowtree" type="snowtree" x="9216" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10299" name="snowtree" type="snowtree" x="8975.15" y="1610.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10300" name="snowtree" type="snowtree" x="9472" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10301" name="snowtree" type="snowtree" x="9728" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10302" name="snowtree" type="snowtree" x="9728" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10303" name="snowtree" type="snowtree" x="9472" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10304" name="snowtree" type="snowtree" x="9984" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10305" name="snowtree" type="snowtree" x="10240" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10306" name="snowtree" type="snowtree" x="10240" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10307" name="snowtree" type="snowtree" x="9984" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10308" name="snowtree" type="snowtree" x="10493.1" y="1484.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10309" name="snowtree" type="snowtree" x="10755.2" y="1575.27" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10310" name="snowtree" type="snowtree" x="10694.5" y="1276.73" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10311" name="snowtree" type="snowtree" x="10493.1" y="1755.52" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10312" name="snowtree" type="snowtree" x="10820.2" y="1044.97" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10313" name="snowtree" type="snowtree" x="11006.5" y="835.879" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10314" name="snowtree" type="snowtree" x="11073.2" y="1116.12" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10315" name="snowtree" type="snowtree" x="10950.5" y="1349.45" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10316" name="snowtree" type="snowtree" x="11268.6" y="772.242" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10319" name="snowtree" type="snowtree" x="11311" y="1040.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10329" name="snowtree" type="snowtree" x="13452" y="1292" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10330" name="snowtree" type="snowtree" x="13304" y="1556" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10332" name="snowtree" type="snowtree" x="13588" y="1532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10335" name="snowtree" type="snowtree" x="13520" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10336" name="snowtree" type="snowtree" x="13824" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10337" name="snowtree" type="snowtree" x="13824" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10338" name="snowstone" type="snowstone" x="9472" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10339" name="snowstone" type="snowstone" x="11520" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10340" name="snowstone" type="snowstone" x="10496" y="10752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10341" name="snowstone" type="snowstone" x="7936" y="12288" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10342" name="snowstone" type="snowstone" x="3328" y="10496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10343" name="snowstone" type="snowstone" x="5376" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10344" name="snowstone" type="snowstone" x="2560" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10345" name="snowstone" type="snowstone" x="9984" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10828" name="snowtree" type="snowtree" x="13236" y="15440" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10829" name="snowtree" type="snowtree" x="13500" y="15532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10830" name="snowtree" type="snowtree" x="13784" y="15616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10831" name="snowtree" type="snowtree" x="14048" y="15660" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10832" name="snowtree" type="snowtree" x="14328" y="15668" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10833" name="snowtree" type="snowtree" x="14608.8" y="15660" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10834" name="snowtree" type="snowtree" x="14614.9" y="15929.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10835" name="snowtree" type="snowtree" x="14357.3" y="15935.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10836" name="snowtree" type="snowtree" x="14114.9" y="15926.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10837" name="snowtree" type="snowtree" x="13866.4" y="15890.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10838" name="snowtree" type="snowtree" x="13627" y="15844.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10839" name="snowtree" type="snowtree" x="13384.6" y="15829.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10840" name="snowtree" type="snowtree" x="13175.5" y="15732.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11182" name="snowtree" type="snowtree" x="12960.4" y="15596.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10842" name="snowtree" type="snowtree" x="7640" y="13884" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10843" name="snowtree" type="snowtree" x="7668" y="14156" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10844" name="snowtree" type="snowtree" x="7444" y="14364" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10845" name="snowtree" type="snowtree" x="7404" y="14064" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10846" name="snowtree" type="snowtree" x="7204" y="14508" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10847" name="snowtree" type="snowtree" x="7168" y="14256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10848" name="snowtree" type="snowtree" x="6940" y="14496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10849" name="snowtree" type="snowtree" x="6908" y="14232" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10850" name="snowtree" type="snowtree" x="6652" y="14468" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10851" name="snowtree" type="snowtree" x="6660" y="14220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10852" name="snowtree" type="snowtree" x="6460" y="14016" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10853" name="snowtree" type="snowtree" x="6408" y="14352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10854" name="snowtree" type="snowtree" x="6240" y="14168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10855" name="snowtree" type="snowtree" x="6020" y="14076" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10856" name="snowtree" type="snowtree" x="6204" y="13872" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10857" name="snowtree" type="snowtree" x="5908" y="13840" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10858" name="snowtree" type="snowtree" x="5620" y="14484" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10860" name="snowtree" type="snowtree" x="5396" y="14656" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10868" name="snowtree" type="snowtree" x="4352" y="14684" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10869" name="snowtree" type="snowtree" x="4084" y="14560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10870" name="snowtree" type="snowtree" x="3796" y="14620" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10873" name="snowtree" type="snowtree" x="3216" y="14720" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10874" name="snowtree" type="snowtree" x="2936" y="14692" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10876" name="snowtree" type="snowtree" x="2644" y="14728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10880" name="snowtree" type="snowtree" x="2060" y="14688" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10882" name="snowtree" type="snowtree" x="1792" y="14636" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10883" name="snowtree" type="snowtree" x="1800" y="14352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10884" name="snowtree" type="snowtree" x="2048" y="14388" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10885" name="snowtree" type="snowtree" x="2272" y="14492" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10886" name="snowtree" type="snowtree" x="2372" y="14744" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10887" name="snowtree" type="snowtree" x="2556" y="14480" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10888" name="snowtree" type="snowtree" x="2860" y="14420" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10890" name="snowtree" type="snowtree" x="3164" y="14404" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10891" name="snowtree" type="snowtree" x="3408" y="14536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10892" name="snowtree" type="snowtree" x="3644" y="14396" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10893" name="snowtree" type="snowtree" x="3872" y="14284" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10894" name="snowtree" type="snowtree" x="4120" y="14292" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10895" name="snowtree" type="snowtree" x="4396" y="14388" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10872" name="snowtree" type="snowtree" x="3516" y="14804" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10861" name="snowtree" type="snowtree" x="5688" y="14044" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10862" name="snowtree" type="snowtree" x="5444" y="14284" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10863" name="snowtree" type="snowtree" x="5216" y="14468" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10859" name="snowtree" type="snowtree" x="5816" y="14292" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10898" name="snowtree" type="snowtree" x="14272" y="8456" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10899" name="snowtree" type="snowtree" x="14560" y="8520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10900" name="snowtree" type="snowtree" x="14676" y="8296" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10902" name="snowtree" type="snowtree" x="14612" y="8012" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10903" name="snowtree" type="snowtree" x="14876" y="7952" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10904" name="snowtree" type="snowtree" x="14936" y="8216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10905" name="snowtree" type="snowtree" x="15120" y="7884" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10906" name="snowtree" type="snowtree" x="15224" y="8128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10901" name="snowtree" type="snowtree" x="14420" y="8224" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11199" name="snowtree" type="snowtree" x="15676" y="7768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11200" name="snowtree" type="snowtree" x="15709.3" y="7498.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11201" name="snowtree" type="snowtree" x="15969.9" y="7486.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11202" name="snowtree" type="snowtree" x="15945.7" y="7752.85" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11203" name="snowtree" type="snowtree" x="16230.5" y="7449.82" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11204" name="snowtree" type="snowtree" x="16221.5" y="7710.42" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11205" name="snowtree" type="snowtree" x="16439.6" y="7825.58" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11206" name="snowtree" type="snowtree" x="16469.9" y="7498.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11207" name="snowtree" type="snowtree" x="16640" y="7680" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11208" name="snowtree" type="snowtree" x="16640" y="7936" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11209" name="snowtree" type="snowtree" x="11624" y="15736" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11210" name="snowtree" type="snowtree" x="11364" y="15808" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11211" name="snowtree" type="snowtree" x="11408" y="16076" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11212" name="snowtree" type="snowtree" x="11400" y="16356" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11213" name="snowtree" type="snowtree" x="11264" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11214" name="snowtree" type="snowtree" x="11520" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11215" name="snowtree" type="snowtree" x="11680" y="16416" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11216" name="snowtree" type="snowtree" x="11700" y="16176" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11217" name="snowtree" type="snowtree" x="11664" y="15956" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11218" name="snowtree" type="snowtree" x="11776" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11219" name="snowtree" type="snowtree" x="12032" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11220" name="snowtree" type="snowtree" x="12288" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11221" name="snowtree" type="snowtree" x="12544" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11222" name="snowtree" type="snowtree" x="11520" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11223" name="snowtree" type="snowtree" x="11264" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11224" name="snowtree" type="snowtree" x="11008" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11225" name="snowtree" type="snowtree" x="9984" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11226" name="snowtree" type="snowtree" x="10240" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11227" name="snowtree" type="snowtree" x="10496" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11228" name="snowtree" type="snowtree" x="10752" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11229" name="snowtree" type="snowtree" x="9728" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11230" name="snowtree" type="snowtree" x="9472" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11231" name="snowtree" type="snowtree" x="9216" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11232" name="snowtree" type="snowtree" x="8192" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11233" name="snowtree" type="snowtree" x="8448" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11234" name="snowtree" type="snowtree" x="8704" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11235" name="snowtree" type="snowtree" x="8960" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11236" name="snowtree" type="snowtree" x="7936" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11237" name="snowtree" type="snowtree" x="7680" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11238" name="snowtree" type="snowtree" x="7424" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11239" name="snowtree" type="snowtree" x="6400" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11240" name="snowtree" type="snowtree" x="6656" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11241" name="snowtree" type="snowtree" x="6912" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11242" name="snowtree" type="snowtree" x="7168" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11243" name="snowtree" type="snowtree" x="6144" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11244" name="snowtree" type="snowtree" x="5888" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11245" name="snowtree" type="snowtree" x="5632" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11246" name="snowtree" type="snowtree" x="4608" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11247" name="snowtree" type="snowtree" x="4864" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11248" name="snowtree" type="snowtree" x="5120" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11249" name="snowtree" type="snowtree" x="5376" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11250" name="snowtree" type="snowtree" x="4352" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11251" name="snowtree" type="snowtree" x="4096" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11252" name="snowtree" type="snowtree" x="3840" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11253" name="snowtree" type="snowtree" x="2816" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11254" name="snowtree" type="snowtree" x="3072" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11255" name="snowtree" type="snowtree" x="3328" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11256" name="snowtree" type="snowtree" x="3584" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11257" name="snowtree" type="snowtree" x="2560" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11258" name="snowtree" type="snowtree" x="2304" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11259" name="snowtree" type="snowtree" x="2048" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11260" name="snowtree" type="snowtree" x="1024" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11261" name="snowtree" type="snowtree" x="1280" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11262" name="snowtree" type="snowtree" x="1536" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11263" name="snowtree" type="snowtree" x="1792" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11264" name="snowtree" type="snowtree" x="768" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11265" name="snowtree" type="snowtree" x="512" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11266" name="snowtree" type="snowtree" x="256" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11267" name="snowtree" type="snowtree" x="0" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11268" name="snowtree" type="snowtree" x="-256" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11269" name="snowtree" type="snowtree" x="15616" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11270" name="snowtree" type="snowtree" x="15872" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11271" name="snowtree" type="snowtree" x="16128" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11272" name="snowtree" type="snowtree" x="16384" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11273" name="snowtree" type="snowtree" x="15360" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11274" name="snowtree" type="snowtree" x="15104" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11275" name="snowtree" type="snowtree" x="14848" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11276" name="snowtree" type="snowtree" x="13824" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11277" name="snowtree" type="snowtree" x="14080" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11278" name="snowtree" type="snowtree" x="14336" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11279" name="snowtree" type="snowtree" x="14592" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11280" name="snowtree" type="snowtree" x="13568" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11281" name="snowtree" type="snowtree" x="13312" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11282" name="snowtree" type="snowtree" x="13056" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11283" name="snowtree" type="snowtree" x="12800" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11284" name="snowtree" type="snowtree" x="16640" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11285" name="snowtree" type="snowtree" x="16896" y="16896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11286" name="snowtree" type="snowtree" x="-256" y="16384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11287" name="snowtree" type="snowtree" x="-256" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11288" name="snowtree" type="snowtree" x="-256" y="15872" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11289" name="snowtree" type="snowtree" x="-256" y="16128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11290" name="snowtree" type="snowtree" x="-256" y="15360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11291" name="snowtree" type="snowtree" x="-256" y="15616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11292" name="snowtree" type="snowtree" x="-256" y="14848" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11293" name="snowtree" type="snowtree" x="-256" y="15104" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11294" name="snowtree" type="snowtree" x="-256" y="14336" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11295" name="snowtree" type="snowtree" x="-256" y="14592" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11296" name="snowtree" type="snowtree" x="-256" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11297" name="snowtree" type="snowtree" x="-256" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11298" name="snowtree" type="snowtree" x="-256" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11299" name="snowtree" type="snowtree" x="-256" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11300" name="snowtree" type="snowtree" x="-256" y="12800" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11301" name="snowtree" type="snowtree" x="-256" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11302" name="snowtree" type="snowtree" x="-256" y="12544" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11303" name="snowtree" type="snowtree" x="-256" y="12032" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11304" name="snowtree" type="snowtree" x="-256" y="12288" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11305" name="snowtree" type="snowtree" x="-256" y="11520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11306" name="snowtree" type="snowtree" x="-256" y="11776" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11307" name="snowtree" type="snowtree" x="-256" y="11008" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11308" name="snowtree" type="snowtree" x="-256" y="11264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11309" name="snowtree" type="snowtree" x="-256" y="10496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11310" name="snowtree" type="snowtree" x="-256" y="10752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11311" name="snowtree" type="snowtree" x="-256" y="9984" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11312" name="snowtree" type="snowtree" x="-256" y="10240" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11313" name="snowtree" type="snowtree" x="-256" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11314" name="snowtree" type="snowtree" x="-256" y="9728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11315" name="snowtree" type="snowtree" x="-256" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11316" name="snowtree" type="snowtree" x="-256" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11317" name="snowtree" type="snowtree" x="-256" y="8448" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11318" name="snowtree" type="snowtree" x="-256" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11319" name="snowtree" type="snowtree" x="-256" y="8192" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11320" name="snowtree" type="snowtree" x="-256" y="7680" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11321" name="snowtree" type="snowtree" x="-256" y="7936" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11322" name="snowtree" type="snowtree" x="-256" y="7168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11323" name="snowtree" type="snowtree" x="-256" y="7424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11324" name="snowtree" type="snowtree" x="-256" y="6656" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11325" name="snowtree" type="snowtree" x="-256" y="6912" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11326" name="snowtree" type="snowtree" x="-256" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11327" name="snowtree" type="snowtree" x="-256" y="6400" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11328" name="snowtree" type="snowtree" x="-256" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11329" name="snowtree" type="snowtree" x="-256" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11330" name="snowtree" type="snowtree" x="-256" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11331" name="snowtree" type="snowtree" x="-256" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11332" name="snowtree" type="snowtree" x="-256" y="4608" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11333" name="snowtree" type="snowtree" x="-256" y="4864" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11334" name="snowtree" type="snowtree" x="-256" y="4096" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11335" name="snowtree" type="snowtree" x="-256" y="4352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11336" name="snowtree" type="snowtree" x="-256" y="3840" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11337" name="snowtree" type="snowtree" x="-256" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11338" name="snowtree" type="snowtree" x="-256" y="3584" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11339" name="snowtree" type="snowtree" x="-256" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11340" name="snowtree" type="snowtree" x="-256" y="3072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11341" name="snowtree" type="snowtree" x="-256" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11342" name="snowtree" type="snowtree" x="-256" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11343" name="snowtree" type="snowtree" x="-256" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11344" name="snowtree" type="snowtree" x="-256" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11345" name="snowtree" type="snowtree" x="-256" y="1280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11346" name="snowtree" type="snowtree" x="-256" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11347" name="snowtree" type="snowtree" x="-256" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11348" name="snowtree" type="snowtree" x="-256" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11349" name="snowtree" type="snowtree" x="-256" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11350" name="snowtree" type="snowtree" x="-256" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11351" name="snowtree" type="snowtree" x="-256" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11352" name="snowtree" type="snowtree" x="-256" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11354" name="snowtree" type="snowtree" x="12032" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11355" name="snowtree" type="snowtree" x="12288" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11356" name="snowtree" type="snowtree" x="12544" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11357" name="snowtree" type="snowtree" x="12800" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11358" name="snowtree" type="snowtree" x="11776" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11359" name="snowtree" type="snowtree" x="11520" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11360" name="snowtree" type="snowtree" x="11264" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11361" name="snowtree" type="snowtree" x="10240" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11362" name="snowtree" type="snowtree" x="10496" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11363" name="snowtree" type="snowtree" x="10752" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11364" name="snowtree" type="snowtree" x="11008" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11365" name="snowtree" type="snowtree" x="9984" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11366" name="snowtree" type="snowtree" x="9728" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11367" name="snowtree" type="snowtree" x="9472" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11368" name="snowtree" type="snowtree" x="8448" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11369" name="snowtree" type="snowtree" x="8704" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11370" name="snowtree" type="snowtree" x="8960" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11371" name="snowtree" type="snowtree" x="9216" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11372" name="snowtree" type="snowtree" x="8192" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11373" name="snowtree" type="snowtree" x="7936" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11374" name="snowtree" type="snowtree" x="7680" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11375" name="snowtree" type="snowtree" x="6656" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11376" name="snowtree" type="snowtree" x="6912" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11377" name="snowtree" type="snowtree" x="7168" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11378" name="snowtree" type="snowtree" x="7424" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11379" name="snowtree" type="snowtree" x="6400" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11380" name="snowtree" type="snowtree" x="6144" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11381" name="snowtree" type="snowtree" x="5888" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11382" name="snowtree" type="snowtree" x="4864" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11383" name="snowtree" type="snowtree" x="5120" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11384" name="snowtree" type="snowtree" x="5376" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11385" name="snowtree" type="snowtree" x="5632" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11386" name="snowtree" type="snowtree" x="4608" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11387" name="snowtree" type="snowtree" x="4352" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11388" name="snowtree" type="snowtree" x="4096" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11389" name="snowtree" type="snowtree" x="3072" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11390" name="snowtree" type="snowtree" x="3328" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11391" name="snowtree" type="snowtree" x="3584" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11392" name="snowtree" type="snowtree" x="3840" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11393" name="snowtree" type="snowtree" x="2816" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11394" name="snowtree" type="snowtree" x="2560" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11395" name="snowtree" type="snowtree" x="2304" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11396" name="snowtree" type="snowtree" x="1280" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11397" name="snowtree" type="snowtree" x="1536" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11398" name="snowtree" type="snowtree" x="1792" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11399" name="snowtree" type="snowtree" x="2048" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11400" name="snowtree" type="snowtree" x="1024" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11401" name="snowtree" type="snowtree" x="768" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11402" name="snowtree" type="snowtree" x="512" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11403" name="snowtree" type="snowtree" x="256" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11404" name="snowtree" type="snowtree" x="0" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11405" name="snowtree" type="snowtree" x="15872" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11406" name="snowtree" type="snowtree" x="16128" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11407" name="snowtree" type="snowtree" x="16384" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11408" name="snowtree" type="snowtree" x="16640" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11409" name="snowtree" type="snowtree" x="15616" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11410" name="snowtree" type="snowtree" x="15360" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11411" name="snowtree" type="snowtree" x="15104" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11412" name="snowtree" type="snowtree" x="14080" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11413" name="snowtree" type="snowtree" x="14336" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11414" name="snowtree" type="snowtree" x="14592" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11415" name="snowtree" type="snowtree" x="14848" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11416" name="snowtree" type="snowtree" x="13824" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11417" name="snowtree" type="snowtree" x="13568" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11418" name="snowtree" type="snowtree" x="13312" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11419" name="snowtree" type="snowtree" x="13056" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11420" name="snowtree" type="snowtree" x="16896" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11421" name="snowtree" type="snowtree" x="16896" y="16384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11422" name="snowtree" type="snowtree" x="16896" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11423" name="snowtree" type="snowtree" x="16896" y="15872" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11424" name="snowtree" type="snowtree" x="16896" y="16128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11425" name="snowtree" type="snowtree" x="16896" y="15360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11426" name="snowtree" type="snowtree" x="16896" y="15616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11427" name="snowtree" type="snowtree" x="16896" y="14848" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11428" name="snowtree" type="snowtree" x="16896" y="15104" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11429" name="snowtree" type="snowtree" x="16896" y="14336" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11430" name="snowtree" type="snowtree" x="16896" y="14592" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11431" name="snowtree" type="snowtree" x="16896" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11432" name="snowtree" type="snowtree" x="16896" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11433" name="snowtree" type="snowtree" x="16896" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11434" name="snowtree" type="snowtree" x="16896" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11435" name="snowtree" type="snowtree" x="16896" y="12800" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11436" name="snowtree" type="snowtree" x="16896" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11437" name="snowtree" type="snowtree" x="16896" y="12544" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11438" name="snowtree" type="snowtree" x="16896" y="12032" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11439" name="snowtree" type="snowtree" x="16896" y="12288" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11440" name="snowtree" type="snowtree" x="16896" y="11520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11441" name="snowtree" type="snowtree" x="16896" y="11776" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11442" name="snowtree" type="snowtree" x="16896" y="11008" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11443" name="snowtree" type="snowtree" x="16896" y="11264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11444" name="snowtree" type="snowtree" x="16896" y="10496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11445" name="snowtree" type="snowtree" x="16896" y="10752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11446" name="snowtree" type="snowtree" x="16896" y="9984" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11447" name="snowtree" type="snowtree" x="16896" y="10240" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11448" name="snowtree" type="snowtree" x="16896" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11449" name="snowtree" type="snowtree" x="16896" y="9728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11450" name="snowtree" type="snowtree" x="16896" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11451" name="snowtree" type="snowtree" x="16896" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11452" name="snowtree" type="snowtree" x="16896" y="8448" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11453" name="snowtree" type="snowtree" x="16896" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11454" name="snowtree" type="snowtree" x="16896" y="8192" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11455" name="snowtree" type="snowtree" x="16896" y="7680" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11456" name="snowtree" type="snowtree" x="16896" y="7936" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11457" name="snowtree" type="snowtree" x="16896" y="7168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11458" name="snowtree" type="snowtree" x="16896" y="7424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11459" name="snowtree" type="snowtree" x="16896" y="6656" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11460" name="snowtree" type="snowtree" x="16896" y="6912" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11461" name="snowtree" type="snowtree" x="16896" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11462" name="snowtree" type="snowtree" x="16896" y="6400" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11463" name="snowtree" type="snowtree" x="16896" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11464" name="snowtree" type="snowtree" x="16896" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11465" name="snowtree" type="snowtree" x="16896" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11466" name="snowtree" type="snowtree" x="16896" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11467" name="snowtree" type="snowtree" x="16896" y="4608" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11468" name="snowtree" type="snowtree" x="16896" y="4864" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11469" name="snowtree" type="snowtree" x="16896" y="4096" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11470" name="snowtree" type="snowtree" x="16896" y="4352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11471" name="snowtree" type="snowtree" x="16896" y="3840" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11472" name="snowtree" type="snowtree" x="16896" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11473" name="snowtree" type="snowtree" x="16896" y="3584" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11474" name="snowtree" type="snowtree" x="16896" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11475" name="snowtree" type="snowtree" x="16896" y="3072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11476" name="snowtree" type="snowtree" x="16896" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11477" name="snowtree" type="snowtree" x="16896" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11478" name="snowtree" type="snowtree" x="16896" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11479" name="snowtree" type="snowtree" x="16896" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11480" name="snowtree" type="snowtree" x="16896" y="1280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11481" name="snowtree" type="snowtree" x="16896" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11482" name="snowtree" type="snowtree" x="16896" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11483" name="snowtree" type="snowtree" x="16896" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11484" name="snowtree" type="snowtree" x="16896" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11485" name="snowtree" type="snowtree" x="16896" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11486" name="snowtree" type="snowtree" x="16896" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11487" name="holidaytree" type="holidaytree" x="4608" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11488" name="snowtree" type="snowtree" x="5120" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11489" name="holidaytree" type="holidaytree" x="5376" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11490" name="snowtree" type="snowtree" x="4864" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11491" name="holidaytree" type="holidaytree" x="1536" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11492" name="snowtree" type="snowtree" x="2552" y="236" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11493" name="snowtree2" type="snowtree2" x="256" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11494" name="snowtree" type="snowtree" x="716" y="240" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11495" name="holidaytree" type="holidaytree" x="512" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11496" name="holidaytree" type="holidaytree" x="768" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11497" name="snowtree" type="snowtree" x="256" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11498" name="snowtree2" type="snowtree2" x="1256" y="3488" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11499" name="snowtree2" type="snowtree2" x="3584" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11500" name="snowstone" type="snowstone" x="256" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11501" name="snowstone" type="snowstone" x="2304" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11503" name="snowtree" type="snowtree" x="14624" y="1464" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11521" name="snowtree" type="snowtree" x="14587.6" y="1733.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11504" name="snowtree" type="snowtree" x="14424" y="1236" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11505" name="snowtree" type="snowtree" x="14548" y="924" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11506" name="snowtree" type="snowtree" x="14696" y="1188" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11507" name="snowtree" type="snowtree" x="14864" y="928" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11510" name="snowtree" type="snowtree" x="15040" y="700" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11511" name="snowtree" type="snowtree" x="14924" y="476" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11512" name="snowtree" type="snowtree" x="15328" y="708" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11513" name="snowtree" type="snowtree" x="15232" y="480" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11514" name="snowtree" type="snowtree" x="15520" y="496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11515" name="snowtree" type="snowtree" x="15580" y="248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11516" name="snowtree" type="snowtree" x="15612" y="760" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11517" name="snowtree" type="snowtree" x="15796" y="564" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11518" name="snowtree" type="snowtree" x="15840" y="280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11519" name="snowtree" type="snowtree" x="15872" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11508" name="snowtree" type="snowtree" x="14716" y="688" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11509" name="snowtree" type="snowtree" x="14716" y="688" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11520" name="snowtree" type="snowtree" x="15616" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11522" name="snowtree" type="snowtree" x="2048" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11523" name="snowtree" type="snowtree" x="1792" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11524" name="snowtree" type="snowtree" x="2120" y="3072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11525" name="snowtree" type="snowtree" x="1884" y="3120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11526" name="snowtree" type="snowtree" x="2188" y="3360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11527" name="snowtree" type="snowtree" x="1932" y="3384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11528" name="snowtree" type="snowtree" x="2264" y="3592" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11529" name="snowtree" type="snowtree" x="2016" y="3664" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11530" name="snowtree" type="snowtree" x="2468" y="3796" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11531" name="snowtree" type="snowtree" x="2232" y="3904" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11533" name="snowtree" type="snowtree" x="2628" y="4076" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11534" name="snowtree" type="snowtree" x="2360" y="4172" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11535" name="snowtree" type="snowtree" x="2704" y="4344" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11536" name="snowtree" type="snowtree" x="2716" y="4616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11537" name="snowtree" type="snowtree" x="2696" y="4868" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11538" name="snowtree" type="snowtree" x="2532" y="5136" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11539" name="snowtree" type="snowtree" x="2436" y="4432" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11540" name="snowtree" type="snowtree" x="2468" y="4684" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11541" name="snowtree" type="snowtree" x="2320" y="4960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11542" name="snowtree" type="snowtree" x="2464" y="5368" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11543" name="snowtree" type="snowtree" x="2220" y="5248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11544" name="snowtree" type="snowtree" x="2008" y="5404" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11545" name="snowtree" type="snowtree" x="2240" y="5580" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11546" name="snowtree" type="snowtree" x="1760" y="5500" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11547" name="snowtree" type="snowtree" x="1972" y="5700" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11548" name="snowtree" type="snowtree" x="1484" y="5492" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11549" name="snowtree" type="snowtree" x="1752" y="5784" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11550" name="snowtree" type="snowtree" x="1468" y="5760" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11551" name="snowtree" type="snowtree" x="1244" y="5824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11552" name="snowtree" type="snowtree" x="1228" y="6100" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11553" name="snowtree" type="snowtree" x="1236" y="6388" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11559" name="snowtree" type="snowtree" x="1316" y="6672" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11560" name="snowtree" type="snowtree" x="1000" y="6520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11561" name="snowtree" type="snowtree" x="1052" y="6796" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11562" name="snowtree" type="snowtree" x="1460" y="6952" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11563" name="snowtree" type="snowtree" x="1208" y="7040" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11564" name="snowtree" type="snowtree" x="1680" y="7168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11565" name="snowtree" type="snowtree" x="1416" y="7260" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11566" name="snowtree" type="snowtree" x="1688" y="7444" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11567" name="snowtree" type="snowtree" x="1428" y="7556" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11568" name="snowtree" type="snowtree" x="1676" y="7752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11569" name="snowtree" type="snowtree" x="1468" y="7912" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11570" name="snowtree" type="snowtree" x="1196" y="7768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11571" name="snowtree" type="snowtree" x="1212" y="8044" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11572" name="snowtree" type="snowtree" x="952" y="8064" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11573" name="snowtree" type="snowtree" x="936" y="7772" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11574" name="snowtree" type="snowtree" x="700" y="8064" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11575" name="snowtree" type="snowtree" x="632" y="7784" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11576" name="snowtree" type="snowtree" x="440" y="8160" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11577" name="snowtree" type="snowtree" x="328" y="7876" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11578" name="snowtree" type="snowtree" x="236" y="8228" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11579" name="snowtree" type="snowtree" x="40" y="7920" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11580" name="snowtree" type="snowtree" x="4" y="8204" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11554" name="snowtree" type="snowtree" x="1212" y="5496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11555" name="snowtree" type="snowtree" x="1004" y="5724" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11556" name="snowtree" type="snowtree" x="992" y="5972" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11557" name="snowtree" type="snowtree" x="976" y="6264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11581" name="snowtree" type="snowtree" x="3084" y="1532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11582" name="snowtree" type="snowtree" x="3068" y="1808" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11583" name="snowtree" type="snowtree" x="3351.03" y="1542.06" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11584" name="snowtree" type="snowtree" x="3325.33" y="1798.79" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11585" name="snowtree" type="snowtree" x="3513.21" y="1986.67" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11586" name="snowtree" type="snowtree" x="3582.91" y="1720" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11587" name="snowtree" type="snowtree" x="3852.61" y="1771.52" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11589" name="snowtree" type="snowtree" x="3782.91" y="2044.24" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11590" name="snowtree" type="snowtree" x="4019.27" y="2204.85" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11591" name="snowtree" type="snowtree" x="4085.94" y="1956.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11592" name="snowtree" type="snowtree" x="4285.94" y="2310.91" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11593" name="snowtree" type="snowtree" x="4352.61" y="2035.15" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11594" name="snowtree" type="snowtree" x="4528.36" y="2480.61" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11597" name="snowtree" type="snowtree" x="4813.21" y="2420" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11598" name="snowtree" type="snowtree" x="4801.09" y="2029.09" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11599" name="snowtree" type="snowtree" x="4925.33" y="1774.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11600" name="snowtree" type="snowtree" x="5016.24" y="2226.06" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11601" name="snowtree" type="snowtree" x="5116.24" y="1980.61" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11602" name="snowtree" type="snowtree" x="5337.45" y="1826.06" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11603" name="snowtree" type="snowtree" x="5598.06" y="1707.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11604" name="snowtree" type="snowtree" x="5152.61" y="1604.85" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11605" name="snowtree" type="snowtree" x="5398.06" y="1492.73" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11606" name="snowtree" type="snowtree" x="5673.82" y="1447.27" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11607" name="snowtree" type="snowtree" x="5861.7" y="1707.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11609" name="snowtree" type="snowtree" x="6129.7" y="1763.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11610" name="snowtree" type="snowtree" x="6213.7" y="1531.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11611" name="snowtree" type="snowtree" x="6393.7" y="1795.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11612" name="snowtree" type="snowtree" x="6501.7" y="1551.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11613" name="snowtree" type="snowtree" x="6661.7" y="1811.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11618" name="snowtree" type="snowtree" x="6909.7" y="1787.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11619" name="snowtree" type="snowtree" x="6797.7" y="1535.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11620" name="snowtree" type="snowtree" x="7073.7" y="1515.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11621" name="snowtree" type="snowtree" x="6853.7" y="1263.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11622" name="snowtree" type="snowtree" x="7137.7" y="1231.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11623" name="snowtree" type="snowtree" x="6897.7" y="1003.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11624" name="snowtree" type="snowtree" x="7169.7" y="967.879" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11608" name="snowtree" type="snowtree" x="5934.42" y="1438.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11595" name="snowtree" type="snowtree" x="4582.91" y="2220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11641" name="holidaytree" type="holidaytree" x="1128" y="4712" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11642" name="snowtree" type="snowtree" x="152" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11643" name="snowtree" type="snowtree" x="352" y="6288" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11654" name="holidaytree" type="holidaytree" x="5632" y="3072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11655" name="holidaytree" type="holidaytree" x="8192" y="4352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11656" name="holidaytree" type="holidaytree" x="11520" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11657" name="holidaytree" type="holidaytree" x="12408" y="1072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11658" name="holidaytree" type="holidaytree" x="16128" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11659" name="holidaytree" type="holidaytree" x="12288" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11660" name="holidaytree" type="holidaytree" x="10240" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11661" name="holidaytree" type="holidaytree" x="13312" y="9984" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11662" name="holidaytree" type="holidaytree" x="16384" y="11008" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11663" name="holidaytree" type="holidaytree" x="14848" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11664" name="holidaytree" type="holidaytree" x="15872" y="16384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11665" name="holidaytree" type="holidaytree" x="5376" y="15872" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11666" name="holidaytree" type="holidaytree" x="9216" y="15360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11667" name="holidaytree" type="holidaytree" x="1024" y="15360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11668" name="holidaytree" type="holidaytree" x="3840" y="12544" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11669" name="holidaytree" type="holidaytree" x="6656" y="11008" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11670" name="holidaytree" type="holidaytree" x="9728" y="10752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11671" name="holidaytree" type="holidaytree" x="1024" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11672" name="holidaytree" type="holidaytree" x="2816" y="6400" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11673" name="snowtree2" type="snowtree2" x="1904" y="10160" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11674" name="snowtree2" type="snowtree2" x="7608" y="11408" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11675" name="snowtree2" type="snowtree2" x="10984" y="9584" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11676" name="snowtree2" type="snowtree2" x="13352" y="7808" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11677" name="snowtree2" type="snowtree2" x="10928" y="4912" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11678" name="snowtree2" type="snowtree2" x="7392" y="3456" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11679" name="snowtree2" type="snowtree2" x="11248" y="13608" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11680" name="snowtree2" type="snowtree2" x="12416" y="16064" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11681" name="snowtree2" type="snowtree2" x="16064" y="14280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11682" name="snowtree2" type="snowtree2" x="15312" y="1376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11683" name="snowtree2" type="snowtree2" x="3576" y="5048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11684" name="snowtree2" type="snowtree2" x="3432" y="16160" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11685" name="snowtree2" type="snowtree2" x="7016" y="15144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11686" name="snowtree2" type="snowtree2" x="8064" y="120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11687" name="bigholidaytree" type="bigholidaytree" x="8448" y="7936" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11688" name="giftbox" type="giftbox" x="7784" y="5720" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11689" name="giftbox" type="giftbox" x="10952" y="5992" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11690" name="giftbox" type="giftbox" x="5272" y="8568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11691" name="giftbox" type="giftbox" x="10192" y="9576" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11692" name="giftbox" type="giftbox" x="13808" y="6880" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11693" name="giftbox" type="giftbox" x="16344" y="6944" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11694" name="giftbox" type="giftbox" x="16296" y="9512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11695" name="giftbox" type="giftbox" x="15288" y="15600" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11696" name="giftbox" type="giftbox" x="7200" y="16248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11697" name="giftbox" type="giftbox" x="736" y="14000" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11698" name="giftbox" type="giftbox" x="1352" y="11760" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11699" name="giftbox" type="giftbox" x="600" y="11248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11700" name="giftbox" type="giftbox" x="464" y="9560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11701" name="giftbox" type="giftbox" x="1080" y="8664" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11702" name="giftbox" type="giftbox" x="624" y="6788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11703" name="giftbox" type="giftbox" x="1860" y="4656" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11704" name="giftbox" type="giftbox" x="708" y="3788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11705" name="giftbox" type="giftbox" x="140" y="620" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11706" name="giftbox" type="giftbox" x="4352" y="388" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11707" name="giftbox" type="giftbox" x="4596.24" y="1826.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11708" name="giftbox" type="giftbox" x="9096" y="2240" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11709" name="giftbox" type="giftbox" x="14464" y="208" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="slotmachine">
+  <object id="10367" name="slotmachine" type="slotmachine" x="5888" y="6912" width="249.703" height="237.812"/>
+  <object id="10466" name="slotmachine" type="slotmachine" x="3192" y="8832" width="249.703" height="237.812"/>
+  <object id="10467" name="slotmachine" type="slotmachine" x="6544" y="2456" width="249.703" height="237.812"/>
+  <object id="10468" name="slotmachine" type="slotmachine" x="9728" y="5888" width="249.703" height="237.812"/>
+  <object id="10469" name="slotmachine" type="slotmachine" x="13440" y="5272" width="249.703" height="237.812"/>
+  <object id="11502" name="slotmachine" type="slotmachine" x="10752" y="7680" width="249.703" height="237.812"/>
+  <object id="11644" name="slotmachine" type="slotmachine" x="6003.15" y="12057.1" width="249.703" height="237.812"/>
+  <object id="11645" name="slotmachine" type="slotmachine" x="10240" y="9984" width="249.703" height="237.812"/>
+  <object id="11646" name="premiumslotmachine" type="premiumslotmachine" x="6144" y="8960" width="249.703" height="237.812"/>
+  <object id="11647" name="premiumslotmachine" type="premiumslotmachine" x="9871.15" y="321.094" width="249.703" height="237.812"/>
+  <object id="11648" name="premiumslotmachine" type="premiumslotmachine" x="13687.3" y="14853.8" width="249.703" height="237.812"/>
+  <object id="11650" name="premiumslotmachine" type="premiumslotmachine" x="8035.15" y="15689.1" width="249.703" height="237.812"/>
+  <object id="11651" name="premiumslotmachine" type="premiumslotmachine" x="1843.15" y="1813.09" width="249.703" height="237.812"/>
+  <object id="11652" name="premiumslotmachine" type="premiumslotmachine" x="16163.1" y="2633.09" width="249.703" height="237.812"/>
+  <object id="11653" name="premiumslotmachine" type="premiumslotmachine" x="891.148" y="10497.1" width="249.703" height="237.812"/>
+ </objectgroup>
+</map>

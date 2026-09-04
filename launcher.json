@@ -1,0 +1,7 @@
+
+                {
+                    "target": "Dynast.io.exe",
+                    "version": "https://dynast.io/version.json",
+                    "version_file": "./version.txt"
+                }
+            

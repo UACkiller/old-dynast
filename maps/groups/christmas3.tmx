@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="2441">
+ <objectgroup id="1" name="floors">
+  <object id="2391" name="holidaytreebuilding" class="holidaytreebuilding" x="512" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2392" name="holidaytreebuilding" class="holidaytreebuilding" x="-768" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2393" name="holidaytreebuilding" class="holidaytreebuilding" x="384" y="640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2394" name="spidertower" class="spidertower" x="-896" y="128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2395" name="spidertower" class="spidertower" x="-640" y="-896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2396" name="spidertower" class="spidertower" x="896" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2397" name="spidertower" class="spidertower" x="640" y="896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2398" name="spidertower" class="spidertower" x="-128" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2399" name="spidertower" class="spidertower" x="0" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2400" name="spidercocoon" class="spidercocoon" x="0" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2401" name="spidercocoon" class="spidercocoon" x="128" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2402" name="spidercocoon" class="spidercocoon" x="1024" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2403" name="spidercocoon" class="spidercocoon" x="1152" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2404" name="spidercocoon" class="spidercocoon" x="768" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2405" name="spidercocoon" class="spidercocoon" x="-128" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2406" name="spidercocoon" class="spidercocoon" x="-1024" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2407" name="spidercocoon" class="spidercocoon" x="-1024" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2408" name="spidercocoon" class="spidercocoon" x="-640" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2409" name="spidercocoon" class="spidercocoon" x="-512" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2410" name="spidercocoon" class="spidercocoon" x="-896" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2411" name="spidercocoon" class="spidercocoon" x="-384" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2412" name="spidercocoon" class="spidercocoon" x="-256" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2413" name="spidercocoon" class="spidercocoon" x="-384" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="walls"/>
+ <objectgroup id="3" name="towers"/>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="6" name="guards"/>
+ <objectgroup id="8" name="traps">
+  <object id="2415" name="christmasdeer" class="christmasdeer" x="512" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2416" name="christmasdeer" class="christmasdeer" x="256" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2417" name="christmasdeer" class="christmasdeer" x="-768" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2418" name="christmasdeer" class="christmasdeer" x="-1152" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2419" name="christmasdeer" class="christmasdeer" x="1024" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2420" name="christmasdeer" class="christmasdeer" x="-384" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2421" name="christmasgnome3" class="christmasgnome3" x="-256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2422" name="christmasgnome2" class="christmasgnome2" x="-128" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2423" name="christmasgnome1" class="christmasgnome1" x="256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2424" name="christmasgnome1" class="christmasgnome1" x="768" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2425" name="christmasgnome1" class="christmasgnome1" x="128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2426" name="christmasgnome1" class="christmasgnome1" x="-640" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2427" name="christmasgnome1" class="christmasgnome1" x="-512" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2428" name="christmasgnome1" class="christmasgnome1" x="640" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2429" name="christmasgnome2" class="christmasgnome2" x="512" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2430" name="christmasgnome2" class="christmasgnome2" x="640" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2431" name="christmasgnome2" class="christmasgnome2" x="-384" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2432" name="christmasgnome2" class="christmasgnome2" x="-1152" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2433" name="christmasgnome3" class="christmasgnome3" x="-1152" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2434" name="christmasgnome3" class="christmasgnome3" x="0" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2435" name="christmasgnome3" class="christmasgnome3" x="1408" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2436" name="christmasgnome3" class="christmasgnome3" x="1024" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2437" name="christmasgnome3" class="christmasgnome3" x="-896" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2438" name="christmasgnome3" class="christmasgnome3" x="-1280" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2439" name="giftbox" class="giftbox" x="-256" y="256" width="128" height="128"/>
+  <object id="2440" name="giftbox" class="giftbox" x="-128" y="384" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2389" name="main" class="spidermother" x="-128" y="-128" width="384" height="384">
+   <ellipse/>
+  </object>
+  <object id="2390" name="spiderchest" class="spiderchest" x="-256" y="384" width="128" height="128"/>
+ </objectgroup>
+</map>

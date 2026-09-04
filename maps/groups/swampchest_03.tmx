@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.11" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="1944">
+ <objectgroup id="1" name="floors" visible="0">
+  <object id="214" name="floor" type="floor" x="-128" y="-128" width="128" height="128"/>
+  <object id="215" name="floor" type="floor" x="0" y="-128" width="128" height="128"/>
+  <object id="216" name="floor" type="floor" x="0" y="-256" width="128" height="128"/>
+  <object id="217" name="floor" type="floor" x="-128" y="-256" width="128" height="128"/>
+  <object id="218" name="floor" type="floor" x="-256" y="-256" width="128" height="128"/>
+  <object id="219" name="floor" type="floor" x="-256" y="-128" width="128" height="128"/>
+  <object id="220" name="floor" type="floor" x="-256" y="0" width="128" height="128"/>
+  <object id="221" name="floor" type="floor" x="-128" y="0" width="128" height="128"/>
+  <object id="222" name="floor" type="floor" x="0" y="0" width="128" height="128"/>
+  <object id="223" name="floor" type="floor" x="384" y="0" width="128" height="128"/>
+  <object id="224" name="floor" type="floor" x="256" y="0" width="128" height="128"/>
+  <object id="225" name="floor" type="floor" x="128" y="0" width="128" height="128"/>
+  <object id="226" name="floor" type="floor" x="128" y="-128" width="128" height="128"/>
+  <object id="227" name="floor" type="floor" x="384" y="-128" width="128" height="128"/>
+  <object id="228" name="floor" type="floor" x="256" y="-128" width="128" height="128"/>
+  <object id="230" name="floor" type="floor" x="128" y="-256" width="128" height="128"/>
+  <object id="231" name="floor" type="floor" x="256" y="-256" width="128" height="128"/>
+  <object id="232" name="floor" type="floor" x="384" y="-256" width="128" height="128"/>
+  <object id="233" name="floor" type="floor" x="128" y="384" width="128" height="128"/>
+  <object id="234" name="floor" type="floor" x="256" y="384" width="128" height="128"/>
+  <object id="235" name="floor" type="floor" x="384" y="384" width="128" height="128"/>
+  <object id="236" name="floor" type="floor" x="256" y="256" width="128" height="128"/>
+  <object id="237" name="floor" type="floor" x="384" y="256" width="128" height="128"/>
+  <object id="238" name="floor" type="floor" x="128" y="256" width="128" height="128"/>
+  <object id="239" name="floor" type="floor" x="384" y="128" width="128" height="128"/>
+  <object id="240" name="floor" type="floor" x="256" y="128" width="128" height="128"/>
+  <object id="241" name="floor" type="floor" x="128" y="128" width="128" height="128"/>
+  <object id="242" name="floor" type="floor" x="-256" y="384" width="128" height="128"/>
+  <object id="243" name="floor" type="floor" x="-128" y="384" width="128" height="128"/>
+  <object id="244" name="floor" type="floor" x="0" y="384" width="128" height="128"/>
+  <object id="245" name="floor" type="floor" x="-128" y="256" width="128" height="128"/>
+  <object id="246" name="floor" type="floor" x="0" y="256" width="128" height="128"/>
+  <object id="247" name="floor" type="floor" x="-256" y="256" width="128" height="128"/>
+  <object id="248" name="floor" type="floor" x="0" y="128" width="128" height="128"/>
+  <object id="249" name="floor" type="floor" x="-128" y="128" width="128" height="128"/>
+  <object id="250" name="floor" type="floor" x="-256" y="128" width="128" height="128"/>
+  <object id="251" name="floor" type="floor" x="-640" y="384" width="128" height="128"/>
+  <object id="252" name="floor" type="floor" x="-512" y="384" width="128" height="128"/>
+  <object id="253" name="floor" type="floor" x="-384" y="384" width="128" height="128"/>
+  <object id="254" name="floor" type="floor" x="-512" y="256" width="128" height="128"/>
+  <object id="255" name="floor" type="floor" x="-384" y="256" width="128" height="128"/>
+  <object id="256" name="floor" type="floor" x="-640" y="256" width="128" height="128"/>
+  <object id="257" name="floor" type="floor" x="-384" y="128" width="128" height="128"/>
+  <object id="258" name="floor" type="floor" x="-512" y="128" width="128" height="128"/>
+  <object id="259" name="floor" type="floor" x="-640" y="128" width="128" height="128"/>
+  <object id="260" name="floor" type="floor" x="-640" y="0" width="128" height="128"/>
+  <object id="261" name="floor" type="floor" x="-512" y="0" width="128" height="128"/>
+  <object id="262" name="floor" type="floor" x="-384" y="0" width="128" height="128"/>
+  <object id="263" name="floor" type="floor" x="-512" y="-128" width="128" height="128"/>
+  <object id="264" name="floor" type="floor" x="-384" y="-128" width="128" height="128"/>
+  <object id="265" name="floor" type="floor" x="-640" y="-128" width="128" height="128"/>
+  <object id="266" name="floor" type="floor" x="-384" y="-256" width="128" height="128"/>
+  <object id="267" name="floor" type="floor" x="-512" y="-256" width="128" height="128"/>
+  <object id="268" name="floor" type="floor" x="-640" y="-256" width="128" height="128"/>
+  <object id="269" name="floor" type="floor" x="-640" y="-384" width="128" height="128"/>
+  <object id="270" name="floor" type="floor" x="-512" y="-384" width="128" height="128"/>
+  <object id="271" name="floor" type="floor" x="-384" y="-384" width="128" height="128"/>
+  <object id="272" name="floor" type="floor" x="-512" y="-512" width="128" height="128"/>
+  <object id="273" name="floor" type="floor" x="-384" y="-512" width="128" height="128"/>
+  <object id="274" name="floor" type="floor" x="-640" y="-512" width="128" height="128"/>
+  <object id="275" name="floor" type="floor" x="-384" y="-640" width="128" height="128"/>
+  <object id="276" name="floor" type="floor" x="-512" y="-640" width="128" height="128"/>
+  <object id="277" name="floor" type="floor" x="-640" y="-640" width="128" height="128"/>
+  <object id="278" name="floor" type="floor" x="-256" y="-384" width="128" height="128"/>
+  <object id="279" name="floor" type="floor" x="-128" y="-384" width="128" height="128"/>
+  <object id="280" name="floor" type="floor" x="0" y="-384" width="128" height="128"/>
+  <object id="281" name="floor" type="floor" x="-128" y="-512" width="128" height="128"/>
+  <object id="282" name="floor" type="floor" x="0" y="-512" width="128" height="128"/>
+  <object id="283" name="floor" type="floor" x="-256" y="-512" width="128" height="128"/>
+  <object id="284" name="floor" type="floor" x="0" y="-640" width="128" height="128"/>
+  <object id="285" name="floor" type="floor" x="-128" y="-640" width="128" height="128"/>
+  <object id="286" name="floor" type="floor" x="-256" y="-640" width="128" height="128"/>
+  <object id="287" name="floor" type="floor" x="128" y="-384" width="128" height="128"/>
+  <object id="288" name="floor" type="floor" x="256" y="-384" width="128" height="128"/>
+  <object id="289" name="floor" type="floor" x="384" y="-384" width="128" height="128"/>
+  <object id="290" name="floor" type="floor" x="256" y="-512" width="128" height="128"/>
+  <object id="291" name="floor" type="floor" x="384" y="-512" width="128" height="128"/>
+  <object id="292" name="floor" type="floor" x="128" y="-512" width="128" height="128"/>
+  <object id="293" name="floor" type="floor" x="384" y="-640" width="128" height="128"/>
+  <object id="294" name="floor" type="floor" x="256" y="-640" width="128" height="128"/>
+  <object id="295" name="floor" type="floor" x="128" y="-640" width="128" height="128"/>
+  <object id="1090" name="floor" type="floor" x="768" y="384" width="128" height="128"/>
+  <object id="1091" name="floor" type="floor" x="640" y="384" width="128" height="128"/>
+  <object id="1092" name="floor" type="floor" x="512" y="384" width="128" height="128"/>
+  <object id="1095" name="floor" type="floor" x="896" y="384" width="128" height="128"/>
+  <object id="1099" name="floor" type="floor" x="512" y="256" width="128" height="128"/>
+  <object id="1100" name="floor" type="floor" x="768" y="256" width="128" height="128"/>
+  <object id="1101" name="floor" type="floor" x="640" y="256" width="128" height="128"/>
+  <object id="1102" name="floor" type="floor" x="896" y="256" width="128" height="128"/>
+  <object id="1108" name="floor" type="floor" x="512" y="128" width="128" height="128"/>
+  <object id="1109" name="floor" type="floor" x="640" y="128" width="128" height="128"/>
+  <object id="1110" name="floor" type="floor" x="768" y="128" width="128" height="128"/>
+  <object id="1111" name="floor" type="floor" x="896" y="128" width="128" height="128"/>
+  <object id="1117" name="floor" type="floor" x="768" y="0" width="128" height="128"/>
+  <object id="1118" name="floor" type="floor" x="640" y="0" width="128" height="128"/>
+  <object id="1119" name="floor" type="floor" x="512" y="0" width="128" height="128"/>
+  <object id="1125" name="floor" type="floor" x="896" y="0" width="128" height="128"/>
+  <object id="1126" name="floor" type="floor" x="512" y="-128" width="128" height="128"/>
+  <object id="1127" name="floor" type="floor" x="768" y="-128" width="128" height="128"/>
+  <object id="1128" name="floor" type="floor" x="640" y="-128" width="128" height="128"/>
+  <object id="1132" name="floor" type="floor" x="896" y="-128" width="128" height="128"/>
+  <object id="1135" name="floor" type="floor" x="512" y="-256" width="128" height="128"/>
+  <object id="1136" name="floor" type="floor" x="640" y="-256" width="128" height="128"/>
+  <object id="1137" name="floor" type="floor" x="768" y="-256" width="128" height="128"/>
+  <object id="1141" name="floor" type="floor" x="896" y="-256" width="128" height="128"/>
+  <object id="1149" name="floor" type="floor" x="896" y="-384" width="128" height="128"/>
+  <object id="1150" name="floor" type="floor" x="768" y="-384" width="128" height="128"/>
+  <object id="1151" name="floor" type="floor" x="640" y="-384" width="128" height="128"/>
+  <object id="1152" name="floor" type="floor" x="512" y="-384" width="128" height="128"/>
+  <object id="1156" name="floor" type="floor" x="896" y="-512" width="128" height="128"/>
+  <object id="1159" name="floor" type="floor" x="512" y="-512" width="128" height="128"/>
+  <object id="1160" name="floor" type="floor" x="768" y="-512" width="128" height="128"/>
+  <object id="1161" name="floor" type="floor" x="640" y="-512" width="128" height="128"/>
+  <object id="1165" name="floor" type="floor" x="896" y="-640" width="128" height="128"/>
+  <object id="1168" name="floor" type="floor" x="512" y="-640" width="128" height="128"/>
+  <object id="1169" name="floor" type="floor" x="640" y="-640" width="128" height="128"/>
+  <object id="1170" name="floor" type="floor" x="768" y="-640" width="128" height="128"/>
+  <object id="1177" name="floor" type="floor" x="-768" y="384" width="128" height="128"/>
+  <object id="1178" name="floor" type="floor" x="-896" y="384" width="128" height="128"/>
+  <object id="1179" name="floor" type="floor" x="-1024" y="384" width="128" height="128"/>
+  <object id="1186" name="floor" type="floor" x="-1024" y="256" width="128" height="128"/>
+  <object id="1187" name="floor" type="floor" x="-768" y="256" width="128" height="128"/>
+  <object id="1188" name="floor" type="floor" x="-896" y="256" width="128" height="128"/>
+  <object id="1195" name="floor" type="floor" x="-1024" y="128" width="128" height="128"/>
+  <object id="1196" name="floor" type="floor" x="-896" y="128" width="128" height="128"/>
+  <object id="1197" name="floor" type="floor" x="-768" y="128" width="128" height="128"/>
+  <object id="1201" name="floor" type="floor" x="-1024" y="0" width="128" height="128"/>
+  <object id="1202" name="floor" type="floor" x="-896" y="0" width="128" height="128"/>
+  <object id="1203" name="floor" type="floor" x="-768" y="0" width="128" height="128"/>
+  <object id="1210" name="floor" type="floor" x="-896" y="-128" width="128" height="128"/>
+  <object id="1211" name="floor" type="floor" x="-768" y="-128" width="128" height="128"/>
+  <object id="1212" name="floor" type="floor" x="-1024" y="-128" width="128" height="128"/>
+  <object id="1219" name="floor" type="floor" x="-768" y="-256" width="128" height="128"/>
+  <object id="1220" name="floor" type="floor" x="-896" y="-256" width="128" height="128"/>
+  <object id="1221" name="floor" type="floor" x="-1024" y="-256" width="128" height="128"/>
+  <object id="1225" name="floor" type="floor" x="-768" y="-384" width="128" height="128"/>
+  <object id="1226" name="floor" type="floor" x="-896" y="-384" width="128" height="128"/>
+  <object id="1227" name="floor" type="floor" x="-1024" y="-384" width="128" height="128"/>
+  <object id="1234" name="floor" type="floor" x="-1024" y="-512" width="128" height="128"/>
+  <object id="1235" name="floor" type="floor" x="-768" y="-512" width="128" height="128"/>
+  <object id="1236" name="floor" type="floor" x="-896" y="-512" width="128" height="128"/>
+  <object id="1243" name="floor" type="floor" x="-1024" y="-640" width="128" height="128"/>
+  <object id="1244" name="floor" type="floor" x="-896" y="-640" width="128" height="128"/>
+  <object id="1245" name="floor" type="floor" x="-768" y="-640" width="128" height="128"/>
+  <object id="1258" name="floor" type="floor" x="-768" y="-768" width="128" height="128"/>
+  <object id="1259" name="floor" type="floor" x="-896" y="-768" width="128" height="128"/>
+  <object id="1260" name="floor" type="floor" x="-1024" y="-768" width="128" height="128"/>
+  <object id="1267" name="floor" type="floor" x="-1024" y="-896" width="128" height="128"/>
+  <object id="1268" name="floor" type="floor" x="-768" y="-896" width="128" height="128"/>
+  <object id="1269" name="floor" type="floor" x="-896" y="-896" width="128" height="128"/>
+  <object id="1278" name="floor" type="floor" x="-768" y="-1024" width="128" height="128"/>
+  <object id="1284" name="floor" type="floor" x="-768" y="-1152" width="128" height="128"/>
+  <object id="1333" name="floor" type="floor" x="-384" y="-768" width="128" height="128"/>
+  <object id="1334" name="floor" type="floor" x="-512" y="-768" width="128" height="128"/>
+  <object id="1335" name="floor" type="floor" x="-640" y="-768" width="128" height="128"/>
+  <object id="1336" name="floor" type="floor" x="0" y="-768" width="128" height="128"/>
+  <object id="1337" name="floor" type="floor" x="-128" y="-768" width="128" height="128"/>
+  <object id="1338" name="floor" type="floor" x="-256" y="-768" width="128" height="128"/>
+  <object id="1339" name="floor" type="floor" x="384" y="-768" width="128" height="128"/>
+  <object id="1340" name="floor" type="floor" x="256" y="-768" width="128" height="128"/>
+  <object id="1341" name="floor" type="floor" x="128" y="-768" width="128" height="128"/>
+  <object id="1342" name="floor" type="floor" x="-640" y="-896" width="128" height="128"/>
+  <object id="1343" name="floor" type="floor" x="-384" y="-896" width="128" height="128"/>
+  <object id="1344" name="floor" type="floor" x="-512" y="-896" width="128" height="128"/>
+  <object id="1345" name="floor" type="floor" x="-256" y="-896" width="128" height="128"/>
+  <object id="1346" name="floor" type="floor" x="0" y="-896" width="128" height="128"/>
+  <object id="1347" name="floor" type="floor" x="-128" y="-896" width="128" height="128"/>
+  <object id="1348" name="floor" type="floor" x="128" y="-896" width="128" height="128"/>
+  <object id="1349" name="floor" type="floor" x="384" y="-896" width="128" height="128"/>
+  <object id="1350" name="floor" type="floor" x="256" y="-896" width="128" height="128"/>
+  <object id="1351" name="floor" type="floor" x="-640" y="-1024" width="128" height="128"/>
+  <object id="1352" name="floor" type="floor" x="-512" y="-1024" width="128" height="128"/>
+  <object id="1353" name="floor" type="floor" x="-384" y="-1024" width="128" height="128"/>
+  <object id="1354" name="floor" type="floor" x="-256" y="-1024" width="128" height="128"/>
+  <object id="1355" name="floor" type="floor" x="-128" y="-1024" width="128" height="128"/>
+  <object id="1356" name="floor" type="floor" x="0" y="-1024" width="128" height="128"/>
+  <object id="1357" name="floor" type="floor" x="128" y="-1024" width="128" height="128"/>
+  <object id="1358" name="floor" type="floor" x="256" y="-1024" width="128" height="128"/>
+  <object id="1359" name="floor" type="floor" x="384" y="-1024" width="128" height="128"/>
+  <object id="1360" name="floor" type="floor" x="-384" y="-1152" width="128" height="128"/>
+  <object id="1361" name="floor" type="floor" x="-512" y="-1152" width="128" height="128"/>
+  <object id="1362" name="floor" type="floor" x="-640" y="-1152" width="128" height="128"/>
+  <object id="1363" name="floor" type="floor" x="128" y="-1152" width="128" height="128"/>
+  <object id="1364" name="floor" type="floor" x="256" y="-1152" width="128" height="128"/>
+  <object id="1365" name="floor" type="floor" x="384" y="-1152" width="128" height="128"/>
+  <object id="1366" name="floor" type="floor" x="0" y="-1152" width="128" height="128"/>
+  <object id="1367" name="floor" type="floor" x="-128" y="-1152" width="128" height="128"/>
+  <object id="1368" name="floor" type="floor" x="-256" y="-1152" width="128" height="128"/>
+  <object id="1414" name="floor" type="floor" x="768" y="-768" width="128" height="128"/>
+  <object id="1415" name="floor" type="floor" x="640" y="-768" width="128" height="128"/>
+  <object id="1416" name="floor" type="floor" x="512" y="-768" width="128" height="128"/>
+  <object id="1419" name="floor" type="floor" x="896" y="-768" width="128" height="128"/>
+  <object id="1423" name="floor" type="floor" x="512" y="-896" width="128" height="128"/>
+  <object id="1424" name="floor" type="floor" x="768" y="-896" width="128" height="128"/>
+  <object id="1425" name="floor" type="floor" x="640" y="-896" width="128" height="128"/>
+  <object id="1426" name="floor" type="floor" x="896" y="-896" width="128" height="128"/>
+  <object id="1432" name="floor" type="floor" x="512" y="-1024" width="128" height="128"/>
+  <object id="1433" name="floor" type="floor" x="640" y="-1024" width="128" height="128"/>
+  <object id="1442" name="floor" type="floor" x="640" y="-1152" width="128" height="128"/>
+  <object id="1443" name="floor" type="floor" x="512" y="-1152" width="128" height="128"/>
+  <object id="1665" name="floor" type="floor" x="-768" y="768" width="128" height="128"/>
+  <object id="1666" name="floor" type="floor" x="512" y="768" width="128" height="128"/>
+  <object id="1667" name="floor" type="floor" x="640" y="768" width="128" height="128"/>
+  <object id="1675" name="floor" type="floor" x="384" y="768" width="128" height="128"/>
+  <object id="1676" name="floor" type="floor" x="256" y="768" width="128" height="128"/>
+  <object id="1677" name="floor" type="floor" x="128" y="768" width="128" height="128"/>
+  <object id="1678" name="floor" type="floor" x="0" y="768" width="128" height="128"/>
+  <object id="1679" name="floor" type="floor" x="-128" y="768" width="128" height="128"/>
+  <object id="1680" name="floor" type="floor" x="-256" y="768" width="128" height="128"/>
+  <object id="1681" name="floor" type="floor" x="-384" y="768" width="128" height="128"/>
+  <object id="1682" name="floor" type="floor" x="-512" y="768" width="128" height="128"/>
+  <object id="1683" name="floor" type="floor" x="-640" y="768" width="128" height="128"/>
+  <object id="1691" name="floor" type="floor" x="-768" y="640" width="128" height="128"/>
+  <object id="1693" name="floor" type="floor" x="640" y="640" width="128" height="128"/>
+  <object id="1695" name="floor" type="floor" x="512" y="640" width="128" height="128"/>
+  <object id="1702" name="floor" type="floor" x="128" y="640" width="128" height="128"/>
+  <object id="1703" name="floor" type="floor" x="384" y="640" width="128" height="128"/>
+  <object id="1704" name="floor" type="floor" x="256" y="640" width="128" height="128"/>
+  <object id="1705" name="floor" type="floor" x="-256" y="640" width="128" height="128"/>
+  <object id="1706" name="floor" type="floor" x="0" y="640" width="128" height="128"/>
+  <object id="1707" name="floor" type="floor" x="-128" y="640" width="128" height="128"/>
+  <object id="1708" name="floor" type="floor" x="-640" y="640" width="128" height="128"/>
+  <object id="1709" name="floor" type="floor" x="-384" y="640" width="128" height="128"/>
+  <object id="1710" name="floor" type="floor" x="-512" y="640" width="128" height="128"/>
+  <object id="1717" name="floor" type="floor" x="-768" y="512" width="128" height="128"/>
+  <object id="1718" name="floor" type="floor" x="-896" y="512" width="128" height="128"/>
+  <object id="1719" name="floor" type="floor" x="-1024" y="512" width="128" height="128"/>
+  <object id="1720" name="floor" type="floor" x="768" y="512" width="128" height="128"/>
+  <object id="1721" name="floor" type="floor" x="640" y="512" width="128" height="128"/>
+  <object id="1722" name="floor" type="floor" x="512" y="512" width="128" height="128"/>
+  <object id="1725" name="floor" type="floor" x="896" y="512" width="128" height="128"/>
+  <object id="1729" name="floor" type="floor" x="128" y="512" width="128" height="128"/>
+  <object id="1730" name="floor" type="floor" x="256" y="512" width="128" height="128"/>
+  <object id="1731" name="floor" type="floor" x="384" y="512" width="128" height="128"/>
+  <object id="1732" name="floor" type="floor" x="-256" y="512" width="128" height="128"/>
+  <object id="1733" name="floor" type="floor" x="-128" y="512" width="128" height="128"/>
+  <object id="1734" name="floor" type="floor" x="0" y="512" width="128" height="128"/>
+  <object id="1735" name="floor" type="floor" x="-640" y="512" width="128" height="128"/>
+  <object id="1736" name="floor" type="floor" x="-512" y="512" width="128" height="128"/>
+  <object id="1737" name="floor" type="floor" x="-384" y="512" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="walls">
+  <object id="296" name="deadwall" type="deadwall" x="-1024" y="-768" width="128" height="128"/>
+  <object id="298" name="deadwall" type="deadwall" x="-640" y="-768" width="128" height="128"/>
+  <object id="299" name="deadwall" type="deadwall" x="-512" y="-768" width="128" height="128"/>
+  <object id="300" name="deadwall" type="deadwall" x="-384" y="-768" width="128" height="128"/>
+  <object id="301" name="deadwall" type="deadwall" x="-256" y="-768" width="128" height="128"/>
+  <object id="303" name="deadwall" type="deadwall" x="0" y="-768" width="128" height="128"/>
+  <object id="304" name="deadwall" type="deadwall" x="128" y="-768" width="128" height="128"/>
+  <object id="305" name="deadwall" type="deadwall" x="256" y="-768" width="128" height="128"/>
+  <object id="306" name="deadwall" type="deadwall" x="384" y="-768" width="128" height="128"/>
+  <object id="307" name="deadwall" type="deadwall" x="512" y="-768" width="128" height="128"/>
+  <object id="308" name="deadwall" type="deadwall" x="512" y="-640" width="128" height="128"/>
+  <object id="309" name="deadwall" type="deadwall" x="512" y="-512" width="128" height="128"/>
+  <object id="311" name="deadwall" type="deadwall" x="512" y="-256" width="128" height="128"/>
+  <object id="312" name="deadwall" type="deadwall" x="512" y="-384" width="128" height="128"/>
+  <object id="313" name="deadwall" type="deadwall" x="384" y="384" width="128" height="128"/>
+  <object id="314" name="deadwall" type="deadwall" x="512" y="384" width="128" height="128"/>
+  <object id="316" name="deadwall" type="deadwall" x="512" y="256" width="128" height="128"/>
+  <object id="317" name="deadwall" type="deadwall" x="512" y="128" width="128" height="128"/>
+  <object id="318" name="deadwall" type="deadwall" x="512" y="0" width="128" height="128"/>
+  <object id="319" name="deadwall" type="deadwall" x="256" y="384" width="128" height="128"/>
+  <object id="320" name="deadwall" type="deadwall" x="128" y="384" width="128" height="128"/>
+  <object id="321" name="deadwall" type="deadwall" x="-384" y="384" width="128" height="128"/>
+  <object id="322" name="deadwall" type="deadwall" x="-256" y="384" width="128" height="128"/>
+  <object id="323" name="deadwall" type="deadwall" x="0" y="384" width="128" height="128"/>
+  <object id="326" name="deadwall" type="deadwall" x="-1024" y="512" width="128" height="128"/>
+  <object id="327" name="deadwall" type="deadwall" x="-512" y="384" width="128" height="128"/>
+  <object id="328" name="deadwall" type="deadwall" x="-640" y="384" width="128" height="128"/>
+  <object id="329" name="deadwall" type="deadwall" x="-1024" y="384" width="128" height="128"/>
+  <object id="330" name="deadwall" type="deadwall" x="-1024" y="256" width="128" height="128"/>
+  <object id="331" name="deadwall" type="deadwall" x="-1024" y="128" width="128" height="128"/>
+  <object id="332" name="deadwall" type="deadwall" x="-1024" y="0" width="128" height="128"/>
+  <object id="334" name="deadwall" type="deadwall" x="-1024" y="-256" width="128" height="128"/>
+  <object id="335" name="deadwall" type="deadwall" x="-1024" y="-384" width="128" height="128"/>
+  <object id="336" name="deadwall" type="deadwall" x="-1024" y="-512" width="128" height="128"/>
+  <object id="337" name="deadwall" type="deadwall" x="-1024" y="-640" width="128" height="128"/>
+  <object id="1747" name="deadwall" type="deadwall" x="-640" y="-128" width="128" height="128"/>
+  <object id="1748" name="deadwall" type="deadwall" x="-640" y="-256" width="128" height="128"/>
+  <object id="1749" name="deadwall" type="deadwall" x="-640" y="-384" width="128" height="128"/>
+  <object id="1750" name="deadwall" type="deadwall" x="-640" y="-512" width="128" height="128"/>
+  <object id="1751" name="deadwall" type="deadwall" x="-640" y="-640" width="128" height="128"/>
+  <object id="1752" name="deadwall" type="deadwall" x="-128" y="-768" width="128" height="128"/>
+  <object id="1753" name="deadwall" type="deadwall" x="512" y="-128" width="128" height="128"/>
+  <object id="1755" name="deadwall" type="deadwall" x="-640" y="256" width="128" height="128"/>
+  <object id="1756" name="deadwall" type="deadwall" x="-640" y="128" width="128" height="128"/>
+  <object id="1757" name="deadwall" type="deadwall" x="-640" y="0" width="128" height="128"/>
+  <object id="1758" name="deadwall" type="deadwall" x="-128" y="384" width="128" height="128"/>
+  <object id="1759" name="deadwall" type="deadwall" x="-1024" y="-128" width="128" height="128"/>
+  <object id="1760" name="deadwall" type="deadwall" x="-768" y="-896" width="128" height="128"/>
+  <object id="1761" name="deadwall" type="deadwall" x="-1024" y="-896" width="128" height="128"/>
+  <object id="1762" name="deadwall" type="deadwall" x="-768" y="-1024" width="128" height="128"/>
+  <object id="1763" name="deadwall" type="deadwall" x="-768" y="-1152" width="128" height="128"/>
+  <object id="1764" name="deadwall" type="deadwall" x="-640" y="-1152" width="128" height="128"/>
+  <object id="1765" name="deadwall" type="deadwall" x="-512" y="-1152" width="128" height="128"/>
+  <object id="1766" name="deadwall" type="deadwall" x="-384" y="-1152" width="128" height="128"/>
+  <object id="1767" name="deadwall" type="deadwall" x="-256" y="-1152" width="128" height="128"/>
+  <object id="1768" name="deadwall" type="deadwall" x="-128" y="-1152" width="128" height="128"/>
+  <object id="1769" name="deadwall" type="deadwall" x="0" y="-1152" width="128" height="128"/>
+  <object id="1770" name="deadwall" type="deadwall" x="128" y="-1152" width="128" height="128"/>
+  <object id="1771" name="deadwall" type="deadwall" x="256" y="-1152" width="128" height="128"/>
+  <object id="1772" name="deadwall" type="deadwall" x="384" y="-1152" width="128" height="128"/>
+  <object id="1773" name="deadwall" type="deadwall" x="512" y="-1152" width="128" height="128"/>
+  <object id="1774" name="deadwall" type="deadwall" x="640" y="-1152" width="128" height="128"/>
+  <object id="1775" name="deadwall" type="deadwall" x="640" y="-1024" width="128" height="128"/>
+  <object id="1776" name="deadwall" type="deadwall" x="896" y="-896" width="128" height="128"/>
+  <object id="1777" name="deadwall" type="deadwall" x="896" y="-768" width="128" height="128"/>
+  <object id="1778" name="deadwall" type="deadwall" x="896" y="-640" width="128" height="128"/>
+  <object id="1779" name="deadwall" type="deadwall" x="896" y="-512" width="128" height="128"/>
+  <object id="1780" name="deadwall" type="deadwall" x="896" y="-384" width="128" height="128"/>
+  <object id="1781" name="deadwall" type="deadwall" x="896" y="-256" width="128" height="128"/>
+  <object id="1782" name="deadwall" type="deadwall" x="896" y="-128" width="128" height="128"/>
+  <object id="1783" name="deadwall" type="deadwall" x="896" y="0" width="128" height="128"/>
+  <object id="1784" name="deadwall" type="deadwall" x="896" y="128" width="128" height="128"/>
+  <object id="1785" name="deadwall" type="deadwall" x="896" y="256" width="128" height="128"/>
+  <object id="1786" name="deadwall" type="deadwall" x="896" y="384" width="128" height="128"/>
+  <object id="1787" name="deadwall" type="deadwall" x="896" y="512" width="128" height="128"/>
+  <object id="1788" name="deadwall" type="deadwall" x="640" y="640" width="128" height="128"/>
+  <object id="1789" name="deadwall" type="deadwall" x="640" y="768" width="128" height="128"/>
+  <object id="1790" name="deadwall" type="deadwall" x="512" y="768" width="128" height="128"/>
+  <object id="1791" name="deadwall" type="deadwall" x="384" y="768" width="128" height="128"/>
+  <object id="1792" name="deadwall" type="deadwall" x="256" y="768" width="128" height="128"/>
+  <object id="1793" name="deadwall" type="deadwall" x="640" y="-896" width="128" height="128"/>
+  <object id="1794" name="deadwall" type="deadwall" x="768" y="-896" width="128" height="128"/>
+  <object id="1795" name="deadwall" type="deadwall" x="-896" y="-896" width="128" height="128"/>
+  <object id="1796" name="deadwall" type="deadwall" x="-896" y="512" width="128" height="128"/>
+  <object id="1797" name="deadwall" type="deadwall" x="-768" y="512" width="128" height="128"/>
+  <object id="1798" name="deadwall" type="deadwall" x="-768" y="640" width="128" height="128"/>
+  <object id="1799" name="deadwall" type="deadwall" x="-768" y="768" width="128" height="128"/>
+  <object id="1800" name="deadwall" type="deadwall" x="-640" y="768" width="128" height="128"/>
+  <object id="1801" name="deadwall" type="deadwall" x="-512" y="768" width="128" height="128"/>
+  <object id="1802" name="deadwall" type="deadwall" x="-384" y="768" width="128" height="128"/>
+  <object id="1803" name="deadwall" type="deadwall" x="-256" y="768" width="128" height="128"/>
+  <object id="1804" name="deadwall" type="deadwall" x="-128" y="768" width="128" height="128"/>
+  <object id="1805" name="deadwall" type="deadwall" x="0" y="768" width="128" height="128"/>
+  <object id="1806" name="deadwall" type="deadwall" x="128" y="768" width="128" height="128"/>
+  <object id="1807" name="deadwall" type="deadwall" x="640" y="512" width="128" height="128"/>
+  <object id="1808" name="deadwall" type="deadwall" x="768" y="512" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="towers">
+  <object id="342" name="spidertower" type="spidertower" x="-512" y="-256" width="256" height="256"/>
+  <object id="343" name="spidertower" type="spidertower" x="256" y="-256" width="256" height="256"/>
+  <object id="344" name="spidertower" type="spidertower" x="-128" y="-640" width="256" height="256"/>
+  <object id="345" name="spidertower" type="spidertower" x="-128" y="128" width="256" height="256"/>
+  <object id="757" name="phantomtower" type="phantomtower" x="384" y="-1024" width="256" height="256"/>
+  <object id="761" name="phantomtower" type="phantomtower" x="0" y="-1024" width="256" height="256"/>
+  <object id="764" name="phantomtower" type="phantomtower" x="-640" y="-1024" width="256" height="256"/>
+  <object id="765" name="phantomtower" type="phantomtower" x="-256" y="-1024" width="256" height="256"/>
+  <object id="912" name="phantomtower" type="phantomtower" x="-896" y="-768" width="256" height="256"/>
+  <object id="914" name="phantomtower" type="phantomtower" x="640" y="-768" width="256" height="256"/>
+  <object id="916" name="phantomtower" type="phantomtower" x="-896" y="-384" width="256" height="256"/>
+  <object id="917" name="phantomtower" type="phantomtower" x="-896" y="-128" width="256" height="256"/>
+  <object id="918" name="phantomtower" type="phantomtower" x="-896" y="256" width="256" height="256"/>
+  <object id="936" name="phantomtower" type="phantomtower" x="-256" y="512" width="256" height="256"/>
+  <object id="937" name="phantomtower" type="phantomtower" x="-640" y="512" width="256" height="256"/>
+  <object id="938" name="phantomtower" type="phantomtower" x="0" y="512" width="256" height="256"/>
+  <object id="939" name="phantomtower" type="phantomtower" x="384" y="512" width="256" height="256"/>
+  <object id="944" name="phantomtower" type="phantomtower" x="640" y="256" width="256" height="256"/>
+  <object id="945" name="phantomtower" type="phantomtower" x="640" y="-128" width="256" height="256"/>
+  <object id="946" name="phantomtower" type="phantomtower" x="640" y="-384" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup id="4" name="platforms">
+  <object id="346" name="platform" type="platform" x="-512" y="-384" width="128" height="128"/>
+  <object id="352" name="platform" type="platform" x="384" y="128" width="128" height="128"/>
+  <object id="353" name="platform" type="platform" x="384" y="0" width="128" height="128"/>
+  <object id="354" name="platform" type="platform" x="384" y="-384" width="128" height="128"/>
+  <object id="355" name="platform" type="platform" x="128" y="-640" width="128" height="128"/>
+  <object id="357" name="platform" type="platform" x="-384" y="-640" width="128" height="128"/>
+  <object id="1809" name="platform" type="platform" x="-256" y="-640" width="128" height="128"/>
+  <object id="1812" name="platform" type="platform" x="-512" y="0" width="128" height="128"/>
+  <object id="1813" name="platform" type="platform" x="-512" y="256" width="128" height="128"/>
+  <object id="1814" name="platform" type="platform" x="-384" y="256" width="128" height="128"/>
+  <object id="1815" name="platform" type="platform" x="-256" y="256" width="128" height="128"/>
+  <object id="1816" name="platform" type="platform" x="-512" y="128" width="128" height="128"/>
+  <object id="1817" name="platform" type="platform" x="128" y="256" width="128" height="128"/>
+  <object id="1818" name="platform" type="platform" x="256" y="256" width="128" height="128"/>
+  <object id="1819" name="platform" type="platform" x="384" y="-512" width="128" height="128"/>
+  <object id="1820" name="platform" type="platform" x="256" y="-640" width="128" height="128"/>
+  <object id="1822" name="platform" type="platform" x="-512" y="-512" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="6" name="guards">
+  <object id="1912" name="chimera" type="chimera" x="896" y="-1280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1913" name="chimera" type="chimera" x="-1152" y="-1280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1914" name="chimera" type="chimera" x="896" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1915" name="chimera" type="chimera" x="-1152" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1916" name="plaguespirit" type="plaguespirit" x="-384" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1929" name="plaguespirit" type="plaguespirit" x="-512" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1930" name="plaguespirit" type="plaguespirit" x="128" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1931" name="plaguespirit" type="plaguespirit" x="384" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1932" name="plaguespirit" type="plaguespirit" x="384" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1933" name="plaguespirit" type="plaguespirit" x="256" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1934" name="plaguespirit" type="plaguespirit" x="-384" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1935" name="plaguespirit" type="plaguespirit" x="-512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1936" name="plaguespirit" type="plaguespirit" x="-512" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1937" name="plaguespirit" type="plaguespirit" x="384" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1938" name="plaguespirit" type="plaguespirit" x="1152" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1939" name="plaguespirit" type="plaguespirit" x="1152" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1940" name="plaguespirit" type="plaguespirit" x="384" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1941" name="plaguespirit" type="plaguespirit" x="-512" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1942" name="plaguespirit" type="plaguespirit" x="-1152" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1943" name="plaguespirit" type="plaguespirit" x="-1152" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps">
+  <object id="1874" name="trap" type="trap" x="768" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1875" name="trap" type="trap" x="768" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1876" name="trap" type="trap" x="1024" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1883" name="trap" type="trap" x="-896" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1884" name="trap" type="trap" x="-896" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1885" name="trap" type="trap" x="-1152" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1886" name="trap" type="trap" x="-128" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1887" name="trap" type="trap" x="0" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1891" name="trap" type="trap" x="-128" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1892" name="trap" type="trap" x="0" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1893" name="trap" type="trap" x="-896" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1894" name="trap" type="trap" x="-896" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1895" name="trap" type="trap" x="-1152" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1896" name="trap" type="trap" x="1024" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1897" name="trap" type="trap" x="768" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1898" name="trap" type="trap" x="768" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1899" name="trap" type="trap" x="1024" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1900" name="trap" type="trap" x="1024" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1901" name="trap" type="trap" x="-1152" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1902" name="trap" type="trap" x="-1152" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1903" name="trap" type="trap" x="-384" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1904" name="trap" type="trap" x="-256" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1905" name="trap" type="trap" x="256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1906" name="trap" type="trap" x="256" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1907" name="trap" type="trap" x="128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1908" name="trap" type="trap" x="-256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1909" name="trap" type="trap" x="128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers">
+  <object id="705" name="firewatchertower" type="firewatchertower" x="-512" y="256" width="128" height="128"/>
+  <object id="719" name="firewatchertower" type="firewatchertower" x="384" y="256" width="128" height="128"/>
+  <object id="720" name="firewatchertower" type="firewatchertower" x="384" y="-640" width="128" height="128"/>
+  <object id="721" name="firewatchertower" type="firewatchertower" x="-512" y="-640" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" type="swampchest" x="-128" y="-128" width="128" height="128"/>
+  <object id="1859" name="foreignheartstone" type="foreignheartstone" x="0" y="-256" width="128" height="128"/>
+  <object id="1860" name="foreignheartstone" type="foreignheartstone" x="-256" y="0" width="128" height="128"/>
+  <object id="1861" name="foreignheartstone" type="foreignheartstone" x="0" y="0" width="128" height="128"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="1803">
+ <objectgroup id="2" name="walls"/>
+ <objectgroup id="3" name="towers">
+  <object id="1743" name="spidertower" class="spidertower" x="-512" y="128" width="256" height="256"/>
+  <object id="1751" name="spidertower" class="spidertower" x="128" y="-512" width="256" height="256"/>
+  <object id="1767" name="spidertower" class="spidertower" x="128" y="128" width="256" height="256"/>
+  <object id="1768" name="spidertower" class="spidertower" x="-512" y="-512" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="7" name="wood_spikes"/>
+ <objectgroup id="6" name="guards">
+  <object id="1783" name="spidermother" class="spidermother" x="256" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1785" name="spidercocoon" class="spidercocoon" x="-127.455" y="-525.333" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1786" name="spidercocoon" class="spidercocoon" x="497" y="-275" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1787" name="spidercocoon" class="spidercocoon" x="-793" y="-363" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1788" name="spidercocoon" class="spidercocoon" x="-145" y="255" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1789" name="spidercocoon" class="spidercocoon" x="235.303" y="-773.788" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1790" name="spidercocoon" class="spidercocoon" x="-731.364" y="368.636" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1791" name="foreignheartstone" class="foreignheartstone" x="-128" y="-256" width="128" height="128"/>
+  <object id="1792" name="foreignheartstone" class="foreignheartstone" x="-256" y="-128" width="128" height="128"/>
+  <object id="1793" name="spidermother" class="spidermother" x="-512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1794" name="spidercocoon" class="spidercocoon" x="100.273" y="554.636" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1795" name="spidercocoon" class="spidercocoon" x="-745" y="-771" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1796" name="foreignheartstone" class="foreignheartstone" x="0" y="-128" width="128" height="128"/>
+  <object id="1797" name="foreignheartstone" class="foreignheartstone" x="-128" y="0" width="128" height="128"/>
+  <object id="1798" name="foreignheartstone" class="foreignheartstone" x="0" y="-256" width="128" height="128"/>
+  <object id="1799" name="foreignheartstone" class="foreignheartstone" x="-256" y="-256" width="128" height="128"/>
+  <object id="1800" name="foreignheartstone" class="foreignheartstone" x="-256" y="0" width="128" height="128"/>
+  <object id="1801" name="foreignheartstone" class="foreignheartstone" x="0" y="0" width="128" height="128"/>
+  <object id="1802" name="spidercocoon" class="spidercocoon" x="529.242" y="120.152" width="190" height="190">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps"/>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" class="spiderchest" x="-128" y="-128" width="128" height="128"/>
+ </objectgroup>
+</map>

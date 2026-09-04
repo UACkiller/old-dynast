@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="2389">
+ <objectgroup id="1" name="floors" visible="0">
+  <object id="2325" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-384" y="128" width="128" height="128"/>
+  <object id="2326" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-384" y="-128" width="128" height="128"/>
+  <object id="2327" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-128" y="384" width="128" height="128"/>
+  <object id="2328" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="128" y="384" width="128" height="128"/>
+  <object id="2329" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="256" y="512" width="128" height="128"/>
+  <object id="2330" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="0" y="512" width="128" height="128"/>
+  <object id="2331" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-128" y="640" width="128" height="128"/>
+  <object id="2332" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-256" y="512" width="128" height="128"/>
+  <object id="2333" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="0" y="768" width="128" height="128"/>
+  <object id="2334" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="256" y="768" width="128" height="128"/>
+  <object id="2335" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="640" width="128" height="128"/>
+  <object id="2336" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="768" y="512" width="128" height="128"/>
+  <object id="2337" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="896" y="384" width="128" height="128"/>
+  <object id="2338" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="768" y="256" width="128" height="128"/>
+  <object id="2339" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="896" y="128" width="128" height="128"/>
+  <object id="2340" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="1024" y="0" width="128" height="128"/>
+  <object id="2341" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="896" y="-128" width="128" height="128"/>
+  <object id="2342" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="896" y="-384" width="128" height="128"/>
+  <object id="2343" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="768" y="-512" width="128" height="128"/>
+  <object id="2344" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="-384" width="128" height="128"/>
+  <object id="2345" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="768" y="-256" width="128" height="128"/>
+  <object id="2346" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="-128" width="128" height="128"/>
+  <object id="2347" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="-256" width="128" height="128"/>
+  <object id="2348" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="384" y="-128" width="128" height="128"/>
+  <object id="2349" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="0" width="128" height="128"/>
+  <object id="2350" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="128" width="128" height="128"/>
+  <object id="2351" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="256" width="128" height="128"/>
+  <object id="2352" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="384" y="128" width="128" height="128"/>
+  <object id="2353" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="384" width="128" height="128"/>
+  <object id="2354" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="384" y="384" width="128" height="128"/>
+  <object id="2355" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="512" width="128" height="128"/>
+  <object id="2356" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-384" y="896" width="128" height="128"/>
+  <object id="2357" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="768" width="128" height="128"/>
+  <object id="2358" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-256" y="768" width="128" height="128"/>
+  <object id="2359" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="896" width="128" height="128"/>
+  <object id="2360" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-768" y="768" width="128" height="128"/>
+  <object id="2361" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-896" y="640" width="128" height="128"/>
+  <object id="2362" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-768" y="512" width="128" height="128"/>
+  <object id="2363" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="384" width="128" height="128"/>
+  <object id="2364" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-896" y="384" width="128" height="128"/>
+  <object id="2365" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-1024" y="256" width="128" height="128"/>
+  <object id="2366" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-896" y="128" width="128" height="128"/>
+  <object id="2367" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-1024" y="0" width="128" height="128"/>
+  <object id="2368" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-896" y="-128" width="128" height="128"/>
+  <object id="2369" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-768" y="0" width="128" height="128"/>
+  <object id="2370" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="-128" width="128" height="128"/>
+  <object id="2371" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="128" width="128" height="128"/>
+  <object id="2372" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="0" width="128" height="128"/>
+  <object id="2373" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="256" width="128" height="128"/>
+  <object id="2374" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-384" y="-384" width="128" height="128"/>
+  <object id="2375" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="-512" width="128" height="128"/>
+  <object id="2376" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-256" y="-512" width="128" height="128"/>
+  <object id="2377" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-384" y="-640" width="128" height="128"/>
+  <object id="2378" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-256" y="-768" width="128" height="128"/>
+  <object id="2379" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-128" y="-640" width="128" height="128"/>
+  <object id="2380" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="0" y="-512" width="128" height="128"/>
+  <object id="2381" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="128" y="-384" width="128" height="128"/>
+  <object id="2382" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="256" y="-512" width="128" height="128"/>
+  <object id="2383" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="128" y="-640" width="128" height="128"/>
+  <object id="2384" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="256" y="-768" width="128" height="128"/>
+  <object id="2385" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="384" y="-896" width="128" height="128"/>
+  <object id="2386" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="-768" width="128" height="128"/>
+  <object id="2387" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="-896" width="128" height="128"/>
+  <object id="2388" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="768" y="-768" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="walls">
+  <object id="2159" name="rockwall" class="rockwall" x="0" y="-128" width="128" height="128"/>
+  <object id="2160" name="rockwall" class="rockwall" x="-128" y="-128" width="128" height="128"/>
+  <object id="2161" name="rockwall" class="rockwall" x="-128" y="0" width="128" height="128"/>
+  <object id="2162" name="rockwall" class="rockwall" x="0" y="128" width="128" height="128"/>
+  <object id="2163" name="rockwall" class="rockwall" x="128" y="128" width="128" height="128"/>
+  <object id="2164" name="rockwall" class="rockwall" x="128" y="0" width="128" height="128"/>
+  <object id="2165" name="rockwall" class="rockwall" x="0" y="256" width="128" height="128"/>
+  <object id="2166" name="rockwall" class="rockwall" x="-128" y="256" width="128" height="128"/>
+  <object id="2167" name="rockwall" class="rockwall" x="-256" y="256" width="128" height="128"/>
+  <object id="2168" name="rockwall" class="rockwall" x="-256" y="128" width="128" height="128"/>
+  <object id="2169" name="rockwall" class="rockwall" x="-256" y="0" width="128" height="128"/>
+  <object id="2170" name="rockwall" class="rockwall" x="0" y="-256" width="128" height="128"/>
+  <object id="2171" name="rockwall" class="rockwall" x="128" y="-256" width="128" height="128"/>
+  <object id="2172" name="rockwall" class="rockwall" x="256" y="-256" width="128" height="128"/>
+  <object id="2173" name="rockwall" class="rockwall" x="256" y="-128" width="128" height="128"/>
+  <object id="2174" name="rockwall" class="rockwall" x="256" y="0" width="128" height="128"/>
+  <object id="2183" name="rockwall" class="rockwall" x="-640" y="-256" width="128" height="128"/>
+  <object id="2184" name="rockwall" class="rockwall" x="-640" y="-384" width="128" height="128"/>
+  <object id="2185" name="rockwall" class="rockwall" x="-512" y="-384" width="128" height="128"/>
+  <object id="2186" name="rockwall" class="rockwall" x="640" y="0" width="128" height="128"/>
+  <object id="2187" name="rockwall" class="rockwall" x="768" y="128" width="128" height="128"/>
+  <object id="2188" name="rockwall" class="rockwall" x="768" y="0" width="128" height="128"/>
+  <object id="2189" name="rockwall" class="rockwall" x="384" y="512" width="128" height="128"/>
+  <object id="2190" name="rockwall" class="rockwall" x="384" y="640" width="128" height="128"/>
+  <object id="2191" name="rockwall" class="rockwall" x="512" y="640" width="128" height="128"/>
+  <object id="2192" name="rockwall" class="rockwall" x="-768" y="256" width="128" height="128"/>
+  <object id="2193" name="rockwall" class="rockwall" x="-768" y="128" width="128" height="128"/>
+  <object id="2194" name="rockwall" class="rockwall" x="-640" y="256" width="128" height="128"/>
+  <object id="2195" name="rockwall" class="rockwall" x="0" y="-768" width="128" height="128"/>
+  <object id="2196" name="rockwall" class="rockwall" x="128" y="-768" width="128" height="128"/>
+  <object id="2197" name="rockwall" class="rockwall" x="0" y="-640" width="128" height="128"/>
+  <object id="2198" name="rockwall" class="rockwall" x="896" y="-768" width="128" height="128"/>
+  <object id="2199" name="rockwall" class="rockwall" x="1024" y="-768" width="128" height="128"/>
+  <object id="2200" name="rockwall" class="rockwall" x="1024" y="-640" width="128" height="128"/>
+  <object id="2201" name="rockwall" class="rockwall" x="-256" y="896" width="128" height="128"/>
+  <object id="2202" name="rockwall" class="rockwall" x="-256" y="1024" width="128" height="128"/>
+  <object id="2203" name="rockwall" class="rockwall" x="-128" y="1024" width="128" height="128"/>
+  <object id="2204" name="rockwall" class="rockwall" x="-896" y="768" width="128" height="128"/>
+  <object id="2205" name="rockwall" class="rockwall" x="-896" y="896" width="128" height="128"/>
+  <object id="2206" name="rockwall" class="rockwall" x="-768" y="896" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="towers">
+  <object id="2177" name="spidertower" class="spidertower" x="384" y="-512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2178" name="spidertower" class="spidertower" x="-512" y="384" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="6" name="guards">
+  <object id="2175" name="spidercocoon" class="spidercocoon" x="256" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2176" name="spidercocoon" class="spidercocoon" x="-256" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2179" name="spidercocoon" class="spidercocoon" x="640" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2180" name="spidercocoon" class="spidercocoon" x="-640" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2181" name="spidercocoon" class="spidercocoon" x="-384" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2182" name="spidercocoon" class="spidercocoon" x="384" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2207" name="spidercocoon" class="spidercocoon" x="-128" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2208" name="spidercocoon" class="spidercocoon" x="-512" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2209" name="spidercocoon" class="spidercocoon" x="896" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2276" name="spider" class="spider" x="896" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2277" name="spider" class="spider" x="1024" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2278" name="spider" class="spider" x="1152" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2279" name="spider" class="spider" x="1152" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2280" name="spider" class="spider" x="1152" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2281" name="spider" class="spider" x="-1024" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2282" name="spider" class="spider" x="-1024" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2283" name="spider" class="spider" x="-1024" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2284" name="spider" class="spider" x="-896" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2285" name="spider" class="spider" x="-768" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2286" name="redspider" class="redspider" x="128" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2287" name="redspider" class="redspider" x="0" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2288" name="redspider" class="redspider" x="-640" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2289" name="redspider" class="redspider" x="-768" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2290" name="redspider" class="redspider" x="512" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2291" name="redspider" class="redspider" x="384" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2292" name="redspider" class="redspider" x="-128" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2293" name="redspider" class="redspider" x="-256" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2294" name="christmasgnome2" class="christmasgnome2" x="384" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2295" name="christmasgnome3" class="christmasgnome3" x="384" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2296" name="christmasgnome2" class="christmasgnome2" x="512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2297" name="christmasgnome3" class="christmasgnome3" x="640" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2298" name="christmasgnome1" class="christmasgnome1" x="768" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2299" name="christmasgnome1" class="christmasgnome1" x="0" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2300" name="christmasgnome3" class="christmasgnome3" x="-128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2301" name="christmasgnome1" class="christmasgnome1" x="-256" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2302" name="christmasgnome3" class="christmasgnome3" x="-128" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2303" name="christmasgnome2" class="christmasgnome2" x="-384" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2304" name="christmasgnome1" class="christmasgnome1" x="-512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2305" name="christmasgnome3" class="christmasgnome3" x="-640" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2306" name="christmasgnome2" class="christmasgnome2" x="-512" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2307" name="christmasgnome3" class="christmasgnome3" x="-384" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2308" name="christmasgnome1" class="christmasgnome1" x="-640" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2309" name="christmasgnome1" class="christmasgnome1" x="-128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2311" name="christmasgnome2" class="christmasgnome2" x="0" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2312" name="christmasgnome2" class="christmasgnome2" x="128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2313" name="christmasgnome1" class="christmasgnome1" x="256" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2314" name="christmasgnome3" class="christmasgnome3" x="384" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2315" name="christmasgnome3" class="christmasgnome3" x="512" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2316" name="christmasgnome1" class="christmasgnome1" x="128" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2317" name="christmasgnome2" class="christmasgnome2" x="256" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2318" name="christmasgnome3" class="christmasgnome3" x="384" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2319" name="christmasgnome1" class="christmasgnome1" x="512" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps">
+  <object id="2210" name="trap" class="trap" x="512" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2211" name="trap" class="trap" x="384" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2212" name="trap" class="trap" x="512" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2213" name="trap" class="trap" x="384" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2214" name="trap" class="trap" x="512" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2215" name="trap" class="trap" x="384" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2216" name="trap" class="trap" x="128" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2217" name="trap" class="trap" x="256" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2218" name="trap" class="trap" x="0" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2219" name="trap" class="trap" x="-128" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2220" name="trap" class="trap" x="-256" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2221" name="trap" class="trap" x="-128" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2222" name="trap" class="trap" x="128" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2223" name="trap" class="trap" x="0" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2224" name="trap" class="trap" x="256" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2225" name="trap" class="trap" x="-256" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2226" name="trap" class="trap" x="-512" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2227" name="trap" class="trap" x="-384" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2228" name="trap" class="trap" x="-640" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2229" name="trap" class="trap" x="-768" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2230" name="trap" class="trap" x="-896" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2231" name="trap" class="trap" x="-768" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2232" name="trap" class="trap" x="-896" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2233" name="trap" class="trap" x="-1024" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2234" name="trap" class="trap" x="-896" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2235" name="trap" class="trap" x="-1024" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2236" name="trap" class="trap" x="-768" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2237" name="trap" class="trap" x="-896" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2238" name="trap" class="trap" x="-640" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2239" name="trap" class="trap" x="-512" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2240" name="trap" class="trap" x="-640" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2241" name="trap" class="trap" x="-384" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2242" name="trap" class="trap" x="-512" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2243" name="trap" class="trap" x="-384" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2244" name="trap" class="trap" x="-384" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2245" name="trap" class="trap" x="-256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2246" name="trap" class="trap" x="-512" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2247" name="trap" class="trap" x="-384" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2248" name="trap" class="trap" x="-256" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2249" name="trap" class="trap" x="-128" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2250" name="trap" class="trap" x="-128" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2251" name="trap" class="trap" x="0" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2252" name="trap" class="trap" x="128" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2253" name="trap" class="trap" x="256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2254" name="trap" class="trap" x="128" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2255" name="trap" class="trap" x="256" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2256" name="trap" class="trap" x="384" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2257" name="trap" class="trap" x="512" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2258" name="trap" class="trap" x="640" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2259" name="trap" class="trap" x="768" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2260" name="trap" class="trap" x="768" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2261" name="trap" class="trap" x="640" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2262" name="trap" class="trap" x="768" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2263" name="trap" class="trap" x="640" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2264" name="trap" class="trap" x="896" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2265" name="trap" class="trap" x="896" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2266" name="trap" class="trap" x="640" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2267" name="trap" class="trap" x="640" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2268" name="trap" class="trap" x="512" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2269" name="trap" class="trap" x="768" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2270" name="trap" class="trap" x="768" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2271" name="trap" class="trap" x="640" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2272" name="trap" class="trap" x="896" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2273" name="trap" class="trap" x="1024" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2274" name="trap" class="trap" x="896" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2275" name="trap" class="trap" x="-640" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2156" name="main" class="spiderchest" x="0" y="0" width="128" height="128"/>
+  <object id="2157" name="giftbox" class="giftbox" x="-128" y="128" width="128" height="128"/>
+  <object id="2158" name="giftbox" class="giftbox" x="128" y="-128" width="128" height="128"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="3507">
+ <objectgroup id="1" name="floors">
+  <object id="3272" name="decorativefloorchristmas4" class="decorativefloorchristmas4" x="-256" y="-256" width="128" height="128"/>
+  <object id="3273" name="decorativefloorchristmas4" class="decorativefloorchristmas4" x="-128" y="-128" width="128" height="128"/>
+  <object id="3274" name="decorativefloorchristmas4" class="decorativefloorchristmas4" x="0" y="0" width="128" height="128"/>
+  <object id="3275" name="decorativefloorchristmas4" class="decorativefloorchristmas4" x="128" y="128" width="128" height="128"/>
+  <object id="3276" name="decorativefloorchristmas4" class="decorativefloorchristmas4" x="256" y="256" width="128" height="128"/>
+  <object id="3277" name="decorativefloorchristmas4" class="decorativefloorchristmas4" x="-256" y="256" width="128" height="128"/>
+  <object id="3278" name="decorativefloorchristmas4" class="decorativefloorchristmas4" x="256" y="-256" width="128" height="128"/>
+  <object id="3279" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-256" y="128" width="128" height="128"/>
+  <object id="3280" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-128" y="256" width="128" height="128"/>
+  <object id="3281" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="128" y="-256" width="128" height="128"/>
+  <object id="3282" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="256" y="-128" width="128" height="128"/>
+  <object id="3287" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-256" y="0" width="128" height="128"/>
+  <object id="3288" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-128" y="128" width="128" height="128"/>
+  <object id="3289" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="0" y="256" width="128" height="128"/>
+  <object id="3290" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="0" y="-256" width="128" height="128"/>
+  <object id="3291" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="128" y="-128" width="128" height="128"/>
+  <object id="3292" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="256" y="0" width="128" height="128"/>
+  <object id="3293" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-256" y="-128" width="128" height="128"/>
+  <object id="3294" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-128" y="0" width="128" height="128"/>
+  <object id="3295" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="0" y="128" width="128" height="128"/>
+  <object id="3296" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="128" y="256" width="128" height="128"/>
+  <object id="3297" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="256" y="128" width="128" height="128"/>
+  <object id="3298" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="128" y="0" width="128" height="128"/>
+  <object id="3299" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="0" y="-128" width="128" height="128"/>
+  <object id="3300" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-128" y="-256" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="walls">
+  <object id="2987" name="diamondwall" class="diamondwall" x="-384" y="-384" width="128" height="128"/>
+  <object id="2988" name="diamondwall" class="diamondwall" x="384" y="384" width="128" height="128"/>
+  <object id="2989" name="diamondwall" class="diamondwall" x="384" y="256" width="128" height="128"/>
+  <object id="2990" name="diamondwall" class="diamondwall" x="384" y="128" width="128" height="128"/>
+  <object id="2991" name="diamondwall" class="diamondwall" x="384" y="0" width="128" height="128"/>
+  <object id="2992" name="diamondwall" class="diamondwall" x="384" y="-128" width="128" height="128"/>
+  <object id="2993" name="diamondwall" class="diamondwall" x="384" y="-256" width="128" height="128"/>
+  <object id="2994" name="diamondwall" class="diamondwall" x="384" y="-384" width="128" height="128"/>
+  <object id="2995" name="diamondwall" class="diamondwall" x="256" y="-384" width="128" height="128"/>
+  <object id="2996" name="diamondwall" class="diamondwall" x="128" y="-384" width="128" height="128"/>
+  <object id="2997" name="diamondwall" class="diamondwall" x="0" y="-384" width="128" height="128"/>
+  <object id="2998" name="diamondwall" class="diamondwall" x="-128" y="-384" width="128" height="128"/>
+  <object id="2999" name="diamondwall" class="diamondwall" x="-256" y="-384" width="128" height="128"/>
+  <object id="3000" name="diamondwall" class="diamondwall" x="-384" y="-256" width="128" height="128"/>
+  <object id="3001" name="diamondwall" class="diamondwall" x="-384" y="-128" width="128" height="128"/>
+  <object id="3002" name="diamondwall" class="diamondwall" x="-384" y="0" width="128" height="128"/>
+  <object id="3003" name="diamondwall" class="diamondwall" x="-384" y="128" width="128" height="128"/>
+  <object id="3004" name="diamondwall" class="diamondwall" x="-384" y="256" width="128" height="128"/>
+  <object id="3005" name="diamondwall" class="diamondwall" x="-384" y="384" width="128" height="128"/>
+  <object id="3006" name="diamondwall" class="diamondwall" x="-256" y="384" width="128" height="128"/>
+  <object id="3007" name="diamondwall" class="diamondwall" x="-128" y="384" width="128" height="128"/>
+  <object id="3008" name="diamondwall" class="diamondwall" x="0" y="384" width="128" height="128"/>
+  <object id="3009" name="diamondwall" class="diamondwall" x="128" y="384" width="128" height="128"/>
+  <object id="3010" name="diamondwall" class="diamondwall" x="256" y="384" width="128" height="128"/>
+  <object id="3011" name="diamondwall" class="diamondwall" x="-512" y="-384" width="128" height="128"/>
+  <object id="3012" name="diamondwall" class="diamondwall" x="-384" y="-512" width="128" height="128"/>
+  <object id="3013" name="diamondwall" class="diamondwall" x="-128" y="-512" width="128" height="128"/>
+  <object id="3014" name="diamondwall" class="diamondwall" x="128" y="-512" width="128" height="128"/>
+  <object id="3015" name="diamondwall" class="diamondwall" x="384" y="-512" width="128" height="128"/>
+  <object id="3016" name="diamondwall" class="diamondwall" x="512" y="-384" width="128" height="128"/>
+  <object id="3017" name="diamondwall" class="diamondwall" x="512" y="-128" width="128" height="128"/>
+  <object id="3018" name="diamondwall" class="diamondwall" x="512" y="128" width="128" height="128"/>
+  <object id="3019" name="diamondwall" class="diamondwall" x="512" y="384" width="128" height="128"/>
+  <object id="3020" name="diamondwall" class="diamondwall" x="384" y="512" width="128" height="128"/>
+  <object id="3021" name="diamondwall" class="diamondwall" x="128" y="512" width="128" height="128"/>
+  <object id="3022" name="diamondwall" class="diamondwall" x="-128" y="512" width="128" height="128"/>
+  <object id="3023" name="diamondwall" class="diamondwall" x="-384" y="512" width="128" height="128"/>
+  <object id="3024" name="diamondwall" class="diamondwall" x="-512" y="384" width="128" height="128"/>
+  <object id="3025" name="diamondwall" class="diamondwall" x="-512" y="128" width="128" height="128"/>
+  <object id="3026" name="diamondwall" class="diamondwall" x="-512" y="-128" width="128" height="128"/>
+  <object id="3027" name="reflectwall" class="reflectwall" x="-512" y="-256" width="128" height="128"/>
+  <object id="3029" name="reflectwall" class="reflectwall" x="-512" y="-512" width="128" height="128"/>
+  <object id="3030" name="reflectwall" class="reflectwall" x="-256" y="-512" width="128" height="128"/>
+  <object id="3031" name="reflectwall" class="reflectwall" x="0" y="-512" width="128" height="128"/>
+  <object id="3032" name="reflectwall" class="reflectwall" x="256" y="-512" width="128" height="128"/>
+  <object id="3033" name="reflectwall" class="reflectwall" x="512" y="-512" width="128" height="128"/>
+  <object id="3034" name="reflectwall" class="reflectwall" x="512" y="-256" width="128" height="128"/>
+  <object id="3035" name="reflectwall" class="reflectwall" x="512" y="0" width="128" height="128"/>
+  <object id="3036" name="reflectwall" class="reflectwall" x="512" y="256" width="128" height="128"/>
+  <object id="3037" name="reflectwall" class="reflectwall" x="512" y="512" width="128" height="128"/>
+  <object id="3038" name="reflectwall" class="reflectwall" x="256" y="512" width="128" height="128"/>
+  <object id="3039" name="reflectwall" class="reflectwall" x="0" y="512" width="128" height="128"/>
+  <object id="3040" name="reflectwall" class="reflectwall" x="-256" y="512" width="128" height="128"/>
+  <object id="3041" name="reflectwall" class="reflectwall" x="-512" y="512" width="128" height="128"/>
+  <object id="3042" name="reflectwall" class="reflectwall" x="-512" y="256" width="128" height="128"/>
+  <object id="3043" name="reflectwall" class="reflectwall" x="-512" y="0" width="128" height="128"/>
+  <object id="3044" name="diamondwall" class="diamondwall" x="-640" y="-256" width="128" height="128"/>
+  <object id="3045" name="diamondwall" class="diamondwall" x="-640" y="0" width="128" height="128"/>
+  <object id="3046" name="diamondwall" class="diamondwall" x="-640" y="256" width="128" height="128"/>
+  <object id="3047" name="diamondwall" class="diamondwall" x="-640" y="512" width="128" height="128"/>
+  <object id="3048" name="diamondwall" class="diamondwall" x="-512" y="640" width="128" height="128"/>
+  <object id="3049" name="diamondwall" class="diamondwall" x="-256" y="640" width="128" height="128"/>
+  <object id="3050" name="diamondwall" class="diamondwall" x="0" y="640" width="128" height="128"/>
+  <object id="3051" name="diamondwall" class="diamondwall" x="256" y="640" width="128" height="128"/>
+  <object id="3052" name="diamondwall" class="diamondwall" x="512" y="640" width="128" height="128"/>
+  <object id="3053" name="diamondwall" class="diamondwall" x="640" y="512" width="128" height="128"/>
+  <object id="3054" name="diamondwall" class="diamondwall" x="640" y="256" width="128" height="128"/>
+  <object id="3055" name="diamondwall" class="diamondwall" x="640" y="0" width="128" height="128"/>
+  <object id="3056" name="diamondwall" class="diamondwall" x="640" y="-256" width="128" height="128"/>
+  <object id="3057" name="diamondwall" class="diamondwall" x="640" y="-512" width="128" height="128"/>
+  <object id="3058" name="diamondwall" class="diamondwall" x="512" y="-640" width="128" height="128"/>
+  <object id="3059" name="diamondwall" class="diamondwall" x="256" y="-640" width="128" height="128"/>
+  <object id="3060" name="diamondwall" class="diamondwall" x="-256" y="-640" width="128" height="128"/>
+  <object id="3061" name="diamondwall" class="diamondwall" x="0" y="-640" width="128" height="128"/>
+  <object id="3062" name="diamondwall" class="diamondwall" x="-512" y="-640" width="128" height="128"/>
+  <object id="3063" name="diamondwall" class="diamondwall" x="-640" y="-512" width="128" height="128"/>
+  <object id="3064" name="reflectwall" class="reflectwall" x="-640" y="-384" width="128" height="128"/>
+  <object id="3065" name="reflectwall" class="reflectwall" x="-640" y="-640" width="128" height="128"/>
+  <object id="3066" name="reflectwall" class="reflectwall" x="-384" y="-640" width="128" height="128"/>
+  <object id="3067" name="reflectwall" class="reflectwall" x="-128" y="-640" width="128" height="128"/>
+  <object id="3068" name="reflectwall" class="reflectwall" x="128" y="-640" width="128" height="128"/>
+  <object id="3069" name="reflectwall" class="reflectwall" x="384" y="-640" width="128" height="128"/>
+  <object id="3070" name="reflectwall" class="reflectwall" x="640" y="-640" width="128" height="128"/>
+  <object id="3071" name="reflectwall" class="reflectwall" x="640" y="-384" width="128" height="128"/>
+  <object id="3072" name="reflectwall" class="reflectwall" x="640" y="-128" width="128" height="128"/>
+  <object id="3073" name="reflectwall" class="reflectwall" x="640" y="128" width="128" height="128"/>
+  <object id="3074" name="reflectwall" class="reflectwall" x="640" y="384" width="128" height="128"/>
+  <object id="3075" name="reflectwall" class="reflectwall" x="640" y="640" width="128" height="128"/>
+  <object id="3076" name="reflectwall" class="reflectwall" x="384" y="640" width="128" height="128"/>
+  <object id="3077" name="reflectwall" class="reflectwall" x="128" y="640" width="128" height="128"/>
+  <object id="3078" name="reflectwall" class="reflectwall" x="-128" y="640" width="128" height="128"/>
+  <object id="3079" name="reflectwall" class="reflectwall" x="-384" y="640" width="128" height="128"/>
+  <object id="3080" name="reflectwall" class="reflectwall" x="-640" y="640" width="128" height="128"/>
+  <object id="3081" name="reflectwall" class="reflectwall" x="-640" y="384" width="128" height="128"/>
+  <object id="3082" name="reflectwall" class="reflectwall" x="-640" y="128" width="128" height="128"/>
+  <object id="3083" name="reflectwall" class="reflectwall" x="-640" y="-128" width="128" height="128"/>
+  <object id="3084" name="diamondwall" class="diamondwall" x="-768" y="-128" width="128" height="128"/>
+  <object id="3085" name="diamondwall" class="diamondwall" x="-768" y="128" width="128" height="128"/>
+  <object id="3086" name="diamondwall" class="diamondwall" x="-768" y="384" width="128" height="128"/>
+  <object id="3087" name="diamondwall" class="diamondwall" x="-768" y="640" width="128" height="128"/>
+  <object id="3088" name="diamondwall" class="diamondwall" x="-640" y="768" width="128" height="128"/>
+  <object id="3089" name="diamondwall" class="diamondwall" x="-384" y="768" width="128" height="128"/>
+  <object id="3090" name="diamondwall" class="diamondwall" x="-128" y="768" width="128" height="128"/>
+  <object id="3091" name="diamondwall" class="diamondwall" x="128" y="768" width="128" height="128"/>
+  <object id="3092" name="diamondwall" class="diamondwall" x="384" y="768" width="128" height="128"/>
+  <object id="3093" name="diamondwall" class="diamondwall" x="640" y="768" width="128" height="128"/>
+  <object id="3094" name="diamondwall" class="diamondwall" x="768" y="640" width="128" height="128"/>
+  <object id="3095" name="diamondwall" class="diamondwall" x="768" y="384" width="128" height="128"/>
+  <object id="3096" name="diamondwall" class="diamondwall" x="768" y="128" width="128" height="128"/>
+  <object id="3097" name="diamondwall" class="diamondwall" x="768" y="-128" width="128" height="128"/>
+  <object id="3098" name="diamondwall" class="diamondwall" x="768" y="-384" width="128" height="128"/>
+  <object id="3099" name="diamondwall" class="diamondwall" x="768" y="-640" width="128" height="128"/>
+  <object id="3101" name="diamondwall" class="diamondwall" x="640" y="-768" width="128" height="128"/>
+  <object id="3102" name="diamondwall" class="diamondwall" x="384" y="-768" width="128" height="128"/>
+  <object id="3103" name="diamondwall" class="diamondwall" x="128" y="-768" width="128" height="128"/>
+  <object id="3104" name="diamondwall" class="diamondwall" x="-128" y="-768" width="128" height="128"/>
+  <object id="3105" name="diamondwall" class="diamondwall" x="-384" y="-768" width="128" height="128"/>
+  <object id="3106" name="diamondwall" class="diamondwall" x="-640" y="-768" width="128" height="128"/>
+  <object id="3107" name="diamondwall" class="diamondwall" x="-768" y="-640" width="128" height="128"/>
+  <object id="3108" name="diamondwall" class="diamondwall" x="-768" y="-384" width="128" height="128"/>
+  <object id="3109" name="reflectwall" class="reflectwall" x="-768" y="-256" width="128" height="128"/>
+  <object id="3110" name="reflectwall" class="reflectwall" x="-768" y="-512" width="128" height="128"/>
+  <object id="3111" name="reflectwall" class="reflectwall" x="-768" y="-768" width="128" height="128"/>
+  <object id="3112" name="reflectwall" class="reflectwall" x="-512" y="-768" width="128" height="128"/>
+  <object id="3113" name="reflectwall" class="reflectwall" x="-256" y="-768" width="128" height="128"/>
+  <object id="3114" name="reflectwall" class="reflectwall" x="0" y="-768" width="128" height="128"/>
+  <object id="3115" name="reflectwall" class="reflectwall" x="256" y="-768" width="128" height="128"/>
+  <object id="3116" name="reflectwall" class="reflectwall" x="512" y="-768" width="128" height="128"/>
+  <object id="3117" name="reflectwall" class="reflectwall" x="768" y="-768" width="128" height="128"/>
+  <object id="3118" name="reflectwall" class="reflectwall" x="768" y="-512" width="128" height="128"/>
+  <object id="3119" name="reflectwall" class="reflectwall" x="768" y="-256" width="128" height="128"/>
+  <object id="3120" name="reflectwall" class="reflectwall" x="768" y="0" width="128" height="128"/>
+  <object id="3121" name="reflectwall" class="reflectwall" x="768" y="256" width="128" height="128"/>
+  <object id="3122" name="reflectwall" class="reflectwall" x="768" y="512" width="128" height="128"/>
+  <object id="3123" name="reflectwall" class="reflectwall" x="768" y="768" width="128" height="128"/>
+  <object id="3124" name="reflectwall" class="reflectwall" x="512" y="768" width="128" height="128"/>
+  <object id="3125" name="reflectwall" class="reflectwall" x="256" y="768" width="128" height="128"/>
+  <object id="3126" name="reflectwall" class="reflectwall" x="0" y="768" width="128" height="128"/>
+  <object id="3127" name="reflectwall" class="reflectwall" x="-256" y="768" width="128" height="128"/>
+  <object id="3128" name="reflectwall" class="reflectwall" x="-512" y="768" width="128" height="128"/>
+  <object id="3129" name="reflectwall" class="reflectwall" x="-768" y="768" width="128" height="128"/>
+  <object id="3130" name="reflectwall" class="reflectwall" x="-768" y="512" width="128" height="128"/>
+  <object id="3131" name="reflectwall" class="reflectwall" x="-768" y="256" width="128" height="128"/>
+  <object id="3132" name="reflectwall" class="reflectwall" x="-768" y="0" width="128" height="128"/>
+  <object id="3133" name="reflectwall" class="reflectwall" x="-896" y="128" width="128" height="128"/>
+  <object id="3134" name="reflectwall" class="reflectwall" x="-896" y="0" width="128" height="128"/>
+  <object id="3135" name="reflectwall" class="reflectwall" x="-896" y="-128" width="128" height="128"/>
+  <object id="3136" name="reflectwall" class="reflectwall" x="-896" y="-256" width="128" height="128"/>
+  <object id="3137" name="reflectwall" class="reflectwall" x="-896" y="-384" width="128" height="128"/>
+  <object id="3138" name="reflectwall" class="reflectwall" x="-896" y="-512" width="128" height="128"/>
+  <object id="3139" name="reflectwall" class="reflectwall" x="-896" y="-640" width="128" height="128"/>
+  <object id="3140" name="reflectwall" class="reflectwall" x="-896" y="-768" width="128" height="128"/>
+  <object id="3141" name="reflectwall" class="reflectwall" x="-896" y="-896" width="128" height="128"/>
+  <object id="3142" name="reflectwall" class="reflectwall" x="-768" y="-896" width="128" height="128"/>
+  <object id="3143" name="reflectwall" class="reflectwall" x="-640" y="-896" width="128" height="128"/>
+  <object id="3144" name="reflectwall" class="reflectwall" x="-512" y="-896" width="128" height="128"/>
+  <object id="3145" name="reflectwall" class="reflectwall" x="-384" y="-896" width="128" height="128"/>
+  <object id="3146" name="reflectwall" class="reflectwall" x="-256" y="-896" width="128" height="128"/>
+  <object id="3147" name="reflectwall" class="reflectwall" x="-128" y="-896" width="128" height="128"/>
+  <object id="3148" name="reflectwall" class="reflectwall" x="0" y="-896" width="128" height="128"/>
+  <object id="3149" name="reflectwall" class="reflectwall" x="128" y="-896" width="128" height="128"/>
+  <object id="3150" name="reflectwall" class="reflectwall" x="256" y="-896" width="128" height="128"/>
+  <object id="3151" name="reflectwall" class="reflectwall" x="384" y="-896" width="128" height="128"/>
+  <object id="3152" name="reflectwall" class="reflectwall" x="512" y="-896" width="128" height="128"/>
+  <object id="3153" name="reflectwall" class="reflectwall" x="640" y="-896" width="128" height="128"/>
+  <object id="3154" name="reflectwall" class="reflectwall" x="768" y="-896" width="128" height="128"/>
+  <object id="3155" name="reflectwall" class="reflectwall" x="896" y="-896" width="128" height="128"/>
+  <object id="3156" name="reflectwall" class="reflectwall" x="896" y="-768" width="128" height="128"/>
+  <object id="3157" name="reflectwall" class="reflectwall" x="896" y="-640" width="128" height="128"/>
+  <object id="3158" name="reflectwall" class="reflectwall" x="896" y="-512" width="128" height="128"/>
+  <object id="3159" name="reflectwall" class="reflectwall" x="896" y="-384" width="128" height="128"/>
+  <object id="3160" name="reflectwall" class="reflectwall" x="896" y="-256" width="128" height="128"/>
+  <object id="3161" name="reflectwall" class="reflectwall" x="896" y="-128" width="128" height="128"/>
+  <object id="3162" name="reflectwall" class="reflectwall" x="896" y="0" width="128" height="128"/>
+  <object id="3163" name="reflectwall" class="reflectwall" x="896" y="128" width="128" height="128"/>
+  <object id="3164" name="reflectwall" class="reflectwall" x="896" y="256" width="128" height="128"/>
+  <object id="3165" name="reflectwall" class="reflectwall" x="896" y="384" width="128" height="128"/>
+  <object id="3166" name="reflectwall" class="reflectwall" x="896" y="512" width="128" height="128"/>
+  <object id="3167" name="reflectwall" class="reflectwall" x="896" y="640" width="128" height="128"/>
+  <object id="3168" name="reflectwall" class="reflectwall" x="896" y="768" width="128" height="128"/>
+  <object id="3169" name="reflectwall" class="reflectwall" x="896" y="896" width="128" height="128"/>
+  <object id="3170" name="reflectwall" class="reflectwall" x="768" y="896" width="128" height="128"/>
+  <object id="3171" name="reflectwall" class="reflectwall" x="640" y="896" width="128" height="128"/>
+  <object id="3172" name="reflectwall" class="reflectwall" x="512" y="896" width="128" height="128"/>
+  <object id="3173" name="reflectwall" class="reflectwall" x="384" y="896" width="128" height="128"/>
+  <object id="3174" name="reflectwall" class="reflectwall" x="256" y="896" width="128" height="128"/>
+  <object id="3175" name="reflectwall" class="reflectwall" x="128" y="896" width="128" height="128"/>
+  <object id="3176" name="reflectwall" class="reflectwall" x="0" y="896" width="128" height="128"/>
+  <object id="3177" name="reflectwall" class="reflectwall" x="-128" y="896" width="128" height="128"/>
+  <object id="3178" name="reflectwall" class="reflectwall" x="-256" y="896" width="128" height="128"/>
+  <object id="3179" name="reflectwall" class="reflectwall" x="-384" y="896" width="128" height="128"/>
+  <object id="3180" name="reflectwall" class="reflectwall" x="-512" y="896" width="128" height="128"/>
+  <object id="3181" name="reflectwall" class="reflectwall" x="-640" y="896" width="128" height="128"/>
+  <object id="3182" name="reflectwall" class="reflectwall" x="-768" y="896" width="128" height="128"/>
+  <object id="3183" name="reflectwall" class="reflectwall" x="-896" y="896" width="128" height="128"/>
+  <object id="3184" name="reflectwall" class="reflectwall" x="-896" y="768" width="128" height="128"/>
+  <object id="3185" name="reflectwall" class="reflectwall" x="-896" y="640" width="128" height="128"/>
+  <object id="3186" name="reflectwall" class="reflectwall" x="-896" y="512" width="128" height="128"/>
+  <object id="3187" name="reflectwall" class="reflectwall" x="-896" y="384" width="128" height="128"/>
+  <object id="3188" name="reflectwall" class="reflectwall" x="-896" y="256" width="128" height="128"/>
+  <object id="3189" name="diamondwall" class="diamondwall" x="256" y="-1024" width="128" height="128"/>
+  <object id="3190" name="diamondwall" class="diamondwall" x="128" y="-1024" width="128" height="128"/>
+  <object id="3191" name="diamondwall" class="diamondwall" x="0" y="-1024" width="128" height="128"/>
+  <object id="3192" name="diamondwall" class="diamondwall" x="-128" y="-1024" width="128" height="128"/>
+  <object id="3193" name="diamondwall" class="diamondwall" x="-256" y="-1024" width="128" height="128"/>
+  <object id="3194" name="diamondwall" class="diamondwall" x="896" y="-1024" width="128" height="128"/>
+  <object id="3195" name="diamondwall" class="diamondwall" x="768" y="-1024" width="128" height="128"/>
+  <object id="3196" name="diamondwall" class="diamondwall" x="640" y="-1024" width="128" height="128"/>
+  <object id="3197" name="diamondwall" class="diamondwall" x="512" y="-1024" width="128" height="128"/>
+  <object id="3198" name="diamondwall" class="diamondwall" x="384" y="-1024" width="128" height="128"/>
+  <object id="3199" name="diamondwall" class="diamondwall" x="-384" y="-1024" width="128" height="128"/>
+  <object id="3200" name="diamondwall" class="diamondwall" x="-512" y="-1024" width="128" height="128"/>
+  <object id="3201" name="diamondwall" class="diamondwall" x="-640" y="-1024" width="128" height="128"/>
+  <object id="3202" name="diamondwall" class="diamondwall" x="-768" y="-1024" width="128" height="128"/>
+  <object id="3203" name="diamondwall" class="diamondwall" x="-896" y="-1024" width="128" height="128"/>
+  <object id="3204" name="diamondwall" class="diamondwall" x="-1024" y="-896" width="128" height="128"/>
+  <object id="3205" name="diamondwall" class="diamondwall" x="-1024" y="-768" width="128" height="128"/>
+  <object id="3206" name="diamondwall" class="diamondwall" x="-1024" y="-640" width="128" height="128"/>
+  <object id="3207" name="diamondwall" class="diamondwall" x="-1024" y="-512" width="128" height="128"/>
+  <object id="3208" name="diamondwall" class="diamondwall" x="-1024" y="-384" width="128" height="128"/>
+  <object id="3209" name="diamondwall" class="diamondwall" x="-1024" y="-256" width="128" height="128"/>
+  <object id="3210" name="diamondwall" class="diamondwall" x="-1024" y="-128" width="128" height="128"/>
+  <object id="3211" name="diamondwall" class="diamondwall" x="-1024" y="0" width="128" height="128"/>
+  <object id="3212" name="diamondwall" class="diamondwall" x="-1024" y="128" width="128" height="128"/>
+  <object id="3213" name="diamondwall" class="diamondwall" x="-1024" y="256" width="128" height="128"/>
+  <object id="3214" name="diamondwall" class="diamondwall" x="-1024" y="384" width="128" height="128"/>
+  <object id="3215" name="diamondwall" class="diamondwall" x="-1024" y="512" width="128" height="128"/>
+  <object id="3216" name="diamondwall" class="diamondwall" x="-1024" y="640" width="128" height="128"/>
+  <object id="3217" name="diamondwall" class="diamondwall" x="-1024" y="768" width="128" height="128"/>
+  <object id="3218" name="diamondwall" class="diamondwall" x="-1024" y="896" width="128" height="128"/>
+  <object id="3220" name="diamondwall" class="diamondwall" x="-896" y="1024" width="128" height="128"/>
+  <object id="3221" name="diamondwall" class="diamondwall" x="-768" y="1024" width="128" height="128"/>
+  <object id="3222" name="diamondwall" class="diamondwall" x="-640" y="1024" width="128" height="128"/>
+  <object id="3223" name="diamondwall" class="diamondwall" x="-512" y="1024" width="128" height="128"/>
+  <object id="3224" name="diamondwall" class="diamondwall" x="-384" y="1024" width="128" height="128"/>
+  <object id="3225" name="diamondwall" class="diamondwall" x="-256" y="1024" width="128" height="128"/>
+  <object id="3226" name="diamondwall" class="diamondwall" x="-128" y="1024" width="128" height="128"/>
+  <object id="3227" name="diamondwall" class="diamondwall" x="0" y="1024" width="128" height="128"/>
+  <object id="3228" name="diamondwall" class="diamondwall" x="128" y="1024" width="128" height="128"/>
+  <object id="3229" name="diamondwall" class="diamondwall" x="256" y="1024" width="128" height="128"/>
+  <object id="3230" name="diamondwall" class="diamondwall" x="384" y="1024" width="128" height="128"/>
+  <object id="3231" name="diamondwall" class="diamondwall" x="512" y="1024" width="128" height="128"/>
+  <object id="3232" name="diamondwall" class="diamondwall" x="640" y="1024" width="128" height="128"/>
+  <object id="3233" name="diamondwall" class="diamondwall" x="768" y="1024" width="128" height="128"/>
+  <object id="3234" name="diamondwall" class="diamondwall" x="896" y="1024" width="128" height="128"/>
+  <object id="3235" name="diamondwall" class="diamondwall" x="1024" y="896" width="128" height="128"/>
+  <object id="3236" name="diamondwall" class="diamondwall" x="1024" y="768" width="128" height="128"/>
+  <object id="3237" name="diamondwall" class="diamondwall" x="1024" y="640" width="128" height="128"/>
+  <object id="3238" name="diamondwall" class="diamondwall" x="1024" y="512" width="128" height="128"/>
+  <object id="3239" name="diamondwall" class="diamondwall" x="1024" y="384" width="128" height="128"/>
+  <object id="3240" name="diamondwall" class="diamondwall" x="1024" y="256" width="128" height="128"/>
+  <object id="3241" name="diamondwall" class="diamondwall" x="1024" y="128" width="128" height="128"/>
+  <object id="3242" name="diamondwall" class="diamondwall" x="1024" y="0" width="128" height="128"/>
+  <object id="3243" name="diamondwall" class="diamondwall" x="1024" y="-128" width="128" height="128"/>
+  <object id="3244" name="diamondwall" class="diamondwall" x="1024" y="-256" width="128" height="128"/>
+  <object id="3245" name="diamondwall" class="diamondwall" x="1024" y="-384" width="128" height="128"/>
+  <object id="3246" name="diamondwall" class="diamondwall" x="1024" y="-512" width="128" height="128"/>
+  <object id="3247" name="diamondwall" class="diamondwall" x="1024" y="-640" width="128" height="128"/>
+  <object id="3248" name="diamondwall" class="diamondwall" x="1024" y="-768" width="128" height="128"/>
+  <object id="3249" name="diamondwall" class="diamondwall" x="1024" y="-896" width="128" height="128"/>
+  <object id="3250" name="diamondwall" class="diamondwall" x="1024" y="-1024" width="128" height="128"/>
+  <object id="3251" name="diamondwall" class="diamondwall" x="-1024" y="-1024" width="128" height="128"/>
+  <object id="3252" name="diamondwall" class="diamondwall" x="-1024" y="1024" width="128" height="128"/>
+  <object id="3253" name="diamondwall" class="diamondwall" x="1024" y="1024" width="128" height="128"/>
+  <object id="3254" name="christmasgnome1" class="christmasgnome1" x="128" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3255" name="christmasgnome1" class="christmasgnome1" x="256" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3256" name="christmasgnome1" class="christmasgnome1" x="256" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3257" name="christmasgnome1" class="christmasgnome1" x="128" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3258" name="christmasgnome3" class="christmasgnome3" x="-128" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3259" name="christmasgnome1" class="christmasgnome1" x="-256" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3260" name="christmasgnome1" class="christmasgnome1" x="-256" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3261" name="christmasgnome1" class="christmasgnome1" x="-128" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3262" name="christmasgnome3" class="christmasgnome3" x="0" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3263" name="christmasgnome2" class="christmasgnome2" x="256" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3264" name="christmasgnome2" class="christmasgnome2" x="128" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3265" name="christmasgnome3" class="christmasgnome3" x="256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3266" name="christmasgnome2" class="christmasgnome2" x="256" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3267" name="christmasgnome2" class="christmasgnome2" x="0" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3268" name="christmasgnome2" class="christmasgnome2" x="-256" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3269" name="christmasgnome2" class="christmasgnome2" x="-128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3270" name="christmasgnome3" class="christmasgnome3" x="-256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3271" name="christmasgnome2" class="christmasgnome2" x="-256" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="towers"/>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="6" name="guards">
+  <object id="3302" name="santa" class="santa" x="1408" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3303" name="santa" class="santa" x="0" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3304" name="santa" class="santa" x="-1408" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3305" name="santa" class="santa" x="0" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3306" name="christmasdeer" class="christmasdeer" x="0" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3307" name="christmasdeer" class="christmasdeer" x="-128" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3308" name="christmasdeer" class="christmasdeer" x="-256" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3309" name="christmasdeer" class="christmasdeer" x="128" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3310" name="christmasdeer" class="christmasdeer" x="256" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3311" name="christmasdeer" class="christmasdeer" x="-1152" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3312" name="christmasdeer" class="christmasdeer" x="-1280" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3313" name="christmasdeer" class="christmasdeer" x="-1408" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3314" name="christmasdeer" class="christmasdeer" x="-1280" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3315" name="christmasdeer" class="christmasdeer" x="-1408" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3316" name="christmasdeer" class="christmasdeer" x="-1536" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3317" name="christmasdeer" class="christmasdeer" x="-1408" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3318" name="christmasdeer" class="christmasdeer" x="-1536" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3319" name="christmasdeer" class="christmasdeer" x="-1408" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3320" name="christmasdeer" class="christmasdeer" x="-1408" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3321" name="christmasdeer" class="christmasdeer" x="-1408" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3322" name="christmasdeer" class="christmasdeer" x="-1408" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3323" name="christmasdeer" class="christmasdeer" x="1536" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3324" name="christmasdeer" class="christmasdeer" x="1408" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3325" name="christmasdeer" class="christmasdeer" x="1408" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3326" name="christmasdeer" class="christmasdeer" x="1408" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3327" name="christmasdeer" class="christmasdeer" x="1408" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3328" name="christmasdeer" class="christmasdeer" x="0" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3329" name="christmasdeer" class="christmasdeer" x="128" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3330" name="christmasdeer" class="christmasdeer" x="256" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3331" name="christmasdeer" class="christmasdeer" x="-128" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3332" name="christmasdeer" class="christmasdeer" x="-256" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3333" name="christmasdeer" class="christmasdeer" x="1152" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3334" name="christmasdeer" class="christmasdeer" x="1280" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3335" name="christmasdeer" class="christmasdeer" x="1408" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3336" name="christmasdeer" class="christmasdeer" x="1408" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3337" name="christmasdeer" class="christmasdeer" x="1536" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3338" name="christmasdeer" class="christmasdeer" x="1408" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3339" name="christmasdeer" class="christmasdeer" x="1280" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3340" name="christmasdeer" class="christmasdeer" x="1152" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3341" name="christmasdeer" class="christmasdeer" x="1280" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3342" name="christmasdeer" class="christmasdeer" x="1408" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3343" name="christmasdeer" class="christmasdeer" x="1536" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3344" name="christmasdeer" class="christmasdeer" x="1408" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3345" name="christmasdeer" class="christmasdeer" x="1280" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3346" name="christmasdeer" class="christmasdeer" x="1408" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3347" name="christmasdeer" class="christmasdeer" x="-1152" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3348" name="christmasdeer" class="christmasdeer" x="-1280" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3349" name="christmasdeer" class="christmasdeer" x="-1408" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3350" name="christmasdeer" class="christmasdeer" x="-1408" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3351" name="christmasdeer" class="christmasdeer" x="-1408" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3352" name="christmasdeer" class="christmasdeer" x="-1536" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3353" name="christmasdeer" class="christmasdeer" x="-1280" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3354" name="christmasgnome1" class="christmasgnome1" x="-384" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3355" name="christmasgnome1" class="christmasgnome1" x="-256" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3356" name="christmasgnome1" class="christmasgnome1" x="-128" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3357" name="christmasgnome1" class="christmasgnome1" x="0" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3358" name="christmasgnome1" class="christmasgnome1" x="128" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3359" name="christmasgnome1" class="christmasgnome1" x="256" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3360" name="christmasgnome1" class="christmasgnome1" x="384" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3361" name="christmasgnome1" class="christmasgnome1" x="-1408" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3362" name="christmasgnome1" class="christmasgnome1" x="-1536" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3363" name="christmasgnome1" class="christmasgnome1" x="-1536" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3364" name="christmasgnome1" class="christmasgnome1" x="-1664" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3365" name="christmasgnome1" class="christmasgnome1" x="-1536" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3366" name="christmasgnome1" class="christmasgnome1" x="-1536" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3367" name="christmasgnome1" class="christmasgnome1" x="-1408" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3368" name="christmasgnome1" class="christmasgnome1" x="-384" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3369" name="christmasgnome1" class="christmasgnome1" x="128" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3370" name="christmasgnome1" class="christmasgnome1" x="-256" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3371" name="christmasgnome1" class="christmasgnome1" x="-128" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3372" name="christmasgnome1" class="christmasgnome1" x="0" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3373" name="christmasgnome1" class="christmasgnome1" x="256" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3374" name="christmasgnome1" class="christmasgnome1" x="384" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3375" name="christmasgnome1" class="christmasgnome1" x="1536" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3376" name="christmasgnome1" class="christmasgnome1" x="1408" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3377" name="christmasgnome1" class="christmasgnome1" x="1536" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3378" name="christmasgnome1" class="christmasgnome1" x="1664" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3379" name="christmasgnome1" class="christmasgnome1" x="1536" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3380" name="christmasgnome1" class="christmasgnome1" x="1536" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3381" name="christmasgnome1" class="christmasgnome1" x="1408" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3382" name="christmasgnome3" class="christmasgnome3" x="-1536" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3383" name="christmasgnome3" class="christmasgnome3" x="-1664" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3384" name="christmasgnome3" class="christmasgnome3" x="-1536" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3385" name="christmasgnome3" class="christmasgnome3" x="-1408" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3386" name="christmasgnome3" class="christmasgnome3" x="-1280" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3387" name="christmasgnome3" class="christmasgnome3" x="-1664" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3388" name="christmasgnome3" class="christmasgnome3" x="1152" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3389" name="christmasgnome3" class="christmasgnome3" x="1280" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3390" name="christmasgnome3" class="christmasgnome3" x="1408" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3391" name="christmasgnome3" class="christmasgnome3" x="1536" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3392" name="christmasgnome3" class="christmasgnome3" x="1664" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3393" name="christmasgnome3" class="christmasgnome3" x="1536" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3394" name="christmasgnome3" class="christmasgnome3" x="1408" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3395" name="christmasgnome3" class="christmasgnome3" x="-1152" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3396" name="christmasgnome3" class="christmasgnome3" x="-1408" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3397" name="christmasgnome3" class="christmasgnome3" x="1664" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3398" name="christmasgnome3" class="christmasgnome3" x="1408" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3399" name="christmasgnome3" class="christmasgnome3" x="1536" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3400" name="christmasgnome3" class="christmasgnome3" x="1664" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3401" name="christmasgnome3" class="christmasgnome3" x="1536" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3402" name="christmasgnome3" class="christmasgnome3" x="1664" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3403" name="christmasgnome3" class="christmasgnome3" x="1408" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3404" name="christmasgnome3" class="christmasgnome3" x="1280" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3405" name="christmasgnome3" class="christmasgnome3" x="1152" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3406" name="christmasgnome3" class="christmasgnome3" x="-1152" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3407" name="christmasgnome3" class="christmasgnome3" x="-1280" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3408" name="christmasgnome3" class="christmasgnome3" x="-1408" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3409" name="christmasgnome3" class="christmasgnome3" x="-1536" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3410" name="christmasgnome3" class="christmasgnome3" x="-1664" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3411" name="christmasgnome3" class="christmasgnome3" x="-1536" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3412" name="christmasgnome3" class="christmasgnome3" x="-1408" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3413" name="christmasgnome3" class="christmasgnome3" x="-1664" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3414" name="christmasgnome2" class="christmasgnome2" x="-1152" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3415" name="christmasgnome2" class="christmasgnome2" x="-1024" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3416" name="christmasgnome2" class="christmasgnome2" x="1024" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3417" name="christmasgnome2" class="christmasgnome2" x="1152" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3418" name="christmasgnome2" class="christmasgnome2" x="1152" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3419" name="christmasgnome2" class="christmasgnome2" x="1024" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3420" name="christmasgnome2" class="christmasgnome2" x="-1152" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3421" name="christmasgnome2" class="christmasgnome2" x="-1024" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3422" name="christmasgnome2" class="christmasgnome2" x="-1152" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3423" name="christmasgnome2" class="christmasgnome2" x="-1152" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3424" name="christmasgnome2" class="christmasgnome2" x="-1152" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3425" name="christmasgnome2" class="christmasgnome2" x="-128" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3426" name="christmasgnome2" class="christmasgnome2" x="0" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3427" name="christmasgnome2" class="christmasgnome2" x="128" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3428" name="christmasgnome2" class="christmasgnome2" x="-128" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3429" name="christmasgnome2" class="christmasgnome2" x="0" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3430" name="christmasgnome2" class="christmasgnome2" x="128" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3431" name="christmasgnome2" class="christmasgnome2" x="-640" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3432" name="christmasgnome2" class="christmasgnome2" x="-512" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3433" name="christmasgnome2" class="christmasgnome2" x="768" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3434" name="christmasgnome2" class="christmasgnome2" x="640" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3435" name="christmasgnome2" class="christmasgnome2" x="1152" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3436" name="christmasgnome2" class="christmasgnome2" x="1152" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3437" name="christmasgnome2" class="christmasgnome2" x="1152" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3438" name="christmasgnome2" class="christmasgnome2" x="1152" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3439" name="christmasgnome2" class="christmasgnome2" x="1152" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3440" name="christmasgnome2" class="christmasgnome2" x="-1152" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3441" name="christmasgnome2" class="christmasgnome2" x="-1152" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3442" name="christmasgnome2" class="christmasgnome2" x="-1152" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3443" name="christmasgnome2" class="christmasgnome2" x="512" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3444" name="christmasgnome2" class="christmasgnome2" x="-512" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3445" name="christmasgnome2" class="christmasgnome2" x="-1152" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3446" name="christmasdeer" class="christmasdeer" x="768" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3447" name="snowman" class="snowman" x="640" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3448" name="snowman" class="snowman" x="768" y="-1792" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3449" name="snowman" class="snowman" x="896" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3450" name="christmasdeer" class="christmasdeer" x="-768" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3451" name="snowman" class="snowman" x="-896" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3452" name="snowman" class="snowman" x="-768" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3453" name="snowman" class="snowman" x="-640" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3454" name="christmasdeer" class="christmasdeer" x="-1536" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3455" name="snowman" class="snowman" x="-1664" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3456" name="snowman" class="snowman" x="-1536" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3457" name="snowman" class="snowman" x="-1408" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3458" name="christmasdeer" class="christmasdeer" x="-1536" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3459" name="snowman" class="snowman" x="-1664" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3460" name="snowman" class="snowman" x="-1536" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3461" name="snowman" class="snowman" x="-1408" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3462" name="christmasdeer" class="christmasdeer" x="-768" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3463" name="snowman" class="snowman" x="-896" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3464" name="snowman" class="snowman" x="-768" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3465" name="snowman" class="snowman" x="-640" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3466" name="christmasdeer" class="christmasdeer" x="768" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3467" name="snowman" class="snowman" x="640" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3468" name="snowman" class="snowman" x="768" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3469" name="snowman" class="snowman" x="896" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3470" name="christmasdeer" class="christmasdeer" x="1536" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3471" name="snowman" class="snowman" x="1408" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3472" name="snowman" class="snowman" x="1536" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3473" name="snowman" class="snowman" x="1664" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3474" name="christmasdeer" class="christmasdeer" x="1408" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3475" name="snowman" class="snowman" x="1280" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3476" name="snowman" class="snowman" x="1408" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3477" name="snowman" class="snowman" x="1536" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3478" name="snowman" class="snowman" x="1664" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3479" name="snowman" class="snowman" x="1920" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3480" name="snowman" class="snowman" x="1920" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3481" name="snowman" class="snowman" x="2176" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3482" name="snowman" class="snowman" x="1792" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3483" name="snowman" class="snowman" x="1024" y="1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3484" name="snowman" class="snowman" x="0" y="1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3485" name="snowman" class="snowman" x="-640" y="1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3486" name="snowman" class="snowman" x="-1920" y="1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3487" name="snowman" class="snowman" x="-2048" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3488" name="snowman" class="snowman" x="-1920" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3489" name="snowman" class="snowman" x="-1920" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3490" name="snowman" class="snowman" x="-1920" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3491" name="snowman" class="snowman" x="-1792" y="-1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3492" name="snowman" class="snowman" x="-896" y="-2048" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3493" name="snowman" class="snowman" x="256" y="-2048" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3494" name="snowman" class="snowman" x="896" y="-2048" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3495" name="snowman" class="snowman" x="1664" y="-1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="3496" name="snowman" class="snowman" x="1920" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps"/>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2980" name="main" class="swampchest" x="0" y="0" width="128" height="128"/>
+  <object id="2981" name="giftbox" class="giftbox" x="0" y="-128" width="128" height="128"/>
+  <object id="2982" name="giftbox" class="giftbox" x="-128" y="-128" width="128" height="128"/>
+  <object id="2983" name="giftbox" class="giftbox" x="-128" y="0" width="128" height="128"/>
+  <object id="2984" name="giftbox" class="giftbox" x="128" y="128" width="128" height="128"/>
+  <object id="2985" name="giftbox" class="giftbox" x="0" y="128" width="128" height="128"/>
+  <object id="2986" name="giftbox" class="giftbox" x="128" y="0" width="128" height="128"/>
+  <object id="3497" name="giftbox" class="giftbox" x="128" y="0" width="128" height="128"/>
+  <object id="3498" name="giftbox" class="giftbox" x="0" y="-128" width="128" height="128"/>
+  <object id="3499" name="giftbox" class="giftbox" x="-128" y="0" width="128" height="128"/>
+  <object id="3500" name="giftbox" class="giftbox" x="0" y="128" width="128" height="128"/>
+  <object id="3501" name="giftbox" class="giftbox" x="128" y="0" width="128" height="128"/>
+  <object id="3502" name="giftbox" class="giftbox" x="-128" y="0" width="128" height="128"/>
+  <object id="3503" name="giftbox" class="giftbox" x="0" y="-128" width="128" height="128"/>
+  <object id="3504" name="giftbox" class="giftbox" x="0" y="128" width="128" height="128"/>
+  <object id="3505" name="giftbox" class="giftbox" x="0" y="-128" width="128" height="128"/>
+  <object id="3506" name="giftbox" class="giftbox" x="0" y="128" width="128" height="128"/>
+ </objectgroup>
+</map>

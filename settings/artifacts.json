@@ -1,0 +1,39 @@
+{
+    "artifacts": {
+        "max_active": 3,
+        "caps": {
+            "gatheryield": 1.25,
+            "coingain": 1.25,
+            "experience": 1.25,
+            "coindropchance": 1.25,
+            "durability": 1.25
+        },
+        "list": {
+            "prospectorstone": {
+                "effects": {
+                    "gatheryield": 1.05
+                }
+            },
+            "merchantseal": {
+                "effects": {
+                    "coingain": 1.05
+                }
+            },
+            "scholartome": {
+                "effects": {
+                    "experience": 1.05
+                }
+            },
+            "plunderersmark": {
+                "effects": {
+                    "coindropchance": 1.05
+                }
+            },
+            "whetstonerelic": {
+                "effects": {
+                    "durability": 1.05
+                }
+            }
+        }
+    }
+}

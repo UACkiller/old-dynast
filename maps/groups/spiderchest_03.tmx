@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="12" nextobjectid="2023">
+ <objectgroup id="2" name="walls">
+  <object id="296" name="deadwall" class="deadwall" x="-384" y="-384" width="128" height="128"/>
+  <object id="1753" name="deadwall" class="deadwall" x="-384" y="-256" width="128" height="128"/>
+  <object id="1754" name="deadwall" class="deadwall" x="-384" y="-128" width="128" height="128"/>
+  <object id="1755" name="deadwall" class="deadwall" x="-384" y="0" width="128" height="128"/>
+  <object id="1756" name="deadwall" class="deadwall" x="-256" y="0" width="128" height="128"/>
+  <object id="1757" name="deadwall" class="deadwall" x="-128" y="0" width="128" height="128"/>
+  <object id="1758" name="deadwall" class="deadwall" x="0" y="0" width="128" height="128"/>
+  <object id="1759" name="deadwall" class="deadwall" x="128" y="0" width="128" height="128"/>
+  <object id="1760" name="deadwall" class="deadwall" x="128" y="-128" width="128" height="128"/>
+  <object id="1761" name="deadwall" class="deadwall" x="128" y="-256" width="128" height="128"/>
+  <object id="1762" name="deadwall" class="deadwall" x="128" y="-384" width="128" height="128"/>
+  <object id="1763" name="deadwall" class="deadwall" x="128" y="-512" width="128" height="128"/>
+  <object id="1764" name="deadwall" class="deadwall" x="-128" y="-512" width="128" height="128"/>
+  <object id="1765" name="deadwall" class="deadwall" x="0" y="-512" width="128" height="128"/>
+  <object id="1766" name="deadwall" class="deadwall" x="-256" y="-512" width="128" height="128"/>
+  <object id="1767" name="deadwall" class="deadwall" x="-384" y="-512" width="128" height="128"/>
+  <object id="1822" name="deadwall" class="deadwall" x="-384" y="384" width="128" height="128"/>
+  <object id="1823" name="deadwall" class="deadwall" x="128" y="384" width="128" height="128"/>
+  <object id="1826" name="deadwall" class="deadwall" x="512" y="0" width="128" height="128"/>
+  <object id="1828" name="deadwall" class="deadwall" x="512" y="-512" width="128" height="128"/>
+  <object id="1830" name="deadwall" class="deadwall" x="-384" y="-896" width="128" height="128"/>
+  <object id="1832" name="deadwall" class="deadwall" x="128" y="-896" width="128" height="128"/>
+  <object id="1834" name="deadwall" class="deadwall" x="-768" y="-512" width="128" height="128"/>
+  <object id="1836" name="deadwall" class="deadwall" x="-768" y="0" width="128" height="128"/>
+  <object id="1838" name="deadwall" class="deadwall" x="-640" y="-512" width="128" height="128"/>
+  <object id="1839" name="deadwall" class="deadwall" x="-512" y="-512" width="128" height="128"/>
+  <object id="1840" name="deadwall" class="deadwall" x="-384" y="-640" width="128" height="128"/>
+  <object id="1841" name="deadwall" class="deadwall" x="-384" y="-768" width="128" height="128"/>
+  <object id="1842" name="deadwall" class="deadwall" x="128" y="-768" width="128" height="128"/>
+  <object id="1843" name="deadwall" class="deadwall" x="128" y="-640" width="128" height="128"/>
+  <object id="1844" name="deadwall" class="deadwall" x="256" y="-512" width="128" height="128"/>
+  <object id="1845" name="deadwall" class="deadwall" x="384" y="-512" width="128" height="128"/>
+  <object id="1846" name="deadwall" class="deadwall" x="384" y="0" width="128" height="128"/>
+  <object id="1847" name="deadwall" class="deadwall" x="256" y="0" width="128" height="128"/>
+  <object id="1848" name="deadwall" class="deadwall" x="128" y="128" width="128" height="128"/>
+  <object id="1849" name="deadwall" class="deadwall" x="128" y="256" width="128" height="128"/>
+  <object id="1850" name="deadwall" class="deadwall" x="-384" y="256" width="128" height="128"/>
+  <object id="1851" name="deadwall" class="deadwall" x="-384" y="128" width="128" height="128"/>
+  <object id="1852" name="deadwall" class="deadwall" x="-512" y="0" width="128" height="128"/>
+  <object id="1853" name="deadwall" class="deadwall" x="-640" y="0" width="128" height="128"/>
+  <object id="1887" name="reflectwall" class="reflectwall" x="0" y="512" width="128" height="128"/>
+  <object id="1888" name="reflectwall" class="reflectwall" x="-256" y="512" width="128" height="128"/>
+  <object id="1889" name="reflectwall" class="reflectwall" x="-896" y="-128" width="128" height="128"/>
+  <object id="1890" name="reflectwall" class="reflectwall" x="-896" y="-384" width="128" height="128"/>
+  <object id="1891" name="reflectwall" class="reflectwall" x="-128" y="-1024" width="128" height="128"/>
+  <object id="1892" name="reflectwall" class="reflectwall" x="0" y="-1024" width="128" height="128"/>
+  <object id="1893" name="reflectwall" class="reflectwall" x="640" y="-384" width="128" height="128"/>
+  <object id="1894" name="reflectwall" class="reflectwall" x="640" y="-128" width="128" height="128"/>
+  <object id="1951" name="reflectwall" class="reflectwall" x="128" y="-1024" width="128" height="128"/>
+  <object id="1952" name="reflectwall" class="reflectwall" x="-256" y="-1024" width="128" height="128"/>
+  <object id="1953" name="reflectwall" class="reflectwall" x="-384" y="-1024" width="128" height="128"/>
+  <object id="1954" name="reflectwall" class="reflectwall" x="640" y="-512" width="128" height="128"/>
+  <object id="1955" name="reflectwall" class="reflectwall" x="640" y="0" width="128" height="128"/>
+  <object id="1956" name="reflectwall" class="reflectwall" x="640" y="-256" width="128" height="128"/>
+  <object id="1957" name="reflectwall" class="reflectwall" x="-896" y="-256" width="128" height="128"/>
+  <object id="1958" name="reflectwall" class="reflectwall" x="-896" y="-512" width="128" height="128"/>
+  <object id="1959" name="reflectwall" class="reflectwall" x="-896" y="0" width="128" height="128"/>
+  <object id="1960" name="reflectwall" class="reflectwall" x="-384" y="512" width="128" height="128"/>
+  <object id="1961" name="reflectwall" class="reflectwall" x="-128" y="512" width="128" height="128"/>
+  <object id="1962" name="reflectwall" class="reflectwall" x="128" y="512" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="towers">
+  <object id="1818" name="spidertower" class="spidertower" x="-896" y="-1024" width="256" height="256"/>
+  <object id="1819" name="spidertower" class="spidertower" x="512" y="-1024" width="256" height="256"/>
+  <object id="1820" name="spidertower" class="spidertower" x="512" y="128" width="256" height="256"/>
+  <object id="1821" name="spidertower" class="spidertower" x="-896" y="128" width="256" height="256"/>
+  <object id="1901" name="spidertower" class="spidertower" x="-640" y="-1024" width="256" height="256"/>
+  <object id="1902" name="spidertower" class="spidertower" x="-896" y="-768" width="256" height="256"/>
+  <object id="1903" name="spidertower" class="spidertower" x="256" y="-1024" width="256" height="256"/>
+  <object id="1904" name="spidertower" class="spidertower" x="512" y="-768" width="256" height="256"/>
+  <object id="1905" name="spidertower" class="spidertower" x="512" y="384" width="256" height="256"/>
+  <object id="1906" name="spidertower" class="spidertower" x="256" y="384" width="256" height="256"/>
+  <object id="1907" name="spidertower" class="spidertower" x="-896" y="384" width="256" height="256"/>
+  <object id="1908" name="spidertower" class="spidertower" x="-640" y="384" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup id="4" name="platforms">
+  <object id="357" name="platform" class="platform" x="-256" y="-384" width="128" height="128"/>
+  <object id="1747" name="platform" class="platform" x="-256" y="-128" width="128" height="128"/>
+  <object id="1748" name="platform" class="platform" x="0" y="-128" width="128" height="128"/>
+  <object id="1749" name="platform" class="platform" x="0" y="-384" width="128" height="128"/>
+  <object id="1921" name="platform" class="platform" x="-640" y="128" width="128" height="128"/>
+  <object id="1922" name="platform" class="platform" x="-640" y="256" width="128" height="128"/>
+  <object id="1923" name="platform" class="platform" x="-512" y="256" width="128" height="128"/>
+  <object id="1924" name="platform" class="platform" x="256" y="256" width="128" height="128"/>
+  <object id="1925" name="platform" class="platform" x="384" y="256" width="128" height="128"/>
+  <object id="1926" name="platform" class="platform" x="384" y="128" width="128" height="128"/>
+  <object id="1927" name="platform" class="platform" x="256" y="-768" width="128" height="128"/>
+  <object id="1928" name="platform" class="platform" x="384" y="-768" width="128" height="128"/>
+  <object id="1929" name="platform" class="platform" x="384" y="-640" width="128" height="128"/>
+  <object id="1930" name="platform" class="platform" x="-512" y="-768" width="128" height="128"/>
+  <object id="1931" name="platform" class="platform" x="-640" y="-768" width="128" height="128"/>
+  <object id="1932" name="platform" class="platform" x="-640" y="-640" width="128" height="128"/>
+  <object id="1963" name="platform" class="platform" x="-256" y="256" width="128" height="128"/>
+  <object id="1964" name="platform" class="platform" x="-256" y="384" width="128" height="128"/>
+  <object id="1965" name="platform" class="platform" x="-128" y="384" width="128" height="128"/>
+  <object id="1966" name="platform" class="platform" x="0" y="384" width="128" height="128"/>
+  <object id="1967" name="platform" class="platform" x="0" y="256" width="128" height="128"/>
+  <object id="1968" name="platform" class="platform" x="-640" y="-384" width="128" height="128"/>
+  <object id="1969" name="platform" class="platform" x="-768" y="-384" width="128" height="128"/>
+  <object id="1970" name="platform" class="platform" x="-768" y="-256" width="128" height="128"/>
+  <object id="1971" name="platform" class="platform" x="-768" y="-128" width="128" height="128"/>
+  <object id="1972" name="platform" class="platform" x="-640" y="-128" width="128" height="128"/>
+  <object id="1973" name="platform" class="platform" x="-256" y="-768" width="128" height="128"/>
+  <object id="1974" name="platform" class="platform" x="-256" y="-896" width="128" height="128"/>
+  <object id="1975" name="platform" class="platform" x="-128" y="-896" width="128" height="128"/>
+  <object id="1976" name="platform" class="platform" x="0" y="-896" width="128" height="128"/>
+  <object id="1977" name="platform" class="platform" x="0" y="-768" width="128" height="128"/>
+  <object id="1978" name="platform" class="platform" x="384" y="-384" width="128" height="128"/>
+  <object id="1979" name="platform" class="platform" x="512" y="-384" width="128" height="128"/>
+  <object id="1980" name="platform" class="platform" x="512" y="-256" width="128" height="128"/>
+  <object id="1981" name="platform" class="platform" x="512" y="-128" width="128" height="128"/>
+  <object id="1982" name="platform" class="platform" x="384" y="-128" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="5" name="guard_archers">
+  <object id="358" name="guardarcher" class="guardarcher" x="-256" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1750" name="guardarcher" class="guardarcher" x="0" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1751" name="guardarcher" class="guardarcher" x="0" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1752" name="guardarcher" class="guardarcher" x="-256" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1937" name="guardarcher" class="guardarcher" x="384" y="-768" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1938" name="guardarcher" class="guardarcher" x="256" y="-768" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1939" name="guardarcher" class="guardarcher" x="384" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1940" name="guardarcher" class="guardarcher" x="384" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1941" name="guardarcher" class="guardarcher" x="384" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1942" name="guardarcher" class="guardarcher" x="256" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1943" name="guardarcher" class="guardarcher" x="-512" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1944" name="guardarcher" class="guardarcher" x="-640" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1945" name="guardarcher" class="guardarcher" x="-640" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1946" name="guardarcher" class="guardarcher" x="-640" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1947" name="guardarcher" class="guardarcher" x="-640" y="-768" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1948" name="guardarcher" class="guardarcher" x="-512" y="-768" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1983" name="guardarcher" class="guardarcher" x="-256" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1984" name="guardarcher" class="guardarcher" x="-128" y="384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1985" name="guardarcher" class="guardarcher" x="0" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1986" name="guardarcher" class="guardarcher" x="-640" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1987" name="guardarcher" class="guardarcher" x="-768" y="-256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1988" name="guardarcher" class="guardarcher" x="-640" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1989" name="guardarcher" class="guardarcher" x="-128" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1990" name="guardarcher" class="guardarcher" x="-256" y="-768" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1991" name="guardarcher" class="guardarcher" x="0" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1992" name="guardarcher" class="guardarcher" x="0" y="-768" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1993" name="guardarcher" class="guardarcher" x="-256" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1994" name="guardarcher" class="guardarcher" x="384" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1995" name="guardarcher" class="guardarcher" x="512" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1996" name="guardarcher" class="guardarcher" x="512" y="-256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1997" name="guardarcher" class="guardarcher" x="512" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1998" name="guardarcher" class="guardarcher" x="384" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1999" name="guardarcher" class="guardarcher" x="0" y="384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2000" name="guardarcher" class="guardarcher" x="-256" y="384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2001" name="guardarcher" class="guardarcher" x="-768" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2002" name="guardarcher" class="guardarcher" x="-768" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="wood_spikes">
+  <object id="1771" name="woodspikes" class="woodspikes" x="256" y="-256" width="128" height="128"/>
+  <object id="1773" name="woodspikes" class="woodspikes" x="0" y="128" width="128" height="128"/>
+  <object id="1774" name="woodspikes" class="woodspikes" x="-256" y="128" width="128" height="128"/>
+  <object id="1776" name="woodspikes" class="woodspikes" x="-512" y="-256" width="128" height="128"/>
+  <object id="1855" name="woodspikes" class="woodspikes" x="256" y="-384" width="128" height="128"/>
+  <object id="1856" name="woodspikes" class="woodspikes" x="256" y="-128" width="128" height="128"/>
+  <object id="1857" name="woodspikes" class="woodspikes" x="-128" y="128" width="128" height="128"/>
+  <object id="1858" name="woodspikes" class="woodspikes" x="-512" y="-128" width="128" height="128"/>
+  <object id="1859" name="woodspikes" class="woodspikes" x="-512" y="-384" width="128" height="128"/>
+  <object id="1876" name="woodspikes" class="woodspikes" x="-128" y="-640" width="128" height="128"/>
+  <object id="1877" name="woodspikes" class="woodspikes" x="-256" y="-640" width="128" height="128"/>
+  <object id="1878" name="woodspikes" class="woodspikes" x="0" y="-640" width="128" height="128"/>
+  <object id="2003" name="woodspikes" class="woodspikes" x="-896" y="-1152" width="128" height="128"/>
+  <object id="2004" name="woodspikes" class="woodspikes" x="-768" y="-1152" width="128" height="128"/>
+  <object id="2005" name="woodspikes" class="woodspikes" x="-1024" y="-1024" width="128" height="128"/>
+  <object id="2006" name="woodspikes" class="woodspikes" x="-1024" y="-896" width="128" height="128"/>
+  <object id="2007" name="woodspikes" class="woodspikes" x="512" y="-1152" width="128" height="128"/>
+  <object id="2008" name="woodspikes" class="woodspikes" x="640" y="-1152" width="128" height="128"/>
+  <object id="2009" name="woodspikes" class="woodspikes" x="768" y="-1024" width="128" height="128"/>
+  <object id="2010" name="woodspikes" class="woodspikes" x="768" y="-896" width="128" height="128"/>
+  <object id="2011" name="woodspikes" class="woodspikes" x="768" y="384" width="128" height="128"/>
+  <object id="2012" name="woodspikes" class="woodspikes" x="768" y="512" width="128" height="128"/>
+  <object id="2013" name="woodspikes" class="woodspikes" x="640" y="640" width="128" height="128"/>
+  <object id="2014" name="woodspikes" class="woodspikes" x="512" y="640" width="128" height="128"/>
+  <object id="2015" name="woodspikes" class="woodspikes" x="-1024" y="512" width="128" height="128"/>
+  <object id="2016" name="woodspikes" class="woodspikes" x="-896" y="640" width="128" height="128"/>
+  <object id="2017" name="woodspikes" class="woodspikes" x="-768" y="640" width="128" height="128"/>
+  <object id="2018" name="woodspikes" class="woodspikes" x="-1024" y="384" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="6" name="guards"/>
+ <objectgroup id="8" name="traps">
+  <object id="1872" name="spidercocoon" class="spidercocoon" x="817.667" y="-305.667" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1873" name="spidercocoon" class="spidercocoon" x="-1172.33" y="-304.333" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1874" name="spidercocoon" class="spidercocoon" x="-176.333" y="-1287.67" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1875" name="spidercocoon" class="spidercocoon" x="-152.333" y="684.333" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1909" name="spidercocoon" class="spidercocoon" x="307" y="-1263" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1910" name="spidercocoon" class="spidercocoon" x="851" y="-761" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1911" name="spidercocoon" class="spidercocoon" x="799" y="-1289" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1912" name="spidercocoon" class="spidercocoon" x="-605" y="-1287" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1913" name="spidercocoon" class="spidercocoon" x="-1109" y="-1239" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1914" name="spidercocoon" class="spidercocoon" x="-1129" y="-697" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1915" name="spidercocoon" class="spidercocoon" x="819" y="121" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1916" name="spidercocoon" class="spidercocoon" x="821" y="683" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1917" name="spidercocoon" class="spidercocoon" x="281" y="715" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1918" name="spidercocoon" class="spidercocoon" x="-603" y="691" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1919" name="spidercocoon" class="spidercocoon" x="-1117" y="673" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1920" name="spidercocoon" class="spidercocoon" x="-1129" y="83" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="2019" name="trap" class="trap" x="-128" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2020" name="trap" class="trap" x="384" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2021" name="trap" class="trap" x="-640" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2022" name="trap" class="trap" x="-128" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers">
+  <object id="1811" name="firewatchertower" class="firewatchertower" x="-512" y="128" width="128" height="128"/>
+  <object id="1812" name="firewatchertower" class="firewatchertower" x="-512" y="-640" width="128" height="128"/>
+  <object id="1813" name="firewatchertower" class="firewatchertower" x="256" y="-640" width="128" height="128"/>
+  <object id="1814" name="firewatchertower" class="firewatchertower" x="256" y="128" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" class="spiderchest" x="-128" y="-256" width="128" height="128"/>
+  <object id="1933" name="spiderchest" class="spiderchest" x="-128" y="-384" width="128" height="128"/>
+  <object id="1934" name="spiderchest" class="spiderchest" x="0" y="-256" width="128" height="128"/>
+  <object id="1935" name="spiderchest" class="spiderchest" x="-128" y="-128" width="128" height="128"/>
+  <object id="1936" name="spiderchest" class="spiderchest" x="-256" y="-256" width="128" height="128"/>
+ </objectgroup>
+</map>

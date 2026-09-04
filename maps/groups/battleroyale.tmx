@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.11" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="1995">
+ <objectgroup id="2" name="walls">
+  <object id="296" name="deadwall" type="deadwall" x="-1024" y="-768" width="128" height="128"/>
+  <object id="298" name="reflectwall" type="reflectwall" x="-640" y="-768" width="128" height="128"/>
+  <object id="299" name="deadwall" type="deadwall" x="-512" y="-768" width="128" height="128"/>
+  <object id="300" name="deadwall" type="deadwall" x="-384" y="-768" width="128" height="128"/>
+  <object id="303" name="reflectwall" type="reflectwall" x="0" y="-768" width="128" height="128"/>
+  <object id="305" name="deadwall" type="deadwall" x="256" y="-768" width="128" height="128"/>
+  <object id="306" name="deadwall" type="deadwall" x="384" y="-768" width="128" height="128"/>
+  <object id="307" name="reflectwall" type="reflectwall" x="512" y="-768" width="128" height="128"/>
+  <object id="308" name="deadwall" type="deadwall" x="512" y="-640" width="128" height="128"/>
+  <object id="309" name="deadwall" type="deadwall" x="512" y="-512" width="128" height="128"/>
+  <object id="311" name="reflectwall" type="reflectwall" x="512" y="-256" width="128" height="128"/>
+  <object id="313" name="deadwall" type="deadwall" x="384" y="384" width="128" height="128"/>
+  <object id="314" name="reflectwall" type="reflectwall" x="512" y="384" width="128" height="128"/>
+  <object id="316" name="deadwall" type="deadwall" x="512" y="256" width="128" height="128"/>
+  <object id="317" name="deadwall" type="deadwall" x="512" y="128" width="128" height="128"/>
+  <object id="319" name="deadwall" type="deadwall" x="256" y="384" width="128" height="128"/>
+  <object id="321" name="deadwall" type="deadwall" x="-384" y="384" width="128" height="128"/>
+  <object id="323" name="reflectwall" type="reflectwall" x="0" y="384" width="128" height="128"/>
+  <object id="326" name="deadwall" type="deadwall" x="-1024" y="512" width="128" height="128"/>
+  <object id="327" name="deadwall" type="deadwall" x="-512" y="384" width="128" height="128"/>
+  <object id="328" name="reflectwall" type="reflectwall" x="-640" y="384" width="128" height="128"/>
+  <object id="329" name="deadwall" type="deadwall" x="-1024" y="384" width="128" height="128"/>
+  <object id="330" name="deadwall" type="deadwall" x="-1024" y="256" width="128" height="128"/>
+  <object id="331" name="deadwall" type="deadwall" x="-1024" y="128" width="128" height="128"/>
+  <object id="332" name="deadwall" type="deadwall" x="-1024" y="0" width="128" height="128"/>
+  <object id="334" name="deadwall" type="deadwall" x="-1024" y="-256" width="128" height="128"/>
+  <object id="335" name="deadwall" type="deadwall" x="-1024" y="-384" width="128" height="128"/>
+  <object id="336" name="deadwall" type="deadwall" x="-1024" y="-512" width="128" height="128"/>
+  <object id="337" name="deadwall" type="deadwall" x="-1024" y="-640" width="128" height="128"/>
+  <object id="1747" name="reflectwall" type="reflectwall" x="-640" y="-128" width="128" height="128"/>
+  <object id="1748" name="reflectwall" type="reflectwall" x="-640" y="-256" width="128" height="128"/>
+  <object id="1750" name="deadwall" type="deadwall" x="-640" y="-512" width="128" height="128"/>
+  <object id="1751" name="deadwall" type="deadwall" x="-640" y="-640" width="128" height="128"/>
+  <object id="1752" name="reflectwall" type="reflectwall" x="-128" y="-768" width="128" height="128"/>
+  <object id="1753" name="reflectwall" type="reflectwall" x="512" y="-128" width="128" height="128"/>
+  <object id="1755" name="deadwall" type="deadwall" x="-640" y="256" width="128" height="128"/>
+  <object id="1756" name="deadwall" type="deadwall" x="-640" y="128" width="128" height="128"/>
+  <object id="1758" name="reflectwall" type="reflectwall" x="-128" y="384" width="128" height="128"/>
+  <object id="1759" name="deadwall" type="deadwall" x="-1024" y="-128" width="128" height="128"/>
+  <object id="1760" name="deadwall" type="deadwall" x="-768" y="-896" width="128" height="128"/>
+  <object id="1761" name="deadwall" type="deadwall" x="-1024" y="-896" width="128" height="128"/>
+  <object id="1762" name="deadwall" type="deadwall" x="-768" y="-1024" width="128" height="128"/>
+  <object id="1763" name="deadwall" type="deadwall" x="-768" y="-1152" width="128" height="128"/>
+  <object id="1764" name="deadwall" type="deadwall" x="-640" y="-1152" width="128" height="128"/>
+  <object id="1765" name="deadwall" type="deadwall" x="-512" y="-1152" width="128" height="128"/>
+  <object id="1766" name="deadwall" type="deadwall" x="-384" y="-1152" width="128" height="128"/>
+  <object id="1767" name="deadwall" type="deadwall" x="-256" y="-1152" width="128" height="128"/>
+  <object id="1768" name="deadwall" type="deadwall" x="-128" y="-1152" width="128" height="128"/>
+  <object id="1769" name="deadwall" type="deadwall" x="0" y="-1152" width="128" height="128"/>
+  <object id="1770" name="deadwall" type="deadwall" x="128" y="-1152" width="128" height="128"/>
+  <object id="1771" name="deadwall" type="deadwall" x="256" y="-1152" width="128" height="128"/>
+  <object id="1772" name="deadwall" type="deadwall" x="384" y="-1152" width="128" height="128"/>
+  <object id="1773" name="deadwall" type="deadwall" x="512" y="-1152" width="128" height="128"/>
+  <object id="1774" name="deadwall" type="deadwall" x="640" y="-1152" width="128" height="128"/>
+  <object id="1775" name="deadwall" type="deadwall" x="640" y="-1024" width="128" height="128"/>
+  <object id="1776" name="deadwall" type="deadwall" x="896" y="-896" width="128" height="128"/>
+  <object id="1777" name="deadwall" type="deadwall" x="896" y="-768" width="128" height="128"/>
+  <object id="1778" name="deadwall" type="deadwall" x="896" y="-640" width="128" height="128"/>
+  <object id="1779" name="deadwall" type="deadwall" x="896" y="-512" width="128" height="128"/>
+  <object id="1780" name="deadwall" type="deadwall" x="896" y="-384" width="128" height="128"/>
+  <object id="1781" name="deadwall" type="deadwall" x="896" y="-256" width="128" height="128"/>
+  <object id="1782" name="deadwall" type="deadwall" x="896" y="-128" width="128" height="128"/>
+  <object id="1783" name="deadwall" type="deadwall" x="896" y="0" width="128" height="128"/>
+  <object id="1784" name="deadwall" type="deadwall" x="896" y="128" width="128" height="128"/>
+  <object id="1785" name="deadwall" type="deadwall" x="896" y="256" width="128" height="128"/>
+  <object id="1786" name="deadwall" type="deadwall" x="896" y="384" width="128" height="128"/>
+  <object id="1787" name="deadwall" type="deadwall" x="896" y="512" width="128" height="128"/>
+  <object id="1788" name="deadwall" type="deadwall" x="640" y="640" width="128" height="128"/>
+  <object id="1789" name="deadwall" type="deadwall" x="640" y="768" width="128" height="128"/>
+  <object id="1790" name="deadwall" type="deadwall" x="512" y="768" width="128" height="128"/>
+  <object id="1791" name="deadwall" type="deadwall" x="384" y="768" width="128" height="128"/>
+  <object id="1792" name="deadwall" type="deadwall" x="256" y="768" width="128" height="128"/>
+  <object id="1793" name="deadwall" type="deadwall" x="640" y="-896" width="128" height="128"/>
+  <object id="1794" name="deadwall" type="deadwall" x="768" y="-896" width="128" height="128"/>
+  <object id="1795" name="deadwall" type="deadwall" x="-896" y="-896" width="128" height="128"/>
+  <object id="1796" name="deadwall" type="deadwall" x="-896" y="512" width="128" height="128"/>
+  <object id="1797" name="deadwall" type="deadwall" x="-768" y="512" width="128" height="128"/>
+  <object id="1798" name="deadwall" type="deadwall" x="-768" y="640" width="128" height="128"/>
+  <object id="1799" name="deadwall" type="deadwall" x="-768" y="768" width="128" height="128"/>
+  <object id="1800" name="deadwall" type="deadwall" x="-640" y="768" width="128" height="128"/>
+  <object id="1801" name="deadwall" type="deadwall" x="-512" y="768" width="128" height="128"/>
+  <object id="1802" name="deadwall" type="deadwall" x="-384" y="768" width="128" height="128"/>
+  <object id="1803" name="deadwall" type="deadwall" x="-256" y="768" width="128" height="128"/>
+  <object id="1804" name="deadwall" type="deadwall" x="-128" y="768" width="128" height="128"/>
+  <object id="1805" name="deadwall" type="deadwall" x="0" y="768" width="128" height="128"/>
+  <object id="1806" name="deadwall" type="deadwall" x="128" y="768" width="128" height="128"/>
+  <object id="1807" name="deadwall" type="deadwall" x="640" y="512" width="128" height="128"/>
+  <object id="1808" name="deadwall" type="deadwall" x="768" y="512" width="128" height="128"/>
+  <object id="1948" name="deadwall" type="deadwall" x="128" y="-768" width="128" height="128"/>
+  <object id="1949" name="deadwall" type="deadwall" x="-256" y="-768" width="128" height="128"/>
+  <object id="1950" name="deadwall" type="deadwall" x="-640" y="-384" width="128" height="128"/>
+  <object id="1951" name="deadwall" type="deadwall" x="-640" y="0" width="128" height="128"/>
+  <object id="1952" name="deadwall" type="deadwall" x="128" y="384" width="128" height="128"/>
+  <object id="1953" name="deadwall" type="deadwall" x="-256" y="384" width="128" height="128"/>
+  <object id="1954" name="deadwall" type="deadwall" x="512" y="-384" width="128" height="128"/>
+  <object id="1955" name="deadwall" type="deadwall" x="512" y="0" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="towers">
+  <object id="757" name="phantomtower" type="phantomtower" x="384" y="-1024" width="256" height="256"/>
+  <object id="761" name="phantomtower" type="phantomtower" x="0" y="-1024" width="256" height="256"/>
+  <object id="764" name="phantomtower" type="phantomtower" x="-640" y="-1024" width="256" height="256"/>
+  <object id="765" name="phantomtower" type="phantomtower" x="-256" y="-1024" width="256" height="256"/>
+  <object id="912" name="phantomtower" type="phantomtower" x="-896" y="-768" width="256" height="256"/>
+  <object id="914" name="phantomtower" type="phantomtower" x="640" y="-768" width="256" height="256"/>
+  <object id="916" name="phantomtower" type="phantomtower" x="-896" y="-384" width="256" height="256"/>
+  <object id="917" name="phantomtower" type="phantomtower" x="-896" y="-128" width="256" height="256"/>
+  <object id="918" name="phantomtower" type="phantomtower" x="-896" y="256" width="256" height="256"/>
+  <object id="936" name="phantomtower" type="phantomtower" x="-256" y="512" width="256" height="256"/>
+  <object id="937" name="phantomtower" type="phantomtower" x="-640" y="512" width="256" height="256"/>
+  <object id="938" name="phantomtower" type="phantomtower" x="0" y="512" width="256" height="256"/>
+  <object id="939" name="phantomtower" type="phantomtower" x="384" y="512" width="256" height="256"/>
+  <object id="944" name="phantomtower" type="phantomtower" x="640" y="256" width="256" height="256"/>
+  <object id="945" name="phantomtower" type="phantomtower" x="640" y="-128" width="256" height="256"/>
+  <object id="946" name="phantomtower" type="phantomtower" x="640" y="-384" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup id="4" name="platforms">
+  <object id="346" name="platform" type="platform" x="-512" y="-384" width="128" height="128"/>
+  <object id="352" name="platform" type="platform" x="384" y="128" width="128" height="128"/>
+  <object id="353" name="platform" type="platform" x="384" y="0" width="128" height="128"/>
+  <object id="354" name="platform" type="platform" x="384" y="-384" width="128" height="128"/>
+  <object id="355" name="platform" type="platform" x="128" y="-640" width="128" height="128"/>
+  <object id="357" name="platform" type="platform" x="-384" y="-640" width="128" height="128"/>
+  <object id="1809" name="platform" type="platform" x="-256" y="-640" width="128" height="128"/>
+  <object id="1812" name="platform" type="platform" x="-512" y="0" width="128" height="128"/>
+  <object id="1814" name="platform" type="platform" x="-384" y="256" width="128" height="128"/>
+  <object id="1815" name="platform" type="platform" x="-256" y="256" width="128" height="128"/>
+  <object id="1816" name="platform" type="platform" x="-512" y="128" width="128" height="128"/>
+  <object id="1817" name="platform" type="platform" x="128" y="256" width="128" height="128"/>
+  <object id="1818" name="platform" type="platform" x="256" y="256" width="128" height="128"/>
+  <object id="1819" name="platform" type="platform" x="384" y="-512" width="128" height="128"/>
+  <object id="1820" name="platform" type="platform" x="256" y="-640" width="128" height="128"/>
+  <object id="1822" name="platform" type="platform" x="-512" y="-512" width="128" height="128"/>
+  <object id="1928" name="platform" type="platform" x="-384" y="-1024" width="128" height="128"/>
+  <object id="1929" name="platform" type="platform" x="256" y="-1024" width="128" height="128"/>
+  <object id="1930" name="platform" type="platform" x="-896" y="-512" width="128" height="128"/>
+  <object id="1931" name="platform" type="platform" x="768" y="-512" width="128" height="128"/>
+  <object id="1932" name="platform" type="platform" x="768" y="128" width="128" height="128"/>
+  <object id="1933" name="platform" type="platform" x="256" y="640" width="128" height="128"/>
+  <object id="1934" name="platform" type="platform" x="-384" y="640" width="128" height="128"/>
+  <object id="1935" name="platform" type="platform" x="-896" y="128" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="5" name="guard_archers">
+  <object id="358" name="guardarcher" type="guardarcher" x="-384" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="359" name="guardarcher" type="guardarcher" x="-512" y="-512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="360" name="guardarcher" type="guardarcher" x="-512" y="0" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="361" name="guardarcher" type="guardarcher" x="-512" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="362" name="guardarcher" type="guardarcher" x="-384" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="363" name="guardarcher" type="guardarcher" x="128" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="364" name="guardarcher" type="guardarcher" x="384" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="365" name="guardarcher" type="guardarcher" x="384" y="0" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="366" name="guardarcher" type="guardarcher" x="384" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="367" name="guardarcher" type="guardarcher" x="128" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="369" name="guardarcher" type="guardarcher" x="-256" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1828" name="guardarcher" type="guardarcher" x="-512" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1829" name="guardarcher" type="guardarcher" x="-256" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1830" name="guardarcher" type="guardarcher" x="256" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1831" name="guardarcher" type="guardarcher" x="384" y="-512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1832" name="guardarcher" type="guardarcher" x="256" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1936" name="guardarcher" type="guardarcher" x="-384" y="-1024" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1937" name="guardarcher" type="guardarcher" x="256" y="-1024" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1938" name="guardarcher" type="guardarcher" x="768" y="-512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1939" name="guardarcher" type="guardarcher" x="768" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1940" name="guardarcher" type="guardarcher" x="256" y="640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1941" name="guardarcher" type="guardarcher" x="-384" y="640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1942" name="guardarcher" type="guardarcher" x="-896" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1943" name="guardarcher" type="guardarcher" x="-896" y="-512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1958" name="platform" type="platform" x="-512" y="-256" width="128" height="128"/>
+  <object id="1959" name="guardarcher" type="guardarcher" x="-512" y="-256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1960" name="platform" type="platform" x="-512" y="-128" width="128" height="128"/>
+  <object id="1961" name="guardarcher" type="guardarcher" x="-512" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1962" name="platform" type="platform" x="-128" y="-640" width="128" height="128"/>
+  <object id="1963" name="guardarcher" type="guardarcher" x="-128" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1964" name="platform" type="platform" x="0" y="-640" width="128" height="128"/>
+  <object id="1965" name="guardarcher" type="guardarcher" x="0" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1966" name="platform" type="platform" x="384" y="-256" width="128" height="128"/>
+  <object id="1967" name="guardarcher" type="guardarcher" x="384" y="-256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1968" name="platform" type="platform" x="384" y="-128" width="128" height="128"/>
+  <object id="1969" name="guardarcher" type="guardarcher" x="384" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1970" name="platform" type="platform" x="0" y="256" width="128" height="128"/>
+  <object id="1971" name="guardarcher" type="guardarcher" x="0" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1972" name="platform" type="platform" x="-128" y="256" width="128" height="128"/>
+  <object id="1973" name="guardarcher" type="guardarcher" x="-128" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="guards">
+  <object id="1836" name="guard" type="guard" x="256" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1837" name="guard" type="guard" x="-768" y="-512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1838" name="guard" type="guard" x="256" y="512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1839" name="guard" type="guard" x="640" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1841" name="wallbreaker" type="wallbreaker" x="-256" y="-384" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1843" name="wallbreaker" type="wallbreaker" x="128" y="0" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1847" name="guard" type="guard" x="-384" y="512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1848" name="guard" type="guard" x="640" y="-512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1849" name="guard" type="guard" x="-384" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1850" name="guard" type="guard" x="-768" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1851" name="guard" type="guard" x="-128" y="-1408" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1852" name="guard" type="guard" x="0" y="-1408" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1853" name="guard" type="guard" x="1152" y="-256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1854" name="guard" type="guard" x="1152" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1855" name="guard" type="guard" x="-128" y="1024" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1856" name="guard" type="guard" x="0" y="1024" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1857" name="guard" type="guard" x="-1280" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1858" name="guard" type="guard" x="-1280" y="-256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1867" name="wallbreaker" type="wallbreaker" x="-128" y="-256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1868" name="wallbreaker" type="wallbreaker" x="-256" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1869" name="wallbreaker" type="wallbreaker" x="-128" y="0" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1870" name="wallbreaker" type="wallbreaker" x="0" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1916" name="guard" type="guard" x="640" y="896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1917" name="guard" type="guard" x="-768" y="896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1918" name="guard" type="guard" x="-1152" y="512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1919" name="guard" type="guard" x="1024" y="512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1920" name="guard" type="guard" x="-1152" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1921" name="guard" type="guard" x="-768" y="-1280" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1922" name="guard" type="guard" x="640" y="-1280" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1923" name="guard" type="guard" x="1024" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1974" name="guard" type="guard" x="1280" y="128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1975" name="guard" type="guard" x="1280" y="512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1976" name="guard" type="guard" x="1152" y="896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1977" name="guard" type="guard" x="896" y="1024" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1978" name="guard" type="guard" x="256" y="1152" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1979" name="guard" type="guard" x="-256" y="1152" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1980" name="guard" type="guard" x="-640" y="1152" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1981" name="guard" type="guard" x="-1024" y="1024" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1982" name="guard" type="guard" x="-1280" y="896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1983" name="guard" type="guard" x="-1408" y="256" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1984" name="guard" type="guard" x="-1536" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1985" name="guard" type="guard" x="-1408" y="-640" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1986" name="guard" type="guard" x="-1280" y="-1152" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1987" name="guard" type="guard" x="-1024" y="-1408" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1988" name="guard" type="guard" x="-512" y="-1536" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1989" name="guard" type="guard" x="-128" y="-1664" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1990" name="guard" type="guard" x="384" y="-1664" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1991" name="guard" type="guard" x="768" y="-1536" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1992" name="guard" type="guard" x="1024" y="-1280" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1993" name="guard" type="guard" x="1280" y="-896" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="1994" name="guard" type="guard" x="1280" y="-512" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps">
+  <object id="1874" name="trap" type="trap" x="768" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1875" name="trap" type="trap" x="768" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1876" name="trap" type="trap" x="1024" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1883" name="trap" type="trap" x="-896" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1884" name="trap" type="trap" x="-896" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1885" name="trap" type="trap" x="-1152" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1886" name="trap" type="trap" x="-128" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1887" name="trap" type="trap" x="0" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1891" name="trap" type="trap" x="-128" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1892" name="trap" type="trap" x="0" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1893" name="trap" type="trap" x="-896" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1894" name="trap" type="trap" x="-896" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1895" name="trap" type="trap" x="-1152" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1896" name="trap" type="trap" x="1024" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1897" name="trap" type="trap" x="768" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1898" name="trap" type="trap" x="768" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1899" name="trap" type="trap" x="1024" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1900" name="trap" type="trap" x="1024" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1901" name="trap" type="trap" x="-1152" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1902" name="trap" type="trap" x="-1152" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1903" name="trap" type="trap" x="-384" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1904" name="trap" type="trap" x="-256" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1905" name="trap" type="trap" x="256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1906" name="trap" type="trap" x="256" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1907" name="trap" type="trap" x="128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1908" name="trap" type="trap" x="-256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1909" name="trap" type="trap" x="128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1924" name="trap" type="trap" x="128" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1925" name="trap" type="trap" x="128" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1926" name="trap" type="trap" x="-128" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1927" name="trap" type="trap" x="0" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers">
+  <object id="705" name="firewatchertower" type="firewatchertower" x="-512" y="256" width="128" height="128"/>
+  <object id="719" name="firewatchertower" type="firewatchertower" x="384" y="256" width="128" height="128"/>
+  <object id="720" name="firewatchertower" type="firewatchertower" x="384" y="-640" width="128" height="128"/>
+  <object id="721" name="firewatchertower" type="firewatchertower" x="-512" y="-640" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" type="swampchest" x="-128" y="-128" width="128" height="128"/>
+  <object id="1956" name="foreignheartstone" type="foreignheartstone" x="0" y="-256" width="128" height="128"/>
+  <object id="1957" name="foreignheartstone" type="foreignheartstone" x="-256" y="0" width="128" height="128"/>
+ </objectgroup>
+</map>

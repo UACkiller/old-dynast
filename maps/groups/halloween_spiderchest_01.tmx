@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="14" nextobjectid="2656">
+ <objectgroup id="12" name="floor">
+  <object id="2512" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="0" y="128" width="128" height="128"/>
+  <object id="2513" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="128" y="0" width="128" height="128"/>
+  <object id="2514" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="0" y="0" width="128" height="128"/>
+  <object id="2515" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="0" y="-128" width="128" height="128"/>
+  <object id="2516" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-128" y="0" width="128" height="128"/>
+  <object id="2517" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-256" y="-128" width="128" height="128"/>
+  <object id="2518" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-128" y="-256" width="128" height="128"/>
+  <object id="2519" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="128" y="-256" width="128" height="128"/>
+  <object id="2520" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="256" y="-128" width="128" height="128"/>
+  <object id="2521" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="256" y="128" width="128" height="128"/>
+  <object id="2522" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="128" y="256" width="128" height="128"/>
+  <object id="2523" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-128" y="256" width="128" height="128"/>
+  <object id="2524" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-256" y="128" width="128" height="128"/>
+  <object id="2525" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="128" width="128" height="128"/>
+  <object id="2526" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="256" width="128" height="128"/>
+  <object id="2527" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="256" width="128" height="128"/>
+  <object id="2528" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="128" width="128" height="128"/>
+  <object id="2529" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="256" width="128" height="128"/>
+  <object id="2530" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="0" width="128" height="128"/>
+  <object id="2531" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="-128" width="128" height="128"/>
+  <object id="2532" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="-256" width="128" height="128"/>
+  <object id="2533" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="-256" width="128" height="128"/>
+  <object id="2534" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="-128" width="128" height="128"/>
+  <object id="2535" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="-256" width="128" height="128"/>
+  <object id="2536" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="0" width="128" height="128"/>
+  <object id="2538" name="pumpkinlamp" class="pumpkinlamp" x="128" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2539" name="pumpkinlamp" class="pumpkinlamp" x="-128" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2540" name="pumpkinlamp" class="pumpkinlamp" x="-128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2541" name="pumpkinlamp" class="pumpkinlamp" x="128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2587" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="384" width="128" height="128"/>
+  <object id="2588" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="384" width="128" height="128"/>
+  <object id="2589" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="256" width="128" height="128"/>
+  <object id="2590" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-256" width="128" height="128"/>
+  <object id="2591" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-384" width="128" height="128"/>
+  <object id="2592" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="-384" width="128" height="128"/>
+  <object id="2593" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="-384" width="128" height="128"/>
+  <object id="2594" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-384" width="128" height="128"/>
+  <object id="2595" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-256" width="128" height="128"/>
+  <object id="2596" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="256" width="128" height="128"/>
+  <object id="2597" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="384" width="128" height="128"/>
+  <object id="2598" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="384" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="walls"/>
+ <objectgroup id="3" name="towers">
+  <object id="2583" name="spidertower" class="spidertower" x="256" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2584" name="spidertower" class="spidertower" x="-384" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2585" name="spidertower" class="spidertower" x="256" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2586" name="spidertower" class="spidertower" x="-384" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="7" name="wood_spikes"/>
+ <objectgroup id="6" name="guards">
+  <object id="2615" name="spidercocoon" class="spidercocoon" x="256" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2616" name="spidercocoon" class="spidercocoon" x="-256" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2617" name="spidercocoon" class="spidercocoon" x="-640" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2618" name="spidercocoon" class="spidercocoon" x="640" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2619" name="spidercocoon" class="spidercocoon" x="640" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2620" name="spidercocoon" class="spidercocoon" x="256" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2621" name="spidercocoon" class="spidercocoon" x="-256" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2622" name="spidercocoon" class="spidercocoon" x="-640" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2623" name="zombie" class="zombie" x="0" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2624" name="zombie" class="zombie" x="0" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2625" name="zombie" class="zombie" x="512" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2626" name="zombie" class="zombie" x="640" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2627" name="zombie" class="zombie" x="0" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2628" name="zombie" class="zombie" x="0" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2629" name="zombie" class="zombie" x="-512" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2630" name="zombie" class="zombie" x="-640" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2631" name="guardarcher" class="guardarcher" x="-512" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2632" name="guardarcher" class="guardarcher" x="512" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2633" name="guardarcher" class="guardarcher" x="512" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2634" name="guardarcher" class="guardarcher" x="-512" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2635" name="guardarcher" class="guardarcher" x="-640" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2636" name="guardarcher" class="guardarcher" x="640" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2637" name="guardarcher" class="guardarcher" x="640" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2638" name="guardarcher" class="guardarcher" x="-640" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="13" name="mines"/>
+ <objectgroup id="8" name="traps"/>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2506" name="main" class="spiderchest" x="0" y="0" width="128" height="128"/>
+  <object id="2543" name="foreignheartstone" class="foreignheartstone" x="128" y="0" width="128" height="128"/>
+  <object id="2544" name="foreignheartstone" class="foreignheartstone" x="-128" y="0" width="128" height="128"/>
+  <object id="2545" name="trap" class="trap" x="0" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2546" name="trap" class="trap" x="0" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2548" name="rockwall" class="rockwall" x="384" y="128" width="128" height="128"/>
+  <object id="2549" name="rockwall" class="rockwall" x="384" y="-128" width="128" height="128"/>
+  <object id="2550" name="rockwall" class="rockwall" x="384" y="0" width="128" height="128"/>
+  <object id="2554" name="rockwall" class="rockwall" x="128" y="-384" width="128" height="128"/>
+  <object id="2555" name="rockwall" class="rockwall" x="0" y="-384" width="128" height="128"/>
+  <object id="2556" name="rockwall" class="rockwall" x="-128" y="-384" width="128" height="128"/>
+  <object id="2560" name="rockwall" class="rockwall" x="-384" y="-128" width="128" height="128"/>
+  <object id="2561" name="rockwall" class="rockwall" x="-384" y="0" width="128" height="128"/>
+  <object id="2562" name="rockwall" class="rockwall" x="-384" y="128" width="128" height="128"/>
+  <object id="2566" name="rockwall" class="rockwall" x="-128" y="384" width="128" height="128"/>
+  <object id="2567" name="rockwall" class="rockwall" x="0" y="384" width="128" height="128"/>
+  <object id="2568" name="rockwall" class="rockwall" x="128" y="384" width="128" height="128"/>
+  <object id="2571" name="guard" class="guard" x="0" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2572" name="guard" class="guard" x="-128" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2573" name="guard" class="guard" x="128" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2574" name="guard" class="guard" x="256" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2575" name="guard" class="guard" x="256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2576" name="guard" class="guard" x="256" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2577" name="guard" class="guard" x="128" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2578" name="guard" class="guard" x="0" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2579" name="guard" class="guard" x="-128" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2580" name="guard" class="guard" x="-256" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2581" name="guard" class="guard" x="-256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2582" name="guard" class="guard" x="-256" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2599" name="rockwall" class="rockwall" x="-512" y="256" width="128" height="128"/>
+  <object id="2600" name="rockwall" class="rockwall" x="-512" y="384" width="128" height="128"/>
+  <object id="2601" name="rockwall" class="rockwall" x="-384" y="512" width="128" height="128"/>
+  <object id="2602" name="rockwall" class="rockwall" x="-256" y="512" width="128" height="128"/>
+  <object id="2603" name="rockwall" class="rockwall" x="256" y="512" width="128" height="128"/>
+  <object id="2604" name="rockwall" class="rockwall" x="384" y="512" width="128" height="128"/>
+  <object id="2605" name="rockwall" class="rockwall" x="512" y="384" width="128" height="128"/>
+  <object id="2606" name="rockwall" class="rockwall" x="512" y="256" width="128" height="128"/>
+  <object id="2607" name="rockwall" class="rockwall" x="512" y="-256" width="128" height="128"/>
+  <object id="2608" name="rockwall" class="rockwall" x="512" y="-384" width="128" height="128"/>
+  <object id="2609" name="rockwall" class="rockwall" x="384" y="-512" width="128" height="128"/>
+  <object id="2610" name="rockwall" class="rockwall" x="256" y="-512" width="128" height="128"/>
+  <object id="2611" name="rockwall" class="rockwall" x="-256" y="-512" width="128" height="128"/>
+  <object id="2612" name="rockwall" class="rockwall" x="-384" y="-512" width="128" height="128"/>
+  <object id="2613" name="rockwall" class="rockwall" x="-512" y="-384" width="128" height="128"/>
+  <object id="2614" name="rockwall" class="rockwall" x="-512" y="-256" width="128" height="128"/>
+  <object id="2639" name="trap" class="trap" x="768" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2640" name="trap" class="trap" x="768" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2642" name="trap" class="trap" x="128" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2643" name="trap" class="trap" x="-128" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2644" name="trap" class="trap" x="-768" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2645" name="trap" class="trap" x="-768" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2646" name="trap" class="trap" x="128" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2647" name="trap" class="trap" x="-128" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2648" name="minesticky" class="minesticky" x="512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2649" name="minesticky" class="minesticky" x="512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2650" name="minesticky" class="minesticky" x="128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2651" name="minesticky" class="minesticky" x="-128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2652" name="minesticky" class="minesticky" x="-512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2653" name="minesticky" class="minesticky" x="-512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2654" name="minesticky" class="minesticky" x="-128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2655" name="minesticky" class="minesticky" x="128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

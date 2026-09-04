@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="2156">
+ <objectgroup id="1" name="floors">
+  <object id="1981" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="0" y="128" width="128" height="128"/>
+  <object id="1982" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="128" y="128" width="128" height="128"/>
+  <object id="1990" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="256" y="128" width="128" height="128"/>
+  <object id="1983" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="128" y="0" width="128" height="128"/>
+  <object id="1984" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="128" y="-128" width="128" height="128"/>
+  <object id="1985" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="0" y="-128" width="128" height="128"/>
+  <object id="1986" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-128" y="-128" width="128" height="128"/>
+  <object id="1987" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-128" y="0" width="128" height="128"/>
+  <object id="1988" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-128" y="128" width="128" height="128"/>
+  <object id="1989" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="0" y="0" width="128" height="128"/>
+  <object id="1991" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="256" y="0" width="128" height="128"/>
+  <object id="1992" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="256" y="-128" width="128" height="128"/>
+  <object id="1993" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="256" y="-256" width="128" height="128"/>
+  <object id="1994" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="128" y="-256" width="128" height="128"/>
+  <object id="1995" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="0" y="-256" width="128" height="128"/>
+  <object id="1996" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-128" y="-256" width="128" height="128"/>
+  <object id="1997" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-256" y="-256" width="128" height="128"/>
+  <object id="1998" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-256" y="-128" width="128" height="128"/>
+  <object id="1999" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-256" y="0" width="128" height="128"/>
+  <object id="2000" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-256" y="128" width="128" height="128"/>
+  <object id="2001" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-256" y="256" width="128" height="128"/>
+  <object id="2002" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-128" y="256" width="128" height="128"/>
+  <object id="2003" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="0" y="256" width="128" height="128"/>
+  <object id="2004" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="128" y="256" width="128" height="128"/>
+  <object id="2005" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="256" y="256" width="128" height="128"/>
+  <object id="2006" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="128" y="384" width="128" height="128"/>
+  <object id="2007" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-128" y="384" width="128" height="128"/>
+  <object id="2008" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-384" y="128" width="128" height="128"/>
+  <object id="2009" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-384" y="-128" width="128" height="128"/>
+  <object id="2010" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="-128" y="-384" width="128" height="128"/>
+  <object id="2011" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="128" y="-384" width="128" height="128"/>
+  <object id="2012" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="384" y="-128" width="128" height="128"/>
+  <object id="2013" name="decorativefloorchristmas1" class="decorativefloorchristmas1" x="384" y="128" width="128" height="128"/>
+  <object id="2014" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="0" y="-384" width="128" height="128"/>
+  <object id="2015" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-256" y="-384" width="128" height="128"/>
+  <object id="2016" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-384" y="-384" width="128" height="128"/>
+  <object id="2017" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-384" y="-256" width="128" height="128"/>
+  <object id="2018" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-384" y="0" width="128" height="128"/>
+  <object id="2019" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-384" y="256" width="128" height="128"/>
+  <object id="2020" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-384" y="384" width="128" height="128"/>
+  <object id="2021" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="-256" y="384" width="128" height="128"/>
+  <object id="2022" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="0" y="384" width="128" height="128"/>
+  <object id="2023" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="256" y="384" width="128" height="128"/>
+  <object id="2024" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="384" y="384" width="128" height="128"/>
+  <object id="2025" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="384" y="256" width="128" height="128"/>
+  <object id="2026" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="384" y="0" width="128" height="128"/>
+  <object id="2027" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="384" y="-256" width="128" height="128"/>
+  <object id="2028" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="384" y="-384" width="128" height="128"/>
+  <object id="2029" name="decorativefloorchristmas3" class="decorativefloorchristmas3" x="256" y="-384" width="128" height="128"/>
+  <object id="2113" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="512" width="128" height="128"/>
+  <object id="2114" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="512" width="128" height="128"/>
+  <object id="2115" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="640" width="128" height="128"/>
+  <object id="2116" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="640" width="128" height="128"/>
+  <object id="2117" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="640" width="128" height="128"/>
+  <object id="2118" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="640" width="128" height="128"/>
+  <object id="2119" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="512" width="128" height="128"/>
+  <object id="2120" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="512" width="128" height="128"/>
+  <object id="2121" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="-512" width="128" height="128"/>
+  <object id="2122" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="-512" width="128" height="128"/>
+  <object id="2123" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="640" y="-640" width="128" height="128"/>
+  <object id="2124" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="512" y="-640" width="128" height="128"/>
+  <object id="2125" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="-640" width="128" height="128"/>
+  <object id="2126" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-512" y="-512" width="128" height="128"/>
+  <object id="2127" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="-512" width="128" height="128"/>
+  <object id="2128" name="decorativefloorchristmas2" class="decorativefloorchristmas2" x="-640" y="-640" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="walls">
+  <object id="2035" name="icewall" class="icewall" x="384" y="-640" width="128" height="128"/>
+  <object id="2036" name="icewall" class="icewall" x="384" y="-512" width="128" height="128"/>
+  <object id="2037" name="icewall" class="icewall" x="512" y="-384" width="128" height="128"/>
+  <object id="2038" name="icewall" class="icewall" x="512" y="-256" width="128" height="128"/>
+  <object id="2039" name="icewall" class="icewall" x="512" y="-128" width="128" height="128"/>
+  <object id="2040" name="icewall" class="icewall" x="512" y="0" width="128" height="128"/>
+  <object id="2041" name="icewall" class="icewall" x="512" y="128" width="128" height="128"/>
+  <object id="2042" name="icewall" class="icewall" x="512" y="256" width="128" height="128"/>
+  <object id="2043" name="icewall" class="icewall" x="512" y="384" width="128" height="128"/>
+  <object id="2045" name="icewall" class="icewall" x="384" y="512" width="128" height="128"/>
+  <object id="2046" name="icewall" class="icewall" x="256" y="512" width="128" height="128"/>
+  <object id="2047" name="icewall" class="icewall" x="128" y="512" width="128" height="128"/>
+  <object id="2048" name="icewall" class="icewall" x="0" y="512" width="128" height="128"/>
+  <object id="2049" name="icewall" class="icewall" x="-128" y="512" width="128" height="128"/>
+  <object id="2050" name="icewall" class="icewall" x="-256" y="512" width="128" height="128"/>
+  <object id="2051" name="icewall" class="icewall" x="-384" y="512" width="128" height="128"/>
+  <object id="2053" name="icewall" class="icewall" x="-512" y="384" width="128" height="128"/>
+  <object id="2054" name="icewall" class="icewall" x="-512" y="256" width="128" height="128"/>
+  <object id="2055" name="icewall" class="icewall" x="-512" y="128" width="128" height="128"/>
+  <object id="2056" name="icewall" class="icewall" x="-512" y="0" width="128" height="128"/>
+  <object id="2057" name="icewall" class="icewall" x="-512" y="-128" width="128" height="128"/>
+  <object id="2058" name="icewall" class="icewall" x="-512" y="-256" width="128" height="128"/>
+  <object id="2059" name="icewall" class="icewall" x="-512" y="-384" width="128" height="128"/>
+  <object id="2061" name="icewall" class="icewall" x="-384" y="-512" width="128" height="128"/>
+  <object id="2062" name="icewall" class="icewall" x="-256" y="-512" width="128" height="128"/>
+  <object id="2063" name="icewall" class="icewall" x="-128" y="-512" width="128" height="128"/>
+  <object id="2064" name="icewall" class="icewall" x="0" y="-512" width="128" height="128"/>
+  <object id="2065" name="icewall" class="icewall" x="256" y="-512" width="128" height="128"/>
+  <object id="2066" name="icewall" class="icewall" x="128" y="-512" width="128" height="128"/>
+  <object id="2067" name="icewall" class="icewall" x="-128" y="0" width="128" height="128"/>
+  <object id="2068" name="icewall" class="icewall" x="0" y="128" width="128" height="128"/>
+  <object id="2069" name="icewall" class="icewall" x="128" y="0" width="128" height="128"/>
+  <object id="2070" name="icewall" class="icewall" x="0" y="-128" width="128" height="128"/>
+  <object id="2075" name="icewall" class="icewall" x="640" y="-384" width="128" height="128"/>
+  <object id="2076" name="icewall" class="icewall" x="768" y="-384" width="128" height="128"/>
+  <object id="2077" name="icewall" class="icewall" x="768" y="-512" width="128" height="128"/>
+  <object id="2078" name="icewall" class="icewall" x="768" y="-640" width="128" height="128"/>
+  <object id="2079" name="icewall" class="icewall" x="768" y="-768" width="128" height="128"/>
+  <object id="2080" name="icewall" class="icewall" x="640" y="-768" width="128" height="128"/>
+  <object id="2081" name="icewall" class="icewall" x="512" y="-768" width="128" height="128"/>
+  <object id="2082" name="icewall" class="icewall" x="384" y="-768" width="128" height="128"/>
+  <object id="2083" name="icewall" class="icewall" x="-384" y="-640" width="128" height="128"/>
+  <object id="2084" name="icewall" class="icewall" x="-512" y="-768" width="128" height="128"/>
+  <object id="2085" name="icewall" class="icewall" x="-384" y="-768" width="128" height="128"/>
+  <object id="2086" name="icewall" class="icewall" x="-640" y="-768" width="128" height="128"/>
+  <object id="2087" name="icewall" class="icewall" x="-768" y="-640" width="128" height="128"/>
+  <object id="2088" name="icewall" class="icewall" x="-768" y="-512" width="128" height="128"/>
+  <object id="2089" name="icewall" class="icewall" x="-640" y="-384" width="128" height="128"/>
+  <object id="2090" name="icewall" class="icewall" x="-768" y="-384" width="128" height="128"/>
+  <object id="2091" name="icewall" class="icewall" x="-768" y="-768" width="128" height="128"/>
+  <object id="2092" name="icewall" class="icewall" x="640" y="384" width="128" height="128"/>
+  <object id="2093" name="icewall" class="icewall" x="768" y="512" width="128" height="128"/>
+  <object id="2094" name="icewall" class="icewall" x="768" y="768" width="128" height="128"/>
+  <object id="2095" name="icewall" class="icewall" x="768" y="640" width="128" height="128"/>
+  <object id="2096" name="icewall" class="icewall" x="512" y="768" width="128" height="128"/>
+  <object id="2097" name="icewall" class="icewall" x="640" y="768" width="128" height="128"/>
+  <object id="2098" name="icewall" class="icewall" x="384" y="768" width="128" height="128"/>
+  <object id="2099" name="icewall" class="icewall" x="384" y="640" width="128" height="128"/>
+  <object id="2100" name="icewall" class="icewall" x="768" y="384" width="128" height="128"/>
+  <object id="2101" name="icewall" class="icewall" x="-384" y="640" width="128" height="128"/>
+  <object id="2102" name="icewall" class="icewall" x="-384" y="768" width="128" height="128"/>
+  <object id="2103" name="icewall" class="icewall" x="-512" y="768" width="128" height="128"/>
+  <object id="2104" name="icewall" class="icewall" x="-640" y="768" width="128" height="128"/>
+  <object id="2105" name="icewall" class="icewall" x="-768" y="640" width="128" height="128"/>
+  <object id="2106" name="icewall" class="icewall" x="-768" y="512" width="128" height="128"/>
+  <object id="2107" name="icewall" class="icewall" x="-640" y="384" width="128" height="128"/>
+  <object id="2108" name="icewall" class="icewall" x="-768" y="384" width="128" height="128"/>
+  <object id="2109" name="icewall" class="icewall" x="-768" y="768" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="towers">
+  <object id="2071" name="snowballtower" class="snowballtower" x="-384" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2072" name="snowballtower" class="snowballtower" x="256" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2073" name="snowballtower" class="snowballtower" x="256" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2074" name="snowballtower" class="snowballtower" x="512" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2110" name="snowballtower" class="snowballtower" x="-640" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2111" name="snowballtower" class="snowballtower" x="-640" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2112" name="snowballtower" class="snowballtower" x="512" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="6" name="guards">
+  <object id="2129" name="christmasdeer" class="christmasdeer" x="0" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2130" name="christmasdeer" class="christmasdeer" x="-768" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2131" name="christmasdeer" class="christmasdeer" x="768" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2132" name="christmasdeer" class="christmasdeer" x="0" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2133" name="christmasgnome1" class="christmasgnome1" x="768" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2134" name="christmasgnome3" class="christmasgnome3" x="-768" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2136" name="christmasgnome2" class="christmasgnome2" x="-256" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2137" name="christmasgnome1" class="christmasgnome1" x="-768" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2138" name="christmasgnome2" class="christmasgnome2" x="768" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2140" name="christmasgnome3" class="christmasgnome3" x="256" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2141" name="christmasgnome2" class="christmasgnome2" x="-896" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2142" name="christmasgnome1" class="christmasgnome1" x="896" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2143" name="christmasgnome1" class="christmasgnome1" x="-896" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2144" name="christmasgnome3" class="christmasgnome3" x="896" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2145" name="christmasgnome2" class="christmasgnome2" x="-256" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2146" name="christmasgnome3" class="christmasgnome3" x="256" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2148" name="snowman" class="snowman" x="128" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2149" name="snowman" class="snowman" x="-128" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2150" name="snowman" class="snowman" x="896" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2151" name="snowman" class="snowman" x="896" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2152" name="snowman" class="snowman" x="128" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2153" name="snowman" class="snowman" x="-128" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2154" name="snowman" class="snowman" x="-896" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2155" name="snowman" class="snowman" x="-896" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps"/>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2032" name="giftbox" class="giftbox" x="-128" y="-256" width="128" height="128"/>
+  <object id="2033" name="giftbox" class="giftbox" x="-256" y="-128" width="128" height="128"/>
+  <object id="1978" name="main" class="secretchest" x="0" y="0" width="128" height="128"/>
+  <object id="2034" name="holidaytreebuilding" class="holidaytreebuilding" x="-340" y="-344" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

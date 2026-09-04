@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="2071">
+ <objectgroup id="1" name="floors" visible="0">
+  <object id="1921" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="-128" width="128" height="128"/>
+  <object id="1922" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="-128" width="128" height="128"/>
+  <object id="1923" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="0" width="128" height="128"/>
+  <object id="1924" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="128" width="128" height="128"/>
+  <object id="1925" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="128" width="128" height="128"/>
+  <object id="1926" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="128" width="128" height="128"/>
+  <object id="1927" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="0" width="128" height="128"/>
+  <object id="1928" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="-128" width="128" height="128"/>
+  <object id="1929" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="0" width="128" height="128"/>
+  <object id="1948" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="-384" width="128" height="128"/>
+  <object id="1949" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-256" width="128" height="128"/>
+  <object id="1950" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-128" width="128" height="128"/>
+  <object id="1951" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="0" width="128" height="128"/>
+  <object id="1952" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="128" width="128" height="128"/>
+  <object id="1953" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="256" width="128" height="128"/>
+  <object id="1954" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="384" width="128" height="128"/>
+  <object id="1955" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="384" width="128" height="128"/>
+  <object id="1956" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="384" width="128" height="128"/>
+  <object id="1957" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="384" width="128" height="128"/>
+  <object id="1958" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="384" width="128" height="128"/>
+  <object id="1959" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="256" width="128" height="128"/>
+  <object id="1960" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="128" width="128" height="128"/>
+  <object id="1961" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="0" width="128" height="128"/>
+  <object id="1962" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-128" width="128" height="128"/>
+  <object id="1963" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-256" width="128" height="128"/>
+  <object id="1964" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="-384" width="128" height="128"/>
+  <object id="1965" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="-384" width="128" height="128"/>
+  <object id="1966" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="-384" width="128" height="128"/>
+  <object id="1967" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="-384" width="128" height="128"/>
+  <object id="1968" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-512" y="-640" width="128" height="128"/>
+  <object id="1969" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-640" width="128" height="128"/>
+  <object id="1970" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-768" width="128" height="128"/>
+  <object id="1971" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="-640" width="128" height="128"/>
+  <object id="1972" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="-640" width="128" height="128"/>
+  <object id="1973" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="-640" width="128" height="128"/>
+  <object id="1974" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="-640" width="128" height="128"/>
+  <object id="1975" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-640" width="128" height="128"/>
+  <object id="1976" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="-640" width="128" height="128"/>
+  <object id="1977" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-768" width="128" height="128"/>
+  <object id="1978" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="-768" width="128" height="128"/>
+  <object id="1979" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="640" y="-512" width="128" height="128"/>
+  <object id="1980" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="512" y="-640" width="128" height="128"/>
+  <object id="1981" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="-512" width="128" height="128"/>
+  <object id="1982" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="-384" width="128" height="128"/>
+  <object id="1983" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="-256" width="128" height="128"/>
+  <object id="1984" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="-128" width="128" height="128"/>
+  <object id="1985" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="128" width="128" height="128"/>
+  <object id="1986" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="256" width="128" height="128"/>
+  <object id="1987" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="384" width="128" height="128"/>
+  <object id="1988" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-768" y="384" width="128" height="128"/>
+  <object id="1989" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-768" y="256" width="128" height="128"/>
+  <object id="1990" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-768" y="-384" width="128" height="128"/>
+  <object id="1991" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-768" y="-256" width="128" height="128"/>
+  <object id="1992" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="768" y="-384" width="128" height="128"/>
+  <object id="1993" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="768" y="-256" width="128" height="128"/>
+  <object id="1994" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="640" y="-384" width="128" height="128"/>
+  <object id="1995" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="640" y="-128" width="128" height="128"/>
+  <object id="1996" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="640" y="0" width="128" height="128"/>
+  <object id="1997" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="640" y="128" width="128" height="128"/>
+  <object id="1998" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="640" y="256" width="128" height="128"/>
+  <object id="1999" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="768" y="256" width="128" height="128"/>
+  <object id="2000" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="768" y="384" width="128" height="128"/>
+  <object id="2001" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="640" width="128" height="128"/>
+  <object id="2002" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="768" width="128" height="128"/>
+  <object id="2003" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="256" y="640" width="128" height="128"/>
+  <object id="2004" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="128" y="640" width="128" height="128"/>
+  <object id="2005" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="0" y="640" width="128" height="128"/>
+  <object id="2006" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-128" y="640" width="128" height="128"/>
+  <object id="2007" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="640" width="128" height="128"/>
+  <object id="2008" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="512" y="640" width="128" height="128"/>
+  <object id="2009" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="640" y="512" width="128" height="128"/>
+  <object id="2010" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-640" y="512" width="128" height="128"/>
+  <object id="2011" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-256" y="768" width="128" height="128"/>
+  <object id="2012" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="768" width="128" height="128"/>
+  <object id="2013" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-512" y="640" width="128" height="128"/>
+  <object id="2014" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="384" width="128" height="128"/>
+  <object id="2015" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="512" width="128" height="128"/>
+  <object id="2016" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-512" y="512" width="128" height="128"/>
+  <object id="2017" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-512" y="384" width="128" height="128"/>
+  <object id="2018" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="384" width="128" height="128"/>
+  <object id="2019" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="512" width="128" height="128"/>
+  <object id="2020" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="512" y="512" width="128" height="128"/>
+  <object id="2021" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="512" y="384" width="128" height="128"/>
+  <object id="2022" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="512" y="-512" width="128" height="128"/>
+  <object id="2023" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="512" y="-384" width="128" height="128"/>
+  <object id="2024" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-384" width="128" height="128"/>
+  <object id="2025" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="384" y="-512" width="128" height="128"/>
+  <object id="2026" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-512" width="128" height="128"/>
+  <object id="2027" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-384" y="-384" width="128" height="128"/>
+  <object id="2028" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-512" y="-384" width="128" height="128"/>
+  <object id="2029" name="decorativefloorhalloween1" class="decorativefloorhalloween1" x="-512" y="-512" width="128" height="128"/>
+  <object id="2030" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-256" y="256" width="128" height="128"/>
+  <object id="2031" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-512" y="128" width="128" height="128"/>
+  <object id="2032" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-640" y="0" width="128" height="128"/>
+  <object id="2033" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-512" y="-128" width="128" height="128"/>
+  <object id="2034" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-256" y="-256" width="128" height="128"/>
+  <object id="2035" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-128" y="-512" width="128" height="128"/>
+  <object id="2036" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="128" y="-512" width="128" height="128"/>
+  <object id="2037" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="256" y="-256" width="128" height="128"/>
+  <object id="2038" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="512" y="-128" width="128" height="128"/>
+  <object id="2039" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="640" y="-256" width="128" height="128"/>
+  <object id="2040" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="512" y="128" width="128" height="128"/>
+  <object id="2041" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="640" y="384" width="128" height="128"/>
+  <object id="2042" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="256" y="256" width="128" height="128"/>
+  <object id="2043" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="128" y="512" width="128" height="128"/>
+  <object id="2044" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="256" y="768" width="128" height="128"/>
+  <object id="2045" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-128" y="512" width="128" height="128"/>
+  <object id="2046" name="decorativefloorhalloween2" class="decorativefloorhalloween2" x="-384" y="640" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="walls">
+  <object id="1849" name="rockwall" class="rockwall" x="0" y="-256" width="128" height="128"/>
+  <object id="1850" name="rockwall" class="rockwall" x="-128" y="-256" width="128" height="128"/>
+  <object id="1851" name="rockwall" class="rockwall" x="-256" y="-128" width="128" height="128"/>
+  <object id="1852" name="rockwall" class="rockwall" x="-256" y="0" width="128" height="128"/>
+  <object id="1853" name="rockwall" class="rockwall" x="-256" y="128" width="128" height="128"/>
+  <object id="1854" name="rockwall" class="rockwall" x="128" y="-256" width="128" height="128"/>
+  <object id="1855" name="rockwall" class="rockwall" x="-128" y="256" width="128" height="128"/>
+  <object id="1856" name="rockwall" class="rockwall" x="0" y="256" width="128" height="128"/>
+  <object id="1857" name="rockwall" class="rockwall" x="128" y="256" width="128" height="128"/>
+  <object id="1858" name="rockwall" class="rockwall" x="256" y="128" width="128" height="128"/>
+  <object id="1859" name="rockwall" class="rockwall" x="256" y="0" width="128" height="128"/>
+  <object id="1860" name="rockwall" class="rockwall" x="256" y="-128" width="128" height="128"/>
+  <object id="1865" name="rockwall" class="rockwall" x="-512" y="256" width="128" height="128"/>
+  <object id="1866" name="rockwall" class="rockwall" x="-256" y="512" width="128" height="128"/>
+  <object id="1867" name="rockwall" class="rockwall" x="512" y="256" width="128" height="128"/>
+  <object id="1868" name="rockwall" class="rockwall" x="256" y="512" width="128" height="128"/>
+  <object id="1869" name="rockwall" class="rockwall" x="256" y="-512" width="128" height="128"/>
+  <object id="1870" name="rockwall" class="rockwall" x="512" y="-256" width="128" height="128"/>
+  <object id="1871" name="rockwall" class="rockwall" x="-256" y="-512" width="128" height="128"/>
+  <object id="1872" name="rockwall" class="rockwall" x="-512" y="-256" width="128" height="128"/>
+  <object id="1873" name="rockwall" class="rockwall" x="-512" y="0" width="128" height="128"/>
+  <object id="1874" name="rockwall" class="rockwall" x="512" y="0" width="128" height="128"/>
+  <object id="1875" name="rockwall" class="rockwall" x="0" y="-512" width="128" height="128"/>
+  <object id="1876" name="rockwall" class="rockwall" x="0" y="512" width="128" height="128"/>
+  <object id="1878" name="rockwall" class="rockwall" x="-640" y="-640" width="128" height="128"/>
+  <object id="1879" name="rockwall" class="rockwall" x="-512" y="-768" width="128" height="128"/>
+  <object id="1880" name="rockwall" class="rockwall" x="-768" y="-512" width="128" height="128"/>
+  <object id="1882" name="rockwall" class="rockwall" x="640" y="-640" width="128" height="128"/>
+  <object id="1883" name="rockwall" class="rockwall" x="512" y="-768" width="128" height="128"/>
+  <object id="1884" name="rockwall" class="rockwall" x="768" y="-512" width="128" height="128"/>
+  <object id="1887" name="rockwall" class="rockwall" x="-768" y="512" width="128" height="128"/>
+  <object id="1888" name="rockwall" class="rockwall" x="-640" y="640" width="128" height="128"/>
+  <object id="1889" name="rockwall" class="rockwall" x="-512" y="768" width="128" height="128"/>
+  <object id="1890" name="rockwall" class="rockwall" x="640" y="640" width="128" height="128"/>
+  <object id="1891" name="rockwall" class="rockwall" x="768" y="512" width="128" height="128"/>
+  <object id="1892" name="rockwall" class="rockwall" x="512" y="768" width="128" height="128"/>
+  <object id="1893" name="rockwall" class="rockwall" x="-768" y="0" width="128" height="128"/>
+  <object id="1894" name="rockwall" class="rockwall" x="-768" y="-128" width="128" height="128"/>
+  <object id="1895" name="rockwall" class="rockwall" x="-768" y="128" width="128" height="128"/>
+  <object id="1896" name="rockwall" class="rockwall" x="768" y="-128" width="128" height="128"/>
+  <object id="1897" name="rockwall" class="rockwall" x="768" y="0" width="128" height="128"/>
+  <object id="1898" name="rockwall" class="rockwall" x="768" y="128" width="128" height="128"/>
+  <object id="1899" name="rockwall" class="rockwall" x="-128" y="-768" width="128" height="128"/>
+  <object id="1900" name="rockwall" class="rockwall" x="0" y="-768" width="128" height="128"/>
+  <object id="1901" name="rockwall" class="rockwall" x="128" y="-768" width="128" height="128"/>
+  <object id="1902" name="rockwall" class="rockwall" x="-128" y="768" width="128" height="128"/>
+  <object id="1903" name="rockwall" class="rockwall" x="128" y="768" width="128" height="128"/>
+  <object id="1904" name="rockwall" class="rockwall" x="0" y="768" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="towers">
+  <object id="1917" name="stonearchertower" class="stonearchertower" x="-512" y="-512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1918" name="stonearchertower" class="stonearchertower" x="384" y="-512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1919" name="stonearchertower" class="stonearchertower" x="384" y="384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1920" name="stonearchertower" class="stonearchertower" x="-512" y="384" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="6" name="guards">
+  <object id="1905" name="spidercocoon" class="spidercocoon" x="512" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1906" name="spidercocoon" class="spidercocoon" x="-640" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1907" name="spidercocoon" class="spidercocoon" x="-640" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1908" name="spidercocoon" class="spidercocoon" x="512" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1909" name="spidercocoon" class="spidercocoon" x="0" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1910" name="spidercocoon" class="spidercocoon" x="640" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1911" name="spidercocoon" class="spidercocoon" x="-640" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1912" name="spidercocoon" class="spidercocoon" x="896" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1913" name="spidercocoon" class="spidercocoon" x="-896" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1914" name="spidercocoon" class="spidercocoon" x="0" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1915" name="spidercocoon" class="spidercocoon" x="-640" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1916" name="spidercocoon" class="spidercocoon" x="640" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2047" name="zombie" class="zombie" x="640" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2048" name="zombie" class="zombie" x="896" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2049" name="zombie" class="zombie" x="-640" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2050" name="zombie" class="zombie" x="-896" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2051" name="zombie" class="zombie" x="-896" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2052" name="zombie" class="zombie" x="-640" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2053" name="zombie" class="zombie" x="640" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2054" name="zombie" class="zombie" x="896" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2055" name="zombie" class="zombie" x="896" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2056" name="zombie" class="zombie" x="-896" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2057" name="zombie" class="zombie" x="-128" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2058" name="zombie" class="zombie" x="-128" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps">
+  <object id="1930" name="trap" class="trap" x="128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1931" name="trap" class="trap" x="-128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1932" name="trap" class="trap" x="-512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1933" name="trap" class="trap" x="-512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1934" name="trap" class="trap" x="-128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1935" name="trap" class="trap" x="128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1936" name="trap" class="trap" x="512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1937" name="trap" class="trap" x="512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1938" name="trap" class="trap" x="256" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1939" name="trap" class="trap" x="-256" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1940" name="trap" class="trap" x="-256" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1941" name="trap" class="trap" x="256" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1942" name="trap" class="trap" x="256" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1943" name="trap" class="trap" x="-384" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1944" name="trap" class="trap" x="-640" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1945" name="trap" class="trap" x="-256" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1946" name="trap" class="trap" x="640" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1947" name="trap" class="trap" x="640" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="1848" name="main" class="spiderchest" x="0" y="0" width="128" height="128"/>
+  <object id="2059" name="pumpkinlamp" class="pumpkinlamp" x="128" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2060" name="pumpkinlamp" class="pumpkinlamp" x="-128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2061" name="pumpkinlamp" class="pumpkinlamp" x="-512" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2062" name="pumpkinlamp" class="pumpkinlamp" x="-512" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2063" name="pumpkinlamp" class="pumpkinlamp" x="768" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2064" name="pumpkinlamp" class="pumpkinlamp" x="640" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2065" name="foreignheartstone" class="foreignheartstone" x="-128" y="-128" width="128" height="128"/>
+  <object id="2066" name="foreignheartstone" class="foreignheartstone" x="128" y="128" width="128" height="128"/>
+  <object id="2067" name="foreignheartstone" class="foreignheartstone" x="0" y="128" width="128" height="128"/>
+  <object id="2068" name="foreignheartstone" class="foreignheartstone" x="128" y="0" width="128" height="128"/>
+  <object id="2069" name="foreignheartstone" class="foreignheartstone" x="-768" y="-640" width="128" height="128"/>
+  <object id="2070" name="foreignheartstone" class="foreignheartstone" x="640" y="768" width="128" height="128"/>
+ </objectgroup>
+</map>

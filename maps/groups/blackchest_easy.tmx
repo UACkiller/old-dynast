@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="2129">
+ <objectgroup id="2" name="walls"/>
+ <objectgroup id="3" name="towers">
+  <object id="1781" name="fireballtower" class="fireballtower" x="384" y="-512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1782" name="fireballtower" class="fireballtower" x="-512" y="-512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1783" name="fireballtower" class="fireballtower" x="384" y="384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1784" name="fireballtower" class="fireballtower" x="-512" y="384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1785" name="snowballtower" class="snowballtower" x="128" y="-512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1786" name="snowballtower" class="snowballtower" x="384" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1787" name="snowballtower" class="snowballtower" x="-256" y="-512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1788" name="snowballtower" class="snowballtower" x="-512" y="-256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1789" name="snowballtower" class="snowballtower" x="-512" y="128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1790" name="snowballtower" class="snowballtower" x="-256" y="384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1791" name="snowballtower" class="snowballtower" x="128" y="384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1792" name="snowballtower" class="snowballtower" x="384" y="128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1845" name="snowballtower" class="snowballtower" x="-896" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1846" name="snowballtower" class="snowballtower" x="-640" y="-896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1847" name="snowballtower" class="snowballtower" x="512" y="-896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1848" name="snowballtower" class="snowballtower" x="768" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1849" name="snowballtower" class="snowballtower" x="768" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1850" name="snowballtower" class="snowballtower" x="512" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1851" name="snowballtower" class="snowballtower" x="-896" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="1852" name="snowballtower" class="snowballtower" x="-640" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="platforms">
+  <object id="1757" name="platform" class="platform" x="128" y="-128" width="128" height="128"/>
+  <object id="1758" name="platform" class="platform" x="0" y="-128" width="128" height="128"/>
+  <object id="1759" name="platform" class="platform" x="-128" y="-128" width="128" height="128"/>
+  <object id="1760" name="platform" class="platform" x="-128" y="0" width="128" height="128"/>
+  <object id="1761" name="platform" class="platform" x="-128" y="128" width="128" height="128"/>
+  <object id="1762" name="platform" class="platform" x="0" y="128" width="128" height="128"/>
+  <object id="1763" name="platform" class="platform" x="128" y="128" width="128" height="128"/>
+  <object id="1764" name="platform" class="platform" x="128" y="0" width="128" height="128"/>
+  <object id="1765" name="diamondwall" class="diamondwall" x="256" y="-256" width="128" height="128"/>
+  <object id="1766" name="diamondwall" class="diamondwall" x="128" y="-256" width="128" height="128"/>
+  <object id="1767" name="diamondwall" class="diamondwall" x="256" y="-128" width="128" height="128"/>
+  <object id="1768" name="diamondwall" class="diamondwall" x="256" y="0" width="128" height="128"/>
+  <object id="1769" name="diamondwall" class="diamondwall" x="256" y="128" width="128" height="128"/>
+  <object id="1770" name="diamondwall" class="diamondwall" x="256" y="256" width="128" height="128"/>
+  <object id="1771" name="diamondwall" class="diamondwall" x="128" y="256" width="128" height="128"/>
+  <object id="1772" name="diamondwall" class="diamondwall" x="0" y="256" width="128" height="128"/>
+  <object id="1773" name="diamondwall" class="diamondwall" x="-128" y="256" width="128" height="128"/>
+  <object id="1774" name="diamondwall" class="diamondwall" x="-256" y="256" width="128" height="128"/>
+  <object id="1775" name="diamondwall" class="diamondwall" x="-256" y="128" width="128" height="128"/>
+  <object id="1776" name="diamondwall" class="diamondwall" x="-256" y="0" width="128" height="128"/>
+  <object id="1777" name="diamondwall" class="diamondwall" x="-256" y="-128" width="128" height="128"/>
+  <object id="1778" name="diamondwall" class="diamondwall" x="-256" y="-256" width="128" height="128"/>
+  <object id="1779" name="diamondwall" class="diamondwall" x="-128" y="-256" width="128" height="128"/>
+  <object id="1780" name="diamondwall" class="diamondwall" x="0" y="-256" width="128" height="128"/>
+  <object id="1794" name="diamondwall" class="diamondwall" x="-512" y="-640" width="128" height="128"/>
+  <object id="1795" name="diamondwall" class="diamondwall" x="-384" y="-640" width="128" height="128"/>
+  <object id="1796" name="diamondwall" class="diamondwall" x="-256" y="-640" width="128" height="128"/>
+  <object id="1797" name="diamondwall" class="diamondwall" x="-256" y="-768" width="128" height="128"/>
+  <object id="1798" name="diamondwall" class="diamondwall" x="-128" y="-768" width="128" height="128"/>
+  <object id="1799" name="diamondwall" class="diamondwall" x="128" y="-768" width="128" height="128"/>
+  <object id="1800" name="diamondwall" class="diamondwall" x="256" y="-768" width="128" height="128"/>
+  <object id="1801" name="diamondwall" class="diamondwall" x="256" y="-640" width="128" height="128"/>
+  <object id="1802" name="diamondwall" class="diamondwall" x="384" y="-640" width="128" height="128"/>
+  <object id="1803" name="diamondwall" class="diamondwall" x="512" y="-640" width="128" height="128"/>
+  <object id="1804" name="diamondwall" class="diamondwall" x="-512" y="640" width="128" height="128"/>
+  <object id="1805" name="diamondwall" class="diamondwall" x="-384" y="640" width="128" height="128"/>
+  <object id="1806" name="diamondwall" class="diamondwall" x="-256" y="640" width="128" height="128"/>
+  <object id="1807" name="diamondwall" class="diamondwall" x="-256" y="768" width="128" height="128"/>
+  <object id="1808" name="diamondwall" class="diamondwall" x="-128" y="768" width="128" height="128"/>
+  <object id="1809" name="diamondwall" class="diamondwall" x="128" y="768" width="128" height="128"/>
+  <object id="1810" name="diamondwall" class="diamondwall" x="256" y="768" width="128" height="128"/>
+  <object id="1811" name="diamondwall" class="diamondwall" x="256" y="640" width="128" height="128"/>
+  <object id="1812" name="diamondwall" class="diamondwall" x="384" y="640" width="128" height="128"/>
+  <object id="1813" name="diamondwall" class="diamondwall" x="512" y="640" width="128" height="128"/>
+  <object id="1814" name="diamondwall" class="diamondwall" x="640" y="-512" width="128" height="128"/>
+  <object id="1815" name="diamondwall" class="diamondwall" x="640" y="-384" width="128" height="128"/>
+  <object id="1816" name="diamondwall" class="diamondwall" x="640" y="-256" width="128" height="128"/>
+  <object id="1817" name="diamondwall" class="diamondwall" x="768" y="-256" width="128" height="128"/>
+  <object id="1818" name="diamondwall" class="diamondwall" x="768" y="-128" width="128" height="128"/>
+  <object id="1819" name="diamondwall" class="diamondwall" x="768" y="128" width="128" height="128"/>
+  <object id="1820" name="diamondwall" class="diamondwall" x="768" y="256" width="128" height="128"/>
+  <object id="1821" name="diamondwall" class="diamondwall" x="640" y="256" width="128" height="128"/>
+  <object id="1822" name="diamondwall" class="diamondwall" x="640" y="384" width="128" height="128"/>
+  <object id="1823" name="diamondwall" class="diamondwall" x="640" y="512" width="128" height="128"/>
+  <object id="1826" name="diamondwall" class="diamondwall" x="-640" y="-512" width="128" height="128"/>
+  <object id="1827" name="diamondwall" class="diamondwall" x="-640" y="-384" width="128" height="128"/>
+  <object id="1828" name="diamondwall" class="diamondwall" x="-640" y="-256" width="128" height="128"/>
+  <object id="1829" name="diamondwall" class="diamondwall" x="-768" y="-256" width="128" height="128"/>
+  <object id="1830" name="diamondwall" class="diamondwall" x="-768" y="-128" width="128" height="128"/>
+  <object id="1831" name="diamondwall" class="diamondwall" x="-768" y="128" width="128" height="128"/>
+  <object id="1832" name="diamondwall" class="diamondwall" x="-768" y="256" width="128" height="128"/>
+  <object id="1833" name="diamondwall" class="diamondwall" x="-640" y="256" width="128" height="128"/>
+  <object id="1834" name="diamondwall" class="diamondwall" x="-640" y="384" width="128" height="128"/>
+  <object id="1835" name="diamondwall" class="diamondwall" x="-640" y="512" width="128" height="128"/>
+  <object id="1837" name="diamondwall" class="diamondwall" x="-640" y="-640" width="128" height="128"/>
+  <object id="1838" name="diamondwall" class="diamondwall" x="-640" y="640" width="128" height="128"/>
+  <object id="1839" name="diamondwall" class="diamondwall" x="640" y="640" width="128" height="128"/>
+  <object id="1840" name="diamondwall" class="diamondwall" x="640" y="-640" width="128" height="128"/>
+  <object id="1841" name="diamondwall" class="diamondwall" x="-768" y="0" width="128" height="128"/>
+  <object id="1842" name="diamondwall" class="diamondwall" x="0" y="-768" width="128" height="128"/>
+  <object id="1843" name="diamondwall" class="diamondwall" x="768" y="0" width="128" height="128"/>
+  <object id="1844" name="diamondwall" class="diamondwall" x="0" y="768" width="128" height="128"/>
+  <object id="1853" name="diamondwall" class="diamondwall" x="-768" y="-768" width="128" height="128"/>
+  <object id="1854" name="diamondwall" class="diamondwall" x="-896" y="-768" width="128" height="128"/>
+  <object id="1855" name="diamondwall" class="diamondwall" x="-1024" y="-768" width="128" height="128"/>
+  <object id="1856" name="diamondwall" class="diamondwall" x="-1024" y="-640" width="128" height="128"/>
+  <object id="1857" name="diamondwall" class="diamondwall" x="-1024" y="-512" width="128" height="128"/>
+  <object id="1858" name="diamondwall" class="diamondwall" x="-1024" y="-384" width="128" height="128"/>
+  <object id="1859" name="diamondwall" class="diamondwall" x="-896" y="-384" width="128" height="128"/>
+  <object id="1860" name="diamondwall" class="diamondwall" x="-768" y="-384" width="128" height="128"/>
+  <object id="1861" name="diamondwall" class="diamondwall" x="-768" y="-896" width="128" height="128"/>
+  <object id="1862" name="diamondwall" class="diamondwall" x="-768" y="-1024" width="128" height="128"/>
+  <object id="1863" name="diamondwall" class="diamondwall" x="-640" y="-1024" width="128" height="128"/>
+  <object id="1864" name="diamondwall" class="diamondwall" x="-512" y="-1024" width="128" height="128"/>
+  <object id="1865" name="diamondwall" class="diamondwall" x="-384" y="-1024" width="128" height="128"/>
+  <object id="1866" name="diamondwall" class="diamondwall" x="-384" y="-896" width="128" height="128"/>
+  <object id="1867" name="diamondwall" class="diamondwall" x="-384" y="-768" width="128" height="128"/>
+  <object id="1868" name="diamondwall" class="diamondwall" x="384" y="-1024" width="128" height="128"/>
+  <object id="1869" name="diamondwall" class="diamondwall" x="512" y="-1024" width="128" height="128"/>
+  <object id="1870" name="diamondwall" class="diamondwall" x="640" y="-1024" width="128" height="128"/>
+  <object id="1871" name="diamondwall" class="diamondwall" x="768" y="-1024" width="128" height="128"/>
+  <object id="1872" name="diamondwall" class="diamondwall" x="384" y="1024" width="128" height="128"/>
+  <object id="1873" name="diamondwall" class="diamondwall" x="512" y="1024" width="128" height="128"/>
+  <object id="1874" name="diamondwall" class="diamondwall" x="640" y="1024" width="128" height="128"/>
+  <object id="1875" name="diamondwall" class="diamondwall" x="768" y="1024" width="128" height="128"/>
+  <object id="1876" name="diamondwall" class="diamondwall" x="-768" y="1024" width="128" height="128"/>
+  <object id="1877" name="diamondwall" class="diamondwall" x="-640" y="1024" width="128" height="128"/>
+  <object id="1878" name="diamondwall" class="diamondwall" x="-512" y="1024" width="128" height="128"/>
+  <object id="1879" name="diamondwall" class="diamondwall" x="-384" y="1024" width="128" height="128"/>
+  <object id="1880" name="diamondwall" class="diamondwall" x="-1024" y="384" width="128" height="128"/>
+  <object id="1881" name="diamondwall" class="diamondwall" x="-1024" y="512" width="128" height="128"/>
+  <object id="1882" name="diamondwall" class="diamondwall" x="-1024" y="640" width="128" height="128"/>
+  <object id="1883" name="diamondwall" class="diamondwall" x="-1024" y="768" width="128" height="128"/>
+  <object id="1884" name="diamondwall" class="diamondwall" x="1024" y="384" width="128" height="128"/>
+  <object id="1885" name="diamondwall" class="diamondwall" x="1024" y="512" width="128" height="128"/>
+  <object id="1886" name="diamondwall" class="diamondwall" x="1024" y="640" width="128" height="128"/>
+  <object id="1887" name="diamondwall" class="diamondwall" x="1024" y="768" width="128" height="128"/>
+  <object id="1888" name="diamondwall" class="diamondwall" x="1024" y="-768" width="128" height="128"/>
+  <object id="1889" name="diamondwall" class="diamondwall" x="1024" y="-640" width="128" height="128"/>
+  <object id="1890" name="diamondwall" class="diamondwall" x="1024" y="-512" width="128" height="128"/>
+  <object id="1891" name="diamondwall" class="diamondwall" x="1024" y="-384" width="128" height="128"/>
+  <object id="1892" name="diamondwall" class="diamondwall" x="384" y="-896" width="128" height="128"/>
+  <object id="1893" name="diamondwall" class="diamondwall" x="384" y="-768" width="128" height="128"/>
+  <object id="1894" name="diamondwall" class="diamondwall" x="768" y="-896" width="128" height="128"/>
+  <object id="1895" name="diamondwall" class="diamondwall" x="768" y="-768" width="128" height="128"/>
+  <object id="1896" name="diamondwall" class="diamondwall" x="896" y="-768" width="128" height="128"/>
+  <object id="1897" name="diamondwall" class="diamondwall" x="896" y="-384" width="128" height="128"/>
+  <object id="1898" name="diamondwall" class="diamondwall" x="768" y="-384" width="128" height="128"/>
+  <object id="1899" name="diamondwall" class="diamondwall" x="896" y="384" width="128" height="128"/>
+  <object id="1900" name="diamondwall" class="diamondwall" x="768" y="384" width="128" height="128"/>
+  <object id="1901" name="diamondwall" class="diamondwall" x="896" y="768" width="128" height="128"/>
+  <object id="1902" name="diamondwall" class="diamondwall" x="768" y="768" width="128" height="128"/>
+  <object id="1903" name="diamondwall" class="diamondwall" x="768" y="896" width="128" height="128"/>
+  <object id="1904" name="diamondwall" class="diamondwall" x="384" y="896" width="128" height="128"/>
+  <object id="1905" name="diamondwall" class="diamondwall" x="384" y="768" width="128" height="128"/>
+  <object id="1906" name="diamondwall" class="diamondwall" x="-384" y="896" width="128" height="128"/>
+  <object id="1907" name="diamondwall" class="diamondwall" x="-384" y="768" width="128" height="128"/>
+  <object id="1908" name="diamondwall" class="diamondwall" x="-768" y="768" width="128" height="128"/>
+  <object id="1909" name="diamondwall" class="diamondwall" x="-768" y="896" width="128" height="128"/>
+  <object id="1910" name="diamondwall" class="diamondwall" x="-896" y="768" width="128" height="128"/>
+  <object id="1911" name="diamondwall" class="diamondwall" x="-768" y="384" width="128" height="128"/>
+  <object id="1912" name="diamondwall" class="diamondwall" x="-896" y="384" width="128" height="128"/>
+  <object id="1917" name="platform" class="platform" x="-128" y="-640" width="128" height="128"/>
+  <object id="1918" name="platform" class="platform" x="0" y="-640" width="128" height="128"/>
+  <object id="1919" name="platform" class="platform" x="128" y="-640" width="128" height="128"/>
+  <object id="1920" name="platform" class="platform" x="640" y="-128" width="128" height="128"/>
+  <object id="1921" name="platform" class="platform" x="640" y="0" width="128" height="128"/>
+  <object id="1922" name="platform" class="platform" x="640" y="128" width="128" height="128"/>
+  <object id="1923" name="platform" class="platform" x="-640" y="-128" width="128" height="128"/>
+  <object id="1924" name="platform" class="platform" x="-640" y="0" width="128" height="128"/>
+  <object id="1925" name="platform" class="platform" x="-640" y="128" width="128" height="128"/>
+  <object id="1926" name="platform" class="platform" x="-128" y="640" width="128" height="128"/>
+  <object id="1927" name="platform" class="platform" x="0" y="640" width="128" height="128"/>
+  <object id="1928" name="platform" class="platform" x="128" y="640" width="128" height="128"/>
+  <object id="1931" name="firewatchertower" class="firewatchertower" x="0" y="512" width="128" height="128"/>
+  <object id="1932" name="firewatchertower" class="firewatchertower" x="-512" y="0" width="128" height="128"/>
+  <object id="1933" name="firewatchertower" class="firewatchertower" x="512" y="0" width="128" height="128"/>
+  <object id="1934" name="firewatchertower" class="firewatchertower" x="0" y="-512" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="5" name="guard_archers">
+  <object id="1967" name="guardarcher" class="guardarcher" x="0" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1968" name="guardarcher" class="guardarcher" x="-128" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1969" name="guardarcher" class="guardarcher" x="128" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1970" name="guardarcher" class="guardarcher" x="128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1971" name="guardarcher" class="guardarcher" x="-128" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1972" name="guardarcher" class="guardarcher" x="640" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1973" name="guardarcher" class="guardarcher" x="-640" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1974" name="guardarcher" class="guardarcher" x="0" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1975" name="guardarcher" class="guardarcher" x="128" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1976" name="guardarcher" class="guardarcher" x="-640" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1977" name="guardarcher" class="guardarcher" x="128" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1978" name="guardarcher" class="guardarcher" x="640" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1979" name="guardarcher" class="guardarcher" x="0" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="guards">
+  <object id="1935" name="woodspikes" class="woodspikes" x="896" y="-128" width="128" height="128"/>
+  <object id="1936" name="woodspikes" class="woodspikes" x="896" y="-256" width="128" height="128"/>
+  <object id="1937" name="woodspikes" class="woodspikes" x="896" y="0" width="128" height="128"/>
+  <object id="1938" name="woodspikes" class="woodspikes" x="896" y="128" width="128" height="128"/>
+  <object id="1939" name="woodspikes" class="woodspikes" x="896" y="256" width="128" height="128"/>
+  <object id="1940" name="woodspikes" class="woodspikes" x="-256" y="896" width="128" height="128"/>
+  <object id="1941" name="woodspikes" class="woodspikes" x="-128" y="896" width="128" height="128"/>
+  <object id="1942" name="woodspikes" class="woodspikes" x="0" y="896" width="128" height="128"/>
+  <object id="1943" name="woodspikes" class="woodspikes" x="128" y="896" width="128" height="128"/>
+  <object id="1944" name="woodspikes" class="woodspikes" x="256" y="896" width="128" height="128"/>
+  <object id="1945" name="woodspikes" class="woodspikes" x="-896" y="256" width="128" height="128"/>
+  <object id="1946" name="woodspikes" class="woodspikes" x="-896" y="128" width="128" height="128"/>
+  <object id="1947" name="woodspikes" class="woodspikes" x="-896" y="0" width="128" height="128"/>
+  <object id="1948" name="woodspikes" class="woodspikes" x="-896" y="-128" width="128" height="128"/>
+  <object id="1949" name="woodspikes" class="woodspikes" x="-896" y="-256" width="128" height="128"/>
+  <object id="1950" name="woodspikes" class="woodspikes" x="-256" y="-896" width="128" height="128"/>
+  <object id="1951" name="woodspikes" class="woodspikes" x="-128" y="-896" width="128" height="128"/>
+  <object id="1952" name="woodspikes" class="woodspikes" x="0" y="-896" width="128" height="128"/>
+  <object id="1953" name="woodspikes" class="woodspikes" x="256" y="-896" width="128" height="128"/>
+  <object id="1954" name="woodspikes" class="woodspikes" x="128" y="-896" width="128" height="128"/>
+  <object id="1955" name="woodspikes" class="woodspikes" x="896" y="-1024" width="128" height="128"/>
+  <object id="1956" name="woodspikes" class="woodspikes" x="896" y="-896" width="128" height="128"/>
+  <object id="1957" name="woodspikes" class="woodspikes" x="1024" y="-896" width="128" height="128"/>
+  <object id="1958" name="woodspikes" class="woodspikes" x="1024" y="896" width="128" height="128"/>
+  <object id="1959" name="woodspikes" class="woodspikes" x="896" y="896" width="128" height="128"/>
+  <object id="1960" name="woodspikes" class="woodspikes" x="896" y="1024" width="128" height="128"/>
+  <object id="1961" name="woodspikes" class="woodspikes" x="-1024" y="896" width="128" height="128"/>
+  <object id="1962" name="woodspikes" class="woodspikes" x="-896" y="896" width="128" height="128"/>
+  <object id="1963" name="woodspikes" class="woodspikes" x="-896" y="1024" width="128" height="128"/>
+  <object id="1964" name="woodspikes" class="woodspikes" x="-1024" y="-896" width="128" height="128"/>
+  <object id="1965" name="woodspikes" class="woodspikes" x="-896" y="-896" width="128" height="128"/>
+  <object id="1966" name="woodspikes" class="woodspikes" x="-896" y="-1024" width="128" height="128"/>
+  <object id="1980" name="guard" class="guard" x="1024" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1981" name="guard" class="guard" x="1024" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1982" name="guard" class="guard" x="1024" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1983" name="guard" class="guard" x="-128" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1984" name="guard" class="guard" x="0" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1985" name="guard" class="guard" x="128" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1986" name="guard" class="guard" x="-1024" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1987" name="guard" class="guard" x="-1024" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1988" name="guard" class="guard" x="-1024" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1989" name="guard" class="guard" x="-128" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1990" name="guard" class="guard" x="0" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1991" name="guard" class="guard" x="128" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1992" name="guard" class="guard" x="-1408" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1993" name="guard" class="guard" x="-1280" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1994" name="guard" class="guard" x="-896" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1995" name="guard" class="guard" x="768" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1996" name="guard" class="guard" x="1280" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1997" name="guard" class="guard" x="1280" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1998" name="guard" class="guard" x="1536" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1999" name="guard" class="guard" x="1280" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2000" name="guard" class="guard" x="768" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2001" name="guard" class="guard" x="-1024" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2002" name="guard" class="guard" x="-1280" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2003" name="guard" class="guard" x="-1280" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" class="blackchest" x="0" y="0" width="128" height="128"/>
+ </objectgroup>
+</map>

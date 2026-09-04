@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="80" height="80" tilewidth="256" tileheight="256" infinite="0" nextlayerid="8" nextobjectid="9990">
+ <tileset firstgid="1" source="Tiles_collection/Tiles.tsx"/>
+ <tileset firstgid="257" source="Tiles_collection/Decals.tsx"/>
+ <layer id="6" name="Background" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2FtOwzAQQFGzhIYVQP+RElYArICwAmAFPDbAY+E4SkeMrEltp1LVeu7H+WjlROrVOJE7hhBGAAAAAAAAAAAAAABwFG/RS4X3ldct3efcPUUXFR5XXrd0n3NHP/q10G+k3+p+VrtrZfp8Qz+zX8ncpe3oN1+3ibqdy4p23vptVB/d7yr879GfPQ0995va/UbbTL/ahq33k5mTRtLvOcznh1ejn17nvV8f3SaN0tma1gzRJ/3M2ZO9m2vTq4ale7jlftbsfey+W+qh15bMYMv99HujpIm19i66jx6c9tN7Mrcv0/fINuTPya33s7pYDdPZk376Pe21XzqDaUOrXe456amfNYPSsNvTTp9XvPezZtCi564P+Rn00i/XcOo2FPTy3E8aDgbZr13g/4O1pG3NDNLvMPSjH/0O9xXmc+qxfZ/AbwcAAAAAAAAAAAAAAABO1R+oskox
+  </data>
+ </layer>
+ <objectgroup id="7" name="Objects">
+  <object id="9943" x="7699.44" y="6760.2" width="1534.03" height="369.121">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffffff">1. Set world.json -&gt; spawning.search_free_position to false, to spawn character in exact places. 
+
+Oh, and you can use tiled 1.9 text fields. </text>
+  </object>
+  <object id="9945" x="7692.47" y="7192.8" width="862.03" height="277.121">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">2. You can create colliders to make invisible walls, like water on this map.</text>
+  </object>
+  <object id="9952" x="7686.29" y="7525.41" width="1867.55" height="309.727">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">3. Put any image into map images/ folder, and use scripting to create custom objects. 
+You can find all scripting examples with comments below. </text>
+  </object>
+  <object id="9956" x="8001.44" y="7916.32" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">4. Simple talking gardener from glorio. </text>
+  </object>
+  <object id="9958" x="7983.26" y="8689.05" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">5. Guess the number game. </text>
+  </object>
+  <object id="9960" x="8011.26" y="9705.05" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">5. Singing gardeners</text>
+  </object>
+  <object id="9971" x="7987.26" y="12433" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">6. This gardener can ensure you have an 100 diamonds.</text>
+  </object>
+  <object id="9972" x="9887.26" y="12429" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">7. This gardener trade 100 diamonds to 1 healwand.</text>
+  </object>
+  <object id="9974" x="9847.26" y="11485" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">8. Use this gardener to clear your inventory</text>
+  </object>
+  <object id="9976" x="9755.26" y="10641" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">9. Setup logs in settings/log4rs.yml to debug scripts</text>
+  </object>
+  <object id="9977" x="10207.3" y="9829.05" width="1199.91" height="272.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">10. Spawn example</text>
+  </object>
+  <object id="9979" x="13128" y="10280" width="1263.91" height="416.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">11. You can use `shape_from_tiled` property, to load physics shape (width/height/type) from tiled. 
+Step up on this puddle, to receive deathshield. </text>
+  </object>
+  <object id="9982" x="12420" y="8660" width="1263.91" height="416.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">12. You can use rotation also</text>
+  </object>
+  <object id="9986" x="12404" y="11608" width="1595.91" height="408.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">13. Map objects attach sandboxed mod behaviours by canonical ID.
+Enable demo:map and edit mods/map_behaviors/behaviors/interactive_prop.rhai; reload through the mod admin API. </text>
+  </object>
+  <object id="9989" x="10636" y="8540" width="1595.91" height="408.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">14. You can also work with components and damages.</text>
+  </object>
+  <object id="9966" x="7967.26" y="11297" width="1079.91" height="248.636">
+   <text fontfamily="MS Shell Dlg 2" pixelsize="67" wrap="1" color="#ffaa00">6. Doors example</text>
+  </object>
+  <object id="9944" name="spawnpoint" class="spawnpoint" x="8098" y="7136" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9946" name="collider" class="collider" x="5360.61" y="6352.97" width="1512" height="6936"/>
+  <object id="9950" name="collider" class="collider" x="9752.61" y="6264.97" width="696" height="2675.88"/>
+  <object id="9985" name="collider" class="collider" x="10784.2" y="7973.47" width="768" height="256" rotation="315.561"/>
+  <object id="9951" name="collider" class="collider" x="9804.12" y="8943.76" width="620.242" height="188"/>
+  <object id="9947" name="collider" class="collider" x="6112.61" y="5048.97" width="8624" height="1536"/>
+  <object id="9949" name="collider" class="collider" x="6235.39" y="13107.3" width="8624" height="1536"/>
+  <object id="9948" name="collider" class="collider" x="14432.6" y="6520.97" width="1248" height="7200"/>
+  <object id="9954" name="Gardener" class="scriptableentity" x="7680" y="7936" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_1"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9957" name="Gardener" class="scriptableentity" x="7670.91" y="8699.64" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_2"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9959" name="Gardener" class="scriptableentity" x="7698.91" y="9715.64" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_3"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9970" name="Gardener" class="scriptableentity" x="7674.91" y="12443.6" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_7"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9973" name="Gardener" class="scriptableentity" x="9574.91" y="12439.6" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_8"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9975" name="Gardener" class="scriptableentity" x="9534.91" y="11495.6" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_9"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9978" name="Gardener" class="scriptableentity" x="9822.91" y="9743.64" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_10"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9987" name="Gardener" class="scriptableentity" x="12406.9" y="12163.6" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_10"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9988" name="Gardener" class="scriptableentity" x="10638.9" y="9095.6" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_14"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9967" name="Switcher" class="scriptableentity" x="7680" y="11264" width="256" height="256">
+   <properties>
+    <property name="guid" value="switcher_1"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9969" name="Switcher" class="scriptableentity" x="8192" y="11520" width="256" height="256">
+   <properties>
+    <property name="guid" value="door_1"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9961" name="Gardener" class="scriptableentity" x="7942.91" y="10239.6" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_4"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9964" name="Gardener" class="scriptableentity" x="8346.91" y="9943.64" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_5"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9965" name="Gardener" class="scriptableentity" x="8390.91" y="10555.6" width="256" height="256">
+   <properties>
+    <property name="guid" value="gardener_6"/>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="physics.shape.height" type="float" value="1.28"/>
+    <property name="physics.shape.shape" value="cuboid"/>
+    <property name="physics.shape.width" type="float" value="1.28"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+   </properties>
+  </object>
+  <object id="9981" name="Plate" class="scriptableentity" x="12397.3" y="10068" width="576" height="568">
+   <properties>
+    <property name="physics.is_sensor" type="bool" value="true"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+    <property name="shape_from_tiled" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="9983" name="Plate" class="scriptableentity" x="12807.3" y="8238.98" width="768" height="256" rotation="317.201">
+   <properties>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_sensor" type="bool" value="false"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+    <property name="shape_from_tiled" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="9984" name="Plate" class="scriptableentity" x="12288" y="7680" width="768" height="256">
+   <properties>
+    <property name="physics.collision_group" value="StaticGroup"/>
+    <property name="physics.is_sensor" type="bool" value="false"/>
+    <property name="physics.is_static" type="bool" value="true"/>
+    <property name="behavior" value="demo:map:interactive_prop"/>
+    <property name="shape_from_tiled" type="bool" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

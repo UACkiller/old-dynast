@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.11" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="66" height="66" tilewidth="256" tileheight="256" infinite="0" nextlayerid="9" nextobjectid="11658">
+ <tileset firstgid="1" source="Tiles_collection/Tiles.tsx"/>
+ <tileset firstgid="257" source="Tiles_collection/Decals.tsx"/>
+ <layer id="6" name="Background" width="66" height="66">
+  <data encoding="base64" compression="zlib">
+   eJzVW9tx20gQXIcgMwKcIpAVAXwRyBcBpQgsOwGdHbiBKk5dq9nz2F3Q5fuYKoncx0zPewCurbW/N/pQoLVj7f+Nzhu9FOXGtft3nwNceO/dRh+JTuLzkzjL28vfq70jFMmNa3b5/93oK32P+23v3YW/h40+AX3f6MdGPzf6Rp8xRrgG15ncdvbjQbgY7yYr63sF+Z8FRgq3ZaN7cdf++V8X+Yx/k0dh9Ah7Hy5r8Fy0mZ907qhNmKyvG70BJsoGMnpw+DEcFEZoO54sjO/S3ttMhkFkM4jBy0W/zxd6DTBgf8ro7gCdKRwUptH9ux7Qv4yeAln37/5xzlX+kMng2ULPGSaDyVU5DzFAv0Rd7rK+ObqNcBiRAXGwWFrVpcVdjiMVX+CYa3tQl/vfFhNUfLwVDl4MUYRrDQvEYOfVy+dLES/GAuPjlyIOmW4z3+whOwvPeXJ47fEdxOJZ0Auc6fEf6ZbtkuuFEQzMzw0L413l76ot7DZVifvLgC5VjuB6waspGXfGgLHweK7awlng6Omc65hI/qy2wXqBa0VlY4vAALFALPH+COtRWuhcr+73akKvjsE84PUayhY8PDhHeliPkvHr3V+1AewJTs3HAvWaYcDEesiw7o0VmLcMZ75/JB8yryi/d5eSO6qxlW+bzKiTaqww/8Ce0njk+NFbL7HsrFMPj566EteazEvxjAzXpemYleVUjDNeXPF8qNcGl2BtT13HZ97TOairKOYpubOeEfmMYnGPLRxBnh2hrtSsgO1+VAe9fevIHs8eKzjYd4aDmi+hT6nzo5gyotdoz9rqdaQ3W/Js33Dw5ku4V/mld+fIDCPbc271OrKagxgHL4ZluVzdGckT2c+sP1RI6U31QlENWbXvSJ4o1kd2ewscvDiA+V3lyUrvORPre+rIWRy8PIa5w2JF1BtkvcWoLEdjwX2S2VwUh5ZAdg8LvIf3j+Z/7m165eZeWOk7il0Kh6hfuKd7uHYcneFEtLY4d5rdRzjxjAwxe2zXuSPrF6JnG9k6T38ZnZufOyMZ8ftvTffLp3adOzzeOY5k92X2nemvh1CPat6DMYHjkGcLGe8eXr3102jPlPGFOvdmLTw74PlJxb/U2iOegx2BA+o8mjN8EGt65qkj863oeeXMWiVTb00c4aH2qNkj55Oo/s5iBfe5R9ZT1ZpYzTM5nioMVD4Z4d+b747GUJWHlgJv0TMHNX81DFTd0tOLeP7WOz9Veu3xj5E5M9uB6sV7bYL984hYu7brmotzhKoZotqxZy41ahOze9kfnpp+P4B92Ju7qdmqfV+N5cuELCP2pO49t+v3A7wZMtqfWqNqj4pNzMgyYxOMP2PhPYPkOTavqc4cTvR/lvuyvmLUntS+3T++Nt2XKBwiu4l4iub0XnzO6ukRHNQMaG3+OzJR/cv3G14VG1fnqvg8Ik/VFlgmZQucI716m33DepZK36Gw5fjMz969Z2W9edPzCbQFVSdV8F7af7nFW1/trwxTxiR7H7dKrEPlE2bfeF+1L8begd+l6OkxkU8vZ7EvzfQX7BNoC5FOPf81u0aqvBMYnYk8qb2z9VRmC57OemejlVzCZ/Lsq+JHozhUbGHHCmtN/j+jSrz15Mps6EgclC0gv7zG6vDPLf7NBuOqZjGeP/fMLGdx2PXKPoG+/SjW2P9fgFTNoXDluMt5cSSWMm49OKzt/Xu1plvWq8lsfoMY7J89t/fv6iq7iGZ+HE9VLF2Ds5Xt9NQQTyQLy2PEOCEGFk/O7fr9XEWVeM62iLxmNjdSRxnvL+KzV4ERU+WdgqP8V/E66w/Ve7kHP4p2HI5+Nj1qCz1YRLY4Qtm8b3RWm/UxM89MOVfeGoslkWfUFnrrvd+FA2IRzXSqtnDLd0AMh7emf7sa1T5Vnkb0j/229xx6lB9Fa9O/2YlsrDdu9+of78fcGsWcyh1Kt7v8Xp0Q4VyZL96SZuf+rFuur7yc7c1wZ5+tzdDi3Kt0lunpnMif6YP7qN9pF54PMD4j/qjIi5XcR3h2MRu7jsKnKqvHayVWRr3yUfr4kzGcrVmOpF9c3LwZ
+  </data>
+ </layer>
+ <layer id="5" name="Decals" width="66" height="66">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer id="7" name="Decals2" width="66" height="66">
+  <data encoding="base64" compression="zlib">
+   eJztmsluFDEQhpMj8AQzVwZCD+cQQMo9IE3EkYAUIrEIgRBcIKxS38L6DnkUHo2/oA1FYbeXtt3uwZ/UUtLj3VXlqnJvbFQqlUqlUqnk4+ym+bdzmt/6ysdgmbh9zhx9nRH9beH/S5oxXMC7i4Fjm3X1brP6aKtFm21Yi+nZwVivaua7jXdXBu7RY1YfbbXbhnW4jvfXEq4R39NZQrl7hDk8HDCPm6h7g9WPrSMhe4oxnOL53ldGrukrzOFlwTIfiu9+nBflDy31oQOkC6OwZ+j3luN4SE6kjQ0FOkC68Bd7BcvTXYztTjc+0hU8R7Y6jedavUX5dyPJhitPsQZPPPaJ9MlmWySfUefLSOswz9CvTs5N8nQP4zliY0pxtinfEPJNch4Vk0wfsrOa7Ip6P2d/c56j3ItMMgH5Jjn/jYuu27DJNPXh00+nV5PFpmcLjzNpaZCZFMTQP9s+q3PDVR7uZ5YDsudNj02PIZdyndWa5J5rH0PiyHWiL+YIkYVj1HmN542oi7iL4i9vUsaDKTnBuD/i+STGj7iL4q9/kL7CWJhsg6t/i31vsf/tcWA8YPIVfP1xX1xl3dW/xb632P/2pOC4SIcpRoxhL0N9VJ3tGMuHipF34z6qKc+pQ2c7Ysb1Y6B8SVOek/R+SmfASpPLNnHQlWscchKdr/yzjC1PNVVM8aPE5GOYKEE/huYm5JxJBkw+RomsNGN0WZNdUUbOuc8vKNVukC7Lca8m5ifEQp3hMhefo891hOtZipygDqXH3M42CeR54ZmLVueJ8rdynANctlL11+cruNg8fh9ioomUl1s62OkQHoj2XHwCed743of4kjpm1aHzCVz2OwekDynuaGY9c3vG+vPZ7xS6q3LdKdZAtrlgPobKLb3H88Gz70T75X2vqMPl7pvuItS5oXJLX/F8E3VN+43YvN3SfPMR61uAkPWNJZu0fvusrb4cLWLzdqdbB27XdN8CjMF+pDGQveB5Fpd2Y9wxToH55h8bVuqcY+TRbb4r97Hkdzm7mc7ZPl0lGR565z4kds7p95juU0qkhLjzINEYml/x1amtXMg3RaXi+s3yumGzjzyXr7MjTXd3c/k/WKtKpVKpVCqVSqUyDX4AQ6yAOQ==
+  </data>
+ </layer>
+ <objectgroup id="3" name="objects">
+  <object id="2993" name="spawnpoint" type="spawnpoint" x="7648" y="9312" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9318" name="spawnpoint" type="spawnpoint" x="8416" y="6496" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9319" name="spawnpoint" type="spawnpoint" x="8416" y="9568" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9321" name="spawnpoint" type="spawnpoint" x="9696" y="8800" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9322" name="spawnpoint" type="spawnpoint" x="9184" y="6752" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9323" name="spawnpoint" type="spawnpoint" x="7136" y="8800" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9324" name="spawnpoint" type="spawnpoint" x="9184" y="9312" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9325" name="spawnpoint" type="spawnpoint" x="7648" y="6752" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9326" name="spawnpoint" type="spawnpoint" x="7136" y="7264" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9327" name="spawnpoint" type="spawnpoint" x="9696" y="7264" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9328" name="spawnpoint" type="spawnpoint" x="6880" y="8032" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9330" name="spawnpoint" type="spawnpoint" x="9952" y="8032" width="236" height="236">
+   <ellipse/>
+  </object>
+  <object id="9944" name="tree" type="tree" x="14836" y="6916" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9945" name="tree" type="tree" x="15224" y="6792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10907" name="tree" type="tree" x="15356" y="7028" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10909" name="tree" type="tree" x="15476" y="7272" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10908" name="tree" type="tree" x="15088" y="7024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10911" name="tree" type="tree" x="15440" y="7532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10913" name="tree" type="tree" x="15412" y="7832" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10912" name="tree" type="tree" x="15208" y="7300" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10914" name="tree" type="tree" x="15156" y="7636" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9948" name="tree" type="tree" x="14728" y="6532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9949" name="tree" type="tree" x="14384" y="6648" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9950" name="tree" type="tree" x="14492" y="6396" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9951" name="tree" type="tree" x="14236" y="6396" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9952" name="tree" type="tree" x="14608" y="6768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9953" name="tree" type="tree" x="14960" y="6684" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9954" name="tree" type="tree" x="14336" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9955" name="tree" type="tree" x="14080" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9956" name="tree" type="tree" x="14336" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9957" name="tree" type="tree" x="14080" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10915" name="tree" type="tree" x="14089.1" y="5377.45" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10916" name="tree" type="tree" x="14343.6" y="5368.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10917" name="tree" type="tree" x="14504.2" y="5119.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10918" name="tree" type="tree" x="14207.3" y="5098.67" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10919" name="tree" type="tree" x="14689.1" y="4910.79" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10920" name="tree" type="tree" x="14407.3" y="4877.45" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10921" name="tree" type="tree" x="14595.2" y="4656.24" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10922" name="tree" type="tree" x="14937.6" y="4786.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10924" name="tree" type="tree" x="15161.6" y="4646.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10930" name="tree" type="tree" x="15301.6" y="4418.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10932" name="tree" type="tree" x="15465.6" y="4182.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10933" name="tree" type="tree" x="15433.6" y="3926.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10934" name="tree" type="tree" x="15197.6" y="3878.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10931" name="tree" type="tree" x="15177.6" y="4150.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10925" name="tree" type="tree" x="15033.6" y="4394.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10923" name="tree" type="tree" x="14817.6" y="4562.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9958" name="tree" type="tree" x="14080" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9959" name="tree" type="tree" x="14336" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9966" name="tree" type="tree" x="14836" y="10128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9967" name="tree" type="tree" x="15124" y="10032" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9968" name="tree" type="tree" x="14916" y="9856" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9969" name="tree" type="tree" x="14592" y="10024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9970" name="tree" type="tree" x="15036" y="10324" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9971" name="tree" type="tree" x="15304" y="10264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9972" name="tree" type="tree" x="14676" y="9780" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9973" name="tree" type="tree" x="14152" y="9728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9974" name="tree" type="tree" x="14336" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9975" name="tree" type="tree" x="14080" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9976" name="tree" type="tree" x="14428" y="9724" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9977" name="tree" type="tree" x="14316" y="9992" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9978" name="tree" type="tree" x="14336" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9979" name="tree" type="tree" x="14080" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9980" name="tree" type="tree" x="14336" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9981" name="tree" type="tree" x="14080" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9982" name="tree" type="tree" x="14080" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9983" name="tree" type="tree" x="14336" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9990" name="tree" type="tree" x="14336" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9991" name="tree" type="tree" x="14080" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9992" name="tree" type="tree" x="14336" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9993" name="tree" type="tree" x="14080" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9994" name="tree" type="tree" x="14080" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9995" name="tree" type="tree" x="14336" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9996" name="tree" type="tree" x="14361.5" y="12809.1" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10817" name="tree" type="tree" x="14625.1" y="12763.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10818" name="tree" type="tree" x="14473.6" y="12542.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10819" name="tree" type="tree" x="14194.8" y="12548.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10820" name="tree" type="tree" x="14879.6" y="12709.1" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10821" name="tree" type="tree" x="15109.9" y="12548.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10822" name="tree" type="tree" x="15297.8" y="12345.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10823" name="tree" type="tree" x="15485.7" y="12139.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10824" name="tree" type="tree" x="15361.5" y="11893.9" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10825" name="tree" type="tree" x="15173.6" y="12124.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10827" name="tree" type="tree" x="14970.5" y="12342.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10826" name="tree" type="tree" x="14728.1" y="12478.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="9997" name="tree" type="tree" x="14116" y="12788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10000" name="tree" type="tree" x="14080" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10001" name="tree" type="tree" x="14336" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10010" name="tree" type="tree" x="14336" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10011" name="tree" type="tree" x="14080" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10026" name="tree" type="tree" x="14492" y="2788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10027" name="tree" type="tree" x="14212" y="2832" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10028" name="tree" type="tree" x="14336" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10029" name="tree" type="tree" x="14080" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10038" name="tree" type="tree" x="14336" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10039" name="tree" type="tree" x="14080" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10040" name="tree" type="tree" x="14336" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10041" name="tree" type="tree" x="14080" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10042" name="tree" type="tree" x="14336" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10043" name="tree" type="tree" x="14080" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10044" name="tree" type="tree" x="14080" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10045" name="tree" type="tree" x="14336" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10052" name="tree" type="tree" x="13568" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10053" name="tree" type="tree" x="13824" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10054" name="tree" type="tree" x="13824" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10055" name="tree" type="tree" x="13568" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10056" name="tree" type="tree" x="13156" y="14376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10057" name="tree" type="tree" x="13308" y="13856" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10058" name="tree" type="tree" x="13296" y="14136" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10059" name="tree" type="tree" x="13052" y="13996" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10060" name="tree" type="tree" x="12828" y="14516" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10061" name="tree" type="tree" x="12912" y="14248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10062" name="tree" type="tree" x="13068" y="14632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10063" name="tree" type="tree" x="13020" y="14892" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10064" name="tree" type="tree" x="12768" y="15048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10065" name="tree" type="tree" x="12784" y="14788" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10066" name="tree" type="tree" x="13070.7" y="15186.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10067" name="tree" type="tree" x="12852.8" y="15366.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10070" name="tree" type="tree" x="12581.8" y="15370.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11180" name="tree" type="tree" x="12300" y="15367.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11181" name="tree" type="tree" x="12506.1" y="15121.9" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10072" name="tree" type="tree" x="12012" y="15132" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10474" name="tree" type="tree" x="11781.7" y="15432" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10475" name="tree" type="tree" x="11739.3" y="15183.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10476" name="tree" type="tree" x="11521.1" y="15492.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10477" name="tree" type="tree" x="11484.7" y="15210.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10478" name="tree" type="tree" x="11257.5" y="15556.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10486" name="tree" type="tree" x="10018.1" y="15768.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10487" name="tree" type="tree" x="9839.27" y="15562.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10490" name="tree" type="tree" x="10045.3" y="15419.9" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10483" name="tree" type="tree" x="11254.4" y="15295.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10073" name="tree" type="tree" x="12264" y="15112" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10075" name="tree" type="tree" x="12052" y="15424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10076" name="tree" type="tree" x="9954.55" y="15155.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11179" name="tree" type="tree" x="9886.55" y="14907.6" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10077" name="tree" type="tree" x="9739.52" y="15308.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10080" name="tree" type="tree" x="9642.18" y="15006.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10084" name="tree" type="tree" x="9396.85" y="14657.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10085" name="tree" type="tree" x="9389.21" y="14930.5" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10086" name="tree" type="tree" x="9661.94" y="14735" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10087" name="tree" type="tree" x="9127.15" y="14862.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10088" name="tree" type="tree" x="8903.03" y="14418.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10089" name="tree" type="tree" x="9131.76" y="14594.2" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10090" name="tree" type="tree" x="8892.36" y="14732" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10091" name="tree" type="tree" x="8669.7" y="14568.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10092" name="tree" type="tree" x="8448" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10093" name="tree" type="tree" x="8720" y="14200" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10491" name="tree" type="tree" x="8696" y="13944" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10094" name="tree" type="tree" x="8476" y="14352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10095" name="tree" type="tree" x="8448" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10096" name="tree" type="tree" x="7936" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10097" name="tree" type="tree" x="8192" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10098" name="tree" type="tree" x="8192" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10099" name="tree" type="tree" x="7936" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10144" name="tree" type="tree" x="1792" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10145" name="tree" type="tree" x="2048" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10146" name="tree" type="tree" x="2048" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10147" name="tree" type="tree" x="1792" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10150" name="tree" type="tree" x="1968" y="13560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11625" name="tree" type="tree" x="1828" y="13300" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11626" name="tree" type="tree" x="1532" y="13308" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11627" name="tree" type="tree" x="1596" y="13036" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11628" name="tree" type="tree" x="1332" y="13136" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11629" name="tree" type="tree" x="1092" y="13220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11630" name="tree" type="tree" x="1052" y="12964" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11632" name="tree" type="tree" x="788" y="12980" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11633" name="tree" type="tree" x="804" y="13228" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11634" name="tree" type="tree" x="524" y="12952" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11635" name="tree" type="tree" x="540" y="13220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11636" name="tree" type="tree" x="256" y="12848" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11637" name="tree" type="tree" x="0" y="12800" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11638" name="tree" type="tree" x="280" y="13148" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11639" name="tree" type="tree" x="0" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11631" name="tree" type="tree" x="1344" y="12836" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10151" name="tree" type="tree" x="1684" y="13552" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10292" name="tree" type="tree" x="8578.3" y="978.424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10293" name="tree" type="tree" x="8800.97" y="1139.03" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10294" name="tree" type="tree" x="8725.21" y="1410.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10295" name="tree" type="tree" x="8503.33" y="1221.76" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10296" name="tree" type="tree" x="8975.15" y="1354.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10297" name="tree" type="tree" x="9216" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10298" name="tree" type="tree" x="9216" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10299" name="tree" type="tree" x="8975.15" y="1610.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10300" name="tree" type="tree" x="9472" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10301" name="tree" type="tree" x="9728" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10302" name="tree" type="tree" x="9728" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10303" name="tree" type="tree" x="9472" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10304" name="tree" type="tree" x="9984" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10305" name="tree" type="tree" x="10240" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10306" name="tree" type="tree" x="10240" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10307" name="tree" type="tree" x="9984" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10308" name="tree" type="tree" x="10493.1" y="1484.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10309" name="tree" type="tree" x="10755.2" y="1575.27" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10310" name="tree" type="tree" x="10694.5" y="1276.73" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10311" name="tree" type="tree" x="10493.1" y="1755.52" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10312" name="tree" type="tree" x="10820.2" y="1044.97" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10313" name="tree" type="tree" x="11006.5" y="835.879" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10314" name="tree" type="tree" x="11073.2" y="1116.12" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10315" name="tree" type="tree" x="10950.5" y="1349.45" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10316" name="tree" type="tree" x="11268.6" y="772.242" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10319" name="tree" type="tree" x="11311" y="1040.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10329" name="tree" type="tree" x="13452" y="1292" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10330" name="tree" type="tree" x="13304" y="1556" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10332" name="tree" type="tree" x="13588" y="1532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10335" name="tree" type="tree" x="13520" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10336" name="tree" type="tree" x="13824" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10337" name="tree" type="tree" x="13824" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10338" name="stone" type="stone" x="9472" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10339" name="stone" type="stone" x="11520" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10340" name="stone" type="stone" x="10240" y="9984" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10341" name="stone" type="stone" x="7936" y="12288" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10342" name="stone" type="stone" x="3328" y="10496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10343" name="stone" type="stone" x="5376" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10344" name="stone" type="stone" x="2560" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10345" name="stone" type="stone" x="9984" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10828" name="tree" type="tree" x="13236" y="15440" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10829" name="tree" type="tree" x="13500" y="15532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10830" name="tree" type="tree" x="13784" y="15616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10831" name="tree" type="tree" x="14048" y="15660" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10832" name="tree" type="tree" x="14328" y="15668" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10833" name="tree" type="tree" x="14608.8" y="15660" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10834" name="tree" type="tree" x="14614.9" y="15929.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10835" name="tree" type="tree" x="14357.3" y="15935.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10836" name="tree" type="tree" x="14114.9" y="15926.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10837" name="tree" type="tree" x="13866.4" y="15890.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10838" name="tree" type="tree" x="13627" y="15844.8" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10839" name="tree" type="tree" x="13384.6" y="15829.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10840" name="tree" type="tree" x="13175.5" y="15732.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11182" name="tree" type="tree" x="12960.4" y="15596.4" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10842" name="tree" type="tree" x="7640" y="13884" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10843" name="tree" type="tree" x="7668" y="14156" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10844" name="tree" type="tree" x="7444" y="14364" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10845" name="tree" type="tree" x="7404" y="14064" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10846" name="tree" type="tree" x="7204" y="14508" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10847" name="tree" type="tree" x="7168" y="14256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10848" name="tree" type="tree" x="6940" y="14496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10849" name="tree" type="tree" x="6908" y="14232" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10850" name="tree" type="tree" x="6652" y="14468" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10851" name="tree" type="tree" x="6660" y="14220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10852" name="tree" type="tree" x="6460" y="14016" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10853" name="tree" type="tree" x="6408" y="14352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10854" name="tree" type="tree" x="6240" y="14168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10855" name="tree" type="tree" x="6020" y="14076" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10856" name="tree" type="tree" x="6204" y="13872" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10857" name="tree" type="tree" x="5908" y="13840" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10858" name="tree" type="tree" x="5620" y="14484" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10860" name="tree" type="tree" x="5396" y="14656" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10868" name="tree" type="tree" x="4352" y="14684" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10869" name="tree" type="tree" x="4084" y="14560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10870" name="tree" type="tree" x="3796" y="14620" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10873" name="tree" type="tree" x="3216" y="14720" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10874" name="tree" type="tree" x="2936" y="14692" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10876" name="tree" type="tree" x="2644" y="14728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10880" name="tree" type="tree" x="2060" y="14688" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10882" name="tree" type="tree" x="1792" y="14636" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10883" name="tree" type="tree" x="1800" y="14352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10884" name="tree" type="tree" x="2048" y="14388" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10885" name="tree" type="tree" x="2272" y="14492" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10886" name="tree" type="tree" x="2372" y="14744" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10887" name="tree" type="tree" x="2556" y="14480" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10888" name="tree" type="tree" x="2860" y="14420" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10890" name="tree" type="tree" x="3164" y="14404" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10891" name="tree" type="tree" x="3408" y="14536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10892" name="tree" type="tree" x="3644" y="14396" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10893" name="tree" type="tree" x="3872" y="14284" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10894" name="tree" type="tree" x="4120" y="14292" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10895" name="tree" type="tree" x="4396" y="14388" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10872" name="tree" type="tree" x="3516" y="14804" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10861" name="tree" type="tree" x="5688" y="14044" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10862" name="tree" type="tree" x="5444" y="14284" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10863" name="tree" type="tree" x="5216" y="14468" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10859" name="tree" type="tree" x="5816" y="14292" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10898" name="tree" type="tree" x="14272" y="8456" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10899" name="tree" type="tree" x="14560" y="8520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10900" name="tree" type="tree" x="14676" y="8296" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10902" name="tree" type="tree" x="14612" y="8012" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10903" name="tree" type="tree" x="14876" y="7952" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10904" name="tree" type="tree" x="14936" y="8216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10905" name="tree" type="tree" x="15120" y="7884" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10906" name="tree" type="tree" x="15224" y="8128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="10901" name="tree" type="tree" x="14420" y="8224" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11199" name="tree" type="tree" x="15676" y="7768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11200" name="tree" type="tree" x="15709.3" y="7498.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11201" name="tree" type="tree" x="15969.9" y="7486.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11202" name="tree" type="tree" x="15945.7" y="7752.85" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11203" name="tree" type="tree" x="16230.5" y="7449.82" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11204" name="tree" type="tree" x="16221.5" y="7710.42" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11205" name="tree" type="tree" x="16439.6" y="7825.58" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11206" name="tree" type="tree" x="16469.9" y="7498.3" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11207" name="tree" type="tree" x="16640" y="7680" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11208" name="tree" type="tree" x="16640" y="7936" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11209" name="tree" type="tree" x="11624" y="15736" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11210" name="tree" type="tree" x="11364" y="15808" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11211" name="tree" type="tree" x="11408" y="16076" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11212" name="tree" type="tree" x="11400" y="16356" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11213" name="tree" type="tree" x="11264" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11214" name="tree" type="tree" x="11520" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11215" name="tree" type="tree" x="11680" y="16416" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11216" name="tree" type="tree" x="11700" y="16176" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11217" name="tree" type="tree" x="11664" y="15956" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11218" name="tree" type="tree" x="11776" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11219" name="tree" type="tree" x="12032" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11220" name="tree" type="tree" x="12288" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11221" name="tree" type="tree" x="12544" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11224" name="tree" type="tree" x="11008" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11225" name="tree" type="tree" x="9984" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11226" name="tree" type="tree" x="10240" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11227" name="tree" type="tree" x="10496" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11228" name="tree" type="tree" x="10752" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11229" name="tree" type="tree" x="9728" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11230" name="tree" type="tree" x="9472" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11231" name="tree" type="tree" x="9216" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11232" name="tree" type="tree" x="8192" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11233" name="tree" type="tree" x="8448" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11234" name="tree" type="tree" x="8704" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11235" name="tree" type="tree" x="8960" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11236" name="tree" type="tree" x="7936" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11237" name="tree" type="tree" x="7680" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11238" name="tree" type="tree" x="7424" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11239" name="tree" type="tree" x="6400" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11240" name="tree" type="tree" x="6656" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11241" name="tree" type="tree" x="6912" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11242" name="tree" type="tree" x="7168" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11243" name="tree" type="tree" x="6144" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11244" name="tree" type="tree" x="5888" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11245" name="tree" type="tree" x="5632" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11246" name="tree" type="tree" x="4608" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11247" name="tree" type="tree" x="4864" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11248" name="tree" type="tree" x="5120" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11249" name="tree" type="tree" x="5376" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11250" name="tree" type="tree" x="4352" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11251" name="tree" type="tree" x="4096" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11252" name="tree" type="tree" x="3840" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11253" name="tree" type="tree" x="2816" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11254" name="tree" type="tree" x="3072" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11255" name="tree" type="tree" x="3328" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11256" name="tree" type="tree" x="3584" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11257" name="tree" type="tree" x="2560" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11258" name="tree" type="tree" x="2304" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11259" name="tree" type="tree" x="2048" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11260" name="tree" type="tree" x="1024" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11261" name="tree" type="tree" x="1280" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11262" name="tree" type="tree" x="1536" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11263" name="tree" type="tree" x="1792" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11264" name="tree" type="tree" x="768" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11265" name="tree" type="tree" x="512" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11266" name="tree" type="tree" x="256" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11267" name="tree" type="tree" x="0" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11269" name="tree" type="tree" x="15616" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11270" name="tree" type="tree" x="15872" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11271" name="tree" type="tree" x="16128" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11272" name="tree" type="tree" x="16384" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11273" name="tree" type="tree" x="15360" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11274" name="tree" type="tree" x="15104" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11275" name="tree" type="tree" x="14848" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11276" name="tree" type="tree" x="13824" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11277" name="tree" type="tree" x="14080" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11278" name="tree" type="tree" x="14336" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11279" name="tree" type="tree" x="14592" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11280" name="tree" type="tree" x="13568" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11281" name="tree" type="tree" x="13312" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11282" name="tree" type="tree" x="13056" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11283" name="tree" type="tree" x="12800" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11286" name="tree" type="tree" x="0" y="16384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11288" name="tree" type="tree" x="0" y="15872" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11289" name="tree" type="tree" x="0" y="16128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11290" name="tree" type="tree" x="0" y="15360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11291" name="tree" type="tree" x="0" y="15616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11292" name="tree" type="tree" x="0" y="14848" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11293" name="tree" type="tree" x="0" y="15104" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11294" name="tree" type="tree" x="0" y="14336" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11295" name="tree" type="tree" x="0" y="14592" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11296" name="tree" type="tree" x="0" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11297" name="tree" type="tree" x="0" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11298" name="tree" type="tree" x="0" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11299" name="tree" type="tree" x="0" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11302" name="tree" type="tree" x="0" y="12544" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11303" name="tree" type="tree" x="0" y="12032" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11304" name="tree" type="tree" x="0" y="12288" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11305" name="tree" type="tree" x="0" y="11520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11306" name="tree" type="tree" x="0" y="11776" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11307" name="tree" type="tree" x="0" y="11008" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11308" name="tree" type="tree" x="0" y="11264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11309" name="tree" type="tree" x="0" y="10496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11310" name="tree" type="tree" x="0" y="10752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11311" name="tree" type="tree" x="0" y="9984" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11312" name="tree" type="tree" x="0" y="10240" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11313" name="tree" type="tree" x="0" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11314" name="tree" type="tree" x="0" y="9728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11315" name="tree" type="tree" x="0" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11316" name="tree" type="tree" x="0" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11317" name="tree" type="tree" x="0" y="8448" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11318" name="tree" type="tree" x="0" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11320" name="tree" type="tree" x="0" y="7680" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11321" name="tree" type="tree" x="0" y="7936" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11322" name="tree" type="tree" x="0" y="7168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11323" name="tree" type="tree" x="0" y="7424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11324" name="tree" type="tree" x="0" y="6656" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11325" name="tree" type="tree" x="0" y="6912" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11326" name="tree" type="tree" x="0" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11327" name="tree" type="tree" x="0" y="6400" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11328" name="tree" type="tree" x="0" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11329" name="tree" type="tree" x="0" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11330" name="tree" type="tree" x="0" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11331" name="tree" type="tree" x="0" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11332" name="tree" type="tree" x="0" y="4608" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11333" name="tree" type="tree" x="0" y="4864" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11334" name="tree" type="tree" x="0" y="4096" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11335" name="tree" type="tree" x="0" y="4352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11336" name="tree" type="tree" x="0" y="3840" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11337" name="tree" type="tree" x="0" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11338" name="tree" type="tree" x="0" y="3584" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11339" name="tree" type="tree" x="0" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11340" name="tree" type="tree" x="0" y="3072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11341" name="tree" type="tree" x="0" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11342" name="tree" type="tree" x="0" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11343" name="tree" type="tree" x="0" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11344" name="tree" type="tree" x="0" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11345" name="tree" type="tree" x="0" y="1280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11346" name="tree" type="tree" x="0" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11347" name="tree" type="tree" x="0" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11348" name="tree" type="tree" x="0" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11349" name="tree" type="tree" x="0" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11350" name="tree" type="tree" x="0" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11354" name="tree" type="tree" x="12032" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11355" name="tree" type="tree" x="12288" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11356" name="tree" type="tree" x="12544" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11357" name="tree" type="tree" x="12800" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11358" name="tree" type="tree" x="11776" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11359" name="tree" type="tree" x="11520" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11360" name="tree" type="tree" x="11264" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11361" name="tree" type="tree" x="10240" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11362" name="tree" type="tree" x="10496" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11363" name="tree" type="tree" x="10752" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11364" name="tree" type="tree" x="11008" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11365" name="tree" type="tree" x="9984" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11366" name="tree" type="tree" x="9728" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11367" name="tree" type="tree" x="9472" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11368" name="tree" type="tree" x="8448" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11369" name="tree" type="tree" x="8704" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11370" name="tree" type="tree" x="8960" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11371" name="tree" type="tree" x="9216" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11372" name="tree" type="tree" x="8192" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11373" name="tree" type="tree" x="7936" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11374" name="tree" type="tree" x="7680" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11375" name="tree" type="tree" x="6656" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11376" name="tree" type="tree" x="6912" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11377" name="tree" type="tree" x="7168" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11378" name="tree" type="tree" x="7424" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11379" name="tree" type="tree" x="6400" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11380" name="tree" type="tree" x="6144" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11381" name="tree" type="tree" x="5888" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11382" name="tree" type="tree" x="4864" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11383" name="tree" type="tree" x="5120" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11384" name="tree" type="tree" x="5376" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11385" name="tree" type="tree" x="5632" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11386" name="tree" type="tree" x="4608" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11387" name="tree" type="tree" x="4352" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11388" name="tree" type="tree" x="4096" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11389" name="tree" type="tree" x="3072" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11390" name="tree" type="tree" x="3328" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11391" name="tree" type="tree" x="3584" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11392" name="tree" type="tree" x="3840" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11393" name="tree" type="tree" x="2816" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11394" name="tree" type="tree" x="2560" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11395" name="tree" type="tree" x="2304" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11396" name="tree" type="tree" x="1280" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11397" name="tree" type="tree" x="1536" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11398" name="tree" type="tree" x="1792" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11399" name="tree" type="tree" x="2048" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11400" name="tree" type="tree" x="1024" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11401" name="tree" type="tree" x="768" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11402" name="tree" type="tree" x="512" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11403" name="tree" type="tree" x="256" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11404" name="tree" type="tree" x="0" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11405" name="tree" type="tree" x="15872" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11406" name="tree" type="tree" x="16128" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11407" name="tree" type="tree" x="16384" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11408" name="tree" type="tree" x="16640" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11409" name="tree" type="tree" x="15616" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11410" name="tree" type="tree" x="15360" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11411" name="tree" type="tree" x="15104" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11412" name="tree" type="tree" x="14080" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11413" name="tree" type="tree" x="14336" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11414" name="tree" type="tree" x="14592" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11415" name="tree" type="tree" x="14848" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11416" name="tree" type="tree" x="13824" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11417" name="tree" type="tree" x="13568" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11418" name="tree" type="tree" x="13312" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11419" name="tree" type="tree" x="13056" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11421" name="tree" type="tree" x="16640" y="16384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11422" name="tree" type="tree" x="16640" y="16640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11423" name="tree" type="tree" x="16640" y="15872" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11424" name="tree" type="tree" x="16640" y="16128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11425" name="tree" type="tree" x="16640" y="15360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11426" name="tree" type="tree" x="16640" y="15616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11427" name="tree" type="tree" x="16640" y="14848" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11428" name="tree" type="tree" x="16640" y="15104" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11429" name="tree" type="tree" x="16640" y="14336" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11430" name="tree" type="tree" x="16640" y="14592" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11431" name="tree" type="tree" x="16640" y="13824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11432" name="tree" type="tree" x="16640" y="14080" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11433" name="tree" type="tree" x="16640" y="13312" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11434" name="tree" type="tree" x="16640" y="13568" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11435" name="tree" type="tree" x="16640" y="12800" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11436" name="tree" type="tree" x="16640" y="13056" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11437" name="tree" type="tree" x="16640" y="12544" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11438" name="tree" type="tree" x="16640" y="12032" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11439" name="tree" type="tree" x="16640" y="12288" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11440" name="tree" type="tree" x="16640" y="11520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11441" name="tree" type="tree" x="16640" y="11776" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11442" name="tree" type="tree" x="16640" y="11008" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11443" name="tree" type="tree" x="16640" y="11264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11444" name="tree" type="tree" x="16640" y="10496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11445" name="tree" type="tree" x="16640" y="10752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11446" name="tree" type="tree" x="16640" y="9984" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11447" name="tree" type="tree" x="16640" y="10240" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11448" name="tree" type="tree" x="16640" y="9472" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11449" name="tree" type="tree" x="16640" y="9728" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11450" name="tree" type="tree" x="16640" y="8960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11451" name="tree" type="tree" x="16640" y="9216" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11452" name="tree" type="tree" x="16640" y="8448" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11453" name="tree" type="tree" x="16640" y="8704" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11454" name="tree" type="tree" x="16640" y="8192" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11457" name="tree" type="tree" x="16640" y="7168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11458" name="tree" type="tree" x="16640" y="7424" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11459" name="tree" type="tree" x="16640" y="6656" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11460" name="tree" type="tree" x="16640" y="6912" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11461" name="tree" type="tree" x="16640" y="6144" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11462" name="tree" type="tree" x="16640" y="6400" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11463" name="tree" type="tree" x="16640" y="5632" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11464" name="tree" type="tree" x="16640" y="5888" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11465" name="tree" type="tree" x="16640" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11466" name="tree" type="tree" x="16640" y="5376" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11467" name="tree" type="tree" x="16640" y="4608" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11468" name="tree" type="tree" x="16640" y="4864" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11469" name="tree" type="tree" x="16640" y="4096" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11470" name="tree" type="tree" x="16640" y="4352" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11471" name="tree" type="tree" x="16640" y="3840" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11472" name="tree" type="tree" x="16640" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11473" name="tree" type="tree" x="16640" y="3584" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11474" name="tree" type="tree" x="16640" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11475" name="tree" type="tree" x="16640" y="3072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11476" name="tree" type="tree" x="16640" y="2304" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11477" name="tree" type="tree" x="16640" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11478" name="tree" type="tree" x="16640" y="1792" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11479" name="tree" type="tree" x="16640" y="2048" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11480" name="tree" type="tree" x="16640" y="1280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11481" name="tree" type="tree" x="16640" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11482" name="tree" type="tree" x="16640" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11483" name="tree" type="tree" x="16640" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11484" name="tree" type="tree" x="16640" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11485" name="tree" type="tree" x="16640" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11487" name="tree" type="tree" x="4608" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11488" name="tree" type="tree" x="5120" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11489" name="tree" type="tree" x="5376" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11490" name="tree" type="tree" x="4864" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11491" name="tree" type="tree" x="1536" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11492" name="tree" type="tree" x="2816" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11493" name="tree" type="tree" x="512" y="1536" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11494" name="tree" type="tree" x="512" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11495" name="tree" type="tree" x="512" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11496" name="tree" type="tree" x="768" y="2560" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11497" name="tree" type="tree" x="512" y="3328" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11498" name="tree" type="tree" x="1256" y="3488" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11499" name="tree" type="tree" x="3584" y="1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11500" name="stone" type="stone" x="1792" y="4608" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11501" name="stone" type="stone" x="2304" y="768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11503" name="tree" type="tree" x="14624" y="1464" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11521" name="tree" type="tree" x="14587.6" y="1733.7" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11504" name="tree" type="tree" x="14424" y="1236" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11505" name="tree" type="tree" x="14548" y="924" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11506" name="tree" type="tree" x="14696" y="1188" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11507" name="tree" type="tree" x="14864" y="928" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11510" name="tree" type="tree" x="15040" y="700" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11511" name="tree" type="tree" x="14924" y="476" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11512" name="tree" type="tree" x="15328" y="708" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11513" name="tree" type="tree" x="15232" y="480" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11514" name="tree" type="tree" x="15520" y="496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11515" name="tree" type="tree" x="15580" y="248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11516" name="tree" type="tree" x="15612" y="760" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11517" name="tree" type="tree" x="15796" y="564" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11518" name="tree" type="tree" x="15840" y="280" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11508" name="tree" type="tree" x="14716" y="688" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11509" name="tree" type="tree" x="14716" y="688" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11522" name="tree" type="tree" x="2048" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11523" name="tree" type="tree" x="1792" y="2816" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11524" name="tree" type="tree" x="2120" y="3072" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11525" name="tree" type="tree" x="1884" y="3120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11526" name="tree" type="tree" x="2188" y="3360" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11527" name="tree" type="tree" x="1932" y="3384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11528" name="tree" type="tree" x="2264" y="3592" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11529" name="tree" type="tree" x="2016" y="3664" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11530" name="tree" type="tree" x="2468" y="3796" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11531" name="tree" type="tree" x="2232" y="3904" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11533" name="tree" type="tree" x="2628" y="4076" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11534" name="tree" type="tree" x="2360" y="4172" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11535" name="tree" type="tree" x="2704" y="4344" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11536" name="tree" type="tree" x="2716" y="4616" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11537" name="tree" type="tree" x="2696" y="4868" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11538" name="tree" type="tree" x="2532" y="5136" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11539" name="tree" type="tree" x="2436" y="4432" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11540" name="tree" type="tree" x="2468" y="4684" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11541" name="tree" type="tree" x="2320" y="4960" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11542" name="tree" type="tree" x="2464" y="5368" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11543" name="tree" type="tree" x="2220" y="5248" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11544" name="tree" type="tree" x="2008" y="5404" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11545" name="tree" type="tree" x="2240" y="5580" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11546" name="tree" type="tree" x="1760" y="5500" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11547" name="tree" type="tree" x="1972" y="5700" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11548" name="tree" type="tree" x="1484" y="5492" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11549" name="tree" type="tree" x="1752" y="5784" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11550" name="tree" type="tree" x="1468" y="5760" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11551" name="tree" type="tree" x="1244" y="5824" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11552" name="tree" type="tree" x="1228" y="6100" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11553" name="tree" type="tree" x="1236" y="6388" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11559" name="tree" type="tree" x="1316" y="6672" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11560" name="tree" type="tree" x="1000" y="6520" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11561" name="tree" type="tree" x="1052" y="6796" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11562" name="tree" type="tree" x="1460" y="6952" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11563" name="tree" type="tree" x="1208" y="7040" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11564" name="tree" type="tree" x="1680" y="7168" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11565" name="tree" type="tree" x="1416" y="7260" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11566" name="tree" type="tree" x="1688" y="7444" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11567" name="tree" type="tree" x="1428" y="7556" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11568" name="tree" type="tree" x="1676" y="7752" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11569" name="tree" type="tree" x="1468" y="7912" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11570" name="tree" type="tree" x="1196" y="7768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11571" name="tree" type="tree" x="1212" y="8044" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11572" name="tree" type="tree" x="952" y="8064" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11573" name="tree" type="tree" x="936" y="7772" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11574" name="tree" type="tree" x="700" y="8064" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11575" name="tree" type="tree" x="632" y="7784" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11576" name="tree" type="tree" x="440" y="8160" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11577" name="tree" type="tree" x="328" y="7876" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11578" name="tree" type="tree" x="236" y="8228" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11580" name="tree" type="tree" x="0" y="8192" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11554" name="tree" type="tree" x="1212" y="5496" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11555" name="tree" type="tree" x="1004" y="5724" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11556" name="tree" type="tree" x="992" y="5972" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11557" name="tree" type="tree" x="976" y="6264" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11581" name="tree" type="tree" x="3084" y="1532" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11582" name="tree" type="tree" x="3068" y="1808" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11583" name="tree" type="tree" x="3351.03" y="1542.06" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11584" name="tree" type="tree" x="3325.33" y="1798.79" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11585" name="tree" type="tree" x="3513.21" y="1986.67" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11586" name="tree" type="tree" x="3582.91" y="1720" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11587" name="tree" type="tree" x="3852.61" y="1771.52" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11589" name="tree" type="tree" x="3782.91" y="2044.24" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11590" name="tree" type="tree" x="4019.27" y="2204.85" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11591" name="tree" type="tree" x="4085.94" y="1956.36" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11592" name="tree" type="tree" x="4285.94" y="2310.91" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11593" name="tree" type="tree" x="4352.61" y="2035.15" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11594" name="tree" type="tree" x="4528.36" y="2480.61" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11597" name="tree" type="tree" x="4813.21" y="2420" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11598" name="tree" type="tree" x="4801.09" y="2029.09" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11599" name="tree" type="tree" x="4925.33" y="1774.55" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11600" name="tree" type="tree" x="5016.24" y="2226.06" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11601" name="tree" type="tree" x="5116.24" y="1980.61" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11602" name="tree" type="tree" x="5337.45" y="1826.06" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11603" name="tree" type="tree" x="5598.06" y="1707.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11604" name="tree" type="tree" x="5152.61" y="1604.85" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11605" name="tree" type="tree" x="5398.06" y="1492.73" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11606" name="tree" type="tree" x="5673.82" y="1447.27" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11607" name="tree" type="tree" x="5861.7" y="1707.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11609" name="tree" type="tree" x="6129.7" y="1763.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11610" name="tree" type="tree" x="6213.7" y="1531.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11611" name="tree" type="tree" x="6393.7" y="1795.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11612" name="tree" type="tree" x="6501.7" y="1551.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11613" name="tree" type="tree" x="6661.7" y="1811.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11618" name="tree" type="tree" x="6909.7" y="1787.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11619" name="tree" type="tree" x="6797.7" y="1535.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11620" name="tree" type="tree" x="7073.7" y="1515.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11621" name="tree" type="tree" x="6853.7" y="1263.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11622" name="tree" type="tree" x="7137.7" y="1231.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11623" name="tree" type="tree" x="6897.7" y="1003.88" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11624" name="tree" type="tree" x="7169.7" y="967.879" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11608" name="tree" type="tree" x="5934.42" y="1438.18" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11595" name="tree" type="tree" x="4582.91" y="2220" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11641" name="tree" type="tree" x="1128" y="4712" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11642" name="tree" type="tree" x="512" y="5120" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="11643" name="tree" type="tree" x="330" y="6252" width="256" height="256">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="slotmachine">
+  <object id="10367" name="slotmachine" type="slotmachine" x="3208" y="4016" width="249.703" height="237.812"/>
+  <object id="10466" name="slotmachine" type="slotmachine" x="3192" y="8832" width="249.703" height="237.812"/>
+  <object id="10467" name="slotmachine" type="slotmachine" x="6544" y="2456" width="249.703" height="237.812"/>
+  <object id="10468" name="slotmachine" type="slotmachine" x="10624" y="2496" width="249.703" height="237.812"/>
+  <object id="10469" name="slotmachine" type="slotmachine" x="13440" y="5272" width="249.703" height="237.812"/>
+  <object id="11502" name="slotmachine" type="slotmachine" x="13179.1" y="9125.09" width="249.703" height="237.812"/>
+  <object id="11644" name="slotmachine" type="slotmachine" x="6003.15" y="12057.1" width="249.703" height="237.812"/>
+  <object id="11645" name="slotmachine" type="slotmachine" x="9739.15" y="12689.1" width="249.703" height="237.812"/>
+  <object id="11646" name="premiumslotmachine" type="premiumslotmachine" x="8448" y="7936" width="249.703" height="237.812"/>
+  <object id="11647" name="premiumslotmachine" type="premiumslotmachine" x="9871.15" y="321.094" width="249.703" height="237.812"/>
+  <object id="11648" name="premiumslotmachine" type="premiumslotmachine" x="13687.3" y="14853.8" width="249.703" height="237.812"/>
+  <object id="11650" name="premiumslotmachine" type="premiumslotmachine" x="8035.15" y="15689.1" width="249.703" height="237.812"/>
+  <object id="11651" name="premiumslotmachine" type="premiumslotmachine" x="1843.15" y="1813.09" width="249.703" height="237.812"/>
+  <object id="11652" name="premiumslotmachine" type="premiumslotmachine" x="16163.1" y="2633.09" width="249.703" height="237.812"/>
+  <object id="11653" name="premiumslotmachine" type="premiumslotmachine" x="891.148" y="10497.1" width="249.703" height="237.812"/>
+  <object id="11654" name="slotmachine" type="slotmachine" x="6144" y="7168" width="249.703" height="237.812"/>
+  <object id="11655" name="slotmachine" type="slotmachine" x="10496" y="7424" width="249.703" height="237.812"/>
+  <object id="11656" name="slotmachine" type="slotmachine" x="7936" y="5888" width="249.703" height="237.812"/>
+  <object id="11657" name="slotmachine" type="slotmachine" x="7424" y="10240" width="249.703" height="237.812"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.11" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="1879">
+ <objectgroup id="2" name="walls">
+  <object id="1794" name="decorativefloor3" type="decorativefloor3" x="0" y="-256" width="128" height="128"/>
+  <object id="1795" name="decorativefloor3" type="decorativefloor3" x="128" y="-256" width="128" height="128"/>
+  <object id="1796" name="decorativefloor3" type="decorativefloor3" x="128" y="-128" width="128" height="128"/>
+  <object id="1797" name="decorativefloor3" type="decorativefloor3" x="-384" y="0" width="128" height="128"/>
+  <object id="1798" name="decorativefloor3" type="decorativefloor3" x="-384" y="128" width="128" height="128"/>
+  <object id="1799" name="decorativefloor3" type="decorativefloor3" x="-256" y="128" width="128" height="128"/>
+  <object id="1800" name="decorativefloor3" type="decorativefloor3" x="256" y="256" width="128" height="128"/>
+  <object id="1801" name="decorativefloor3" type="decorativefloor3" x="384" y="256" width="128" height="128"/>
+  <object id="1802" name="decorativefloor3" type="decorativefloor3" x="-384" y="-512" width="128" height="128"/>
+  <object id="1803" name="decorativefloor3" type="decorativefloor3" x="384" y="-512" width="128" height="128"/>
+  <object id="1804" name="decorativefloor3" type="decorativefloor3" x="128" y="128" width="128" height="128"/>
+  <object id="1805" name="decorativefloor3" type="decorativefloor3" x="-256" y="-384" width="128" height="128"/>
+  <object id="1806" name="decorativefloor3" type="decorativefloor3" x="128" y="-640" width="128" height="128"/>
+  <object id="1807" name="decorativefloor3" type="decorativefloor3" x="-512" y="-256" width="128" height="128"/>
+  <object id="1808" name="decorativefloor3" type="decorativefloor3" x="-512" y="-640" width="128" height="128"/>
+  <object id="1809" name="decorativefloor3" type="decorativefloor3" x="384" y="-768" width="128" height="128"/>
+  <object id="1810" name="decorativefloor3" type="decorativefloor3" x="384" y="-640" width="128" height="128"/>
+  <object id="1811" name="decorativefloor3" type="decorativefloor3" x="512" y="-640" width="128" height="128"/>
+  <object id="1812" name="decorativefloor3" type="decorativefloor3" x="512" y="256" width="128" height="128"/>
+  <object id="1813" name="decorativefloor3" type="decorativefloor3" x="384" y="384" width="128" height="128"/>
+  <object id="1814" name="decorativefloor3" type="decorativefloor3" x="-256" y="384" width="128" height="128"/>
+  <object id="1815" name="decorativefloor3" type="decorativefloor3" x="-512" y="384" width="128" height="128"/>
+  <object id="1817" name="decorativefloor1" type="decorativefloor1" x="-512" y="-768" width="128" height="128"/>
+  <object id="1818" name="decorativefloor1" type="decorativefloor1" x="256" y="-640" width="128" height="128"/>
+  <object id="1819" name="decorativefloor1" type="decorativefloor1" x="-128" y="-768" width="128" height="128"/>
+  <object id="1820" name="decorativefloor1" type="decorativefloor1" x="-256" y="-640" width="128" height="128"/>
+  <object id="1821" name="decorativefloor1" type="decorativefloor1" x="-128" y="-640" width="128" height="128"/>
+  <object id="1822" name="decorativefloor1" type="decorativefloor1" x="-384" y="-384" width="128" height="128"/>
+  <object id="1823" name="decorativefloor1" type="decorativefloor1" x="-512" y="0" width="128" height="128"/>
+  <object id="1824" name="decorativefloor1" type="decorativefloor1" x="-384" y="256" width="128" height="128"/>
+  <object id="1825" name="decorativefloor1" type="decorativefloor1" x="-256" y="0" width="128" height="128"/>
+  <object id="1826" name="decorativefloor1" type="decorativefloor1" x="256" y="384" width="128" height="128"/>
+  <object id="1827" name="decorativefloor1" type="decorativefloor1" x="512" y="128" width="128" height="128"/>
+  <object id="1828" name="decorativefloor1" type="decorativefloor1" x="384" y="0" width="128" height="128"/>
+  <object id="1829" name="decorativefloor1" type="decorativefloor1" x="512" y="-256" width="128" height="128"/>
+  <object id="1830" name="decorativefloor1" type="decorativefloor1" x="384" y="-384" width="128" height="128"/>
+  <object id="1831" name="decorativefloor1" type="decorativefloor1" x="512" y="-512" width="128" height="128"/>
+  <object id="1832" name="decorativefloor1" type="decorativefloor1" x="128" y="-384" width="128" height="128"/>
+  <object id="1833" name="decorativefloor1" type="decorativefloor1" x="0" y="0" width="128" height="128"/>
+  <object id="1834" name="decorativefloor1" type="decorativefloor1" x="-128" y="-128" width="128" height="128"/>
+  <object id="1835" name="decorativefloor1" type="decorativefloor1" x="256" y="-256" width="128" height="128"/>
+  <object id="1836" name="decorativefloor1" type="decorativefloor1" x="-128" y="-512" width="128" height="128"/>
+  <object id="1837" name="decorativefloor1" type="decorativefloor1" x="0" y="256" width="128" height="128"/>
+  <object id="1838" name="decorativefloor1" type="decorativefloor1" x="512" y="384" width="128" height="128"/>
+  <object id="1840" name="rockwall" type="rockwall" x="256" y="-896" width="128" height="128"/>
+  <object id="1841" name="rockwall" type="rockwall" x="640" y="-896" width="128" height="128"/>
+  <object id="1842" name="rockwall" type="rockwall" x="640" y="-768" width="128" height="128"/>
+  <object id="1843" name="rockwall" type="rockwall" x="640" y="-640" width="128" height="128"/>
+  <object id="1845" name="rockwall" type="rockwall" x="-640" y="-896" width="128" height="128"/>
+  <object id="1846" name="rockwall" type="rockwall" x="-640" y="-640" width="128" height="128"/>
+  <object id="1847" name="rockwall" type="rockwall" x="-640" y="-512" width="128" height="128"/>
+  <object id="1851" name="rockwall" type="rockwall" x="640" y="256" width="128" height="128"/>
+  <object id="1852" name="rockwall" type="rockwall" x="640" y="384" width="128" height="128"/>
+  <object id="1853" name="rockwall" type="rockwall" x="384" y="512" width="128" height="128"/>
+  <object id="1854" name="rockwall" type="rockwall" x="640" y="512" width="128" height="128"/>
+  <object id="1856" name="rockwall" type="rockwall" x="-640" y="512" width="128" height="128"/>
+  <object id="1861" name="rockwall" type="rockwall" x="-896" y="512" width="128" height="128"/>
+  <object id="1862" name="rockwall" type="rockwall" x="-1024" y="-384" width="128" height="128"/>
+  <object id="1863" name="rockwall" type="rockwall" x="-1152" y="-512" width="128" height="128"/>
+  <object id="1864" name="rockwall" type="rockwall" x="-512" y="-1152" width="128" height="128"/>
+  <object id="1865" name="rockwall" type="rockwall" x="128" y="-1280" width="128" height="128"/>
+  <object id="1866" name="rockwall" type="rockwall" x="256" y="-1408" width="128" height="128"/>
+  <object id="1867" name="rockwall" type="rockwall" x="768" y="-640" width="128" height="128"/>
+  <object id="1868" name="rockwall" type="rockwall" x="1408" y="-256" width="128" height="128"/>
+  <object id="1870" name="rockwall" type="rockwall" x="1152" y="-384" width="128" height="128"/>
+  <object id="1872" name="rockwall" type="rockwall" x="1024" y="768" width="128" height="128"/>
+  <object id="1873" name="rockwall" type="rockwall" x="-768" y="768" width="128" height="128"/>
+  <object id="1874" name="rockwall" type="rockwall" x="-1152" y="384" width="128" height="128"/>
+  <object id="1875" name="tower" type="tower" x="512" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1876" name="tower" type="tower" x="-1024" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1877" name="tower" type="tower" x="-512" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1878" name="tower" type="tower" x="512" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="towers"/>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="7" name="wood_spikes"/>
+ <objectgroup id="6" name="guards"/>
+ <objectgroup id="8" name="traps"/>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="1793" name="main" type="brokendoll" x="0" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,13 @@
+[[actions]]
+name = "Update and Play"
+path = "launcher.exe"
+
+[[actions]]
+name = "Play"
+path = "Dynast.io.exe"
+args = ["include-custom", "true"]
+
+[[actions]]
+name = "Play and show private servers"
+path = "Dynast.io.exe"
+args = ["include-custom", "true"]

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="1811">
+ <objectgroup id="2" name="walls"/>
+ <objectgroup id="3" name="towers">
+  <object id="1743" name="spidertower" class="spidertower" x="-587.758" y="715.879" width="256" height="256"/>
+  <object id="1751" name="spidertower" class="spidertower" x="443.152" y="-824.121" width="256" height="256"/>
+  <object id="1767" name="spidertower" class="spidertower" x="364" y="244" width="256" height="256"/>
+  <object id="1768" name="spidertower" class="spidertower" x="-778.667" y="48.6061" width="256" height="256"/>
+  <object id="1800" name="spidertower" class="spidertower" x="789.091" y="642.667" width="256" height="256"/>
+  <object id="1801" name="spidertower" class="spidertower" x="26.5455" y="-1324.97" width="256" height="256"/>
+  <object id="1802" name="spidertower" class="spidertower" x="-58.3025" y="975.03" width="256" height="256"/>
+  <object id="1803" name="spidertower" class="spidertower" x="-1179.52" y="-318.909" width="256" height="256"/>
+  <object id="1804" name="spidertower" class="spidertower" x="894.424" y="-1230.91" width="256" height="256"/>
+  <object id="1805" name="spidertower" class="spidertower" x="-1455.27" y="596.243" width="256" height="256"/>
+  <object id="1806" name="spidertower" class="spidertower" x="1121.33" y="-384.848" width="256" height="256"/>
+  <object id="1807" name="spidertower" class="spidertower" x="-755.273" y="-1131.03" width="256" height="256"/>
+ </objectgroup>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="7" name="wood_spikes"/>
+ <objectgroup id="6" name="guards">
+  <object id="1783" name="spidermother" class="spidermother" x="160" y="-216" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1785" name="spidercocoon" class="spidercocoon" x="-216.667" y="-1149.39" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1786" name="spidercocoon" class="spidercocoon" x="1111" y="-107" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1787" name="spidercocoon" class="spidercocoon" x="-1432.64" y="378.455" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1788" name="spidercocoon" class="spidercocoon" x="-1372.58" y="-289.485" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1789" name="spidercocoon" class="spidercocoon" x="679.303" y="-1251.79" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1790" name="spidercocoon" class="spidercocoon" x="-303.849" y="990.939" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1795" name="spidermother" class="spidermother" x="-364" y="-186" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1796" name="spidermother" class="spidermother" x="-54" y="204" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="1797" name="spidercocoon" class="spidercocoon" x="739" y="395" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1798" name="spidercocoon" class="spidercocoon" x="190.818" y="-740.576" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1799" name="spidercocoon" class="spidercocoon" x="907" y="-963" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1808" name="spidercocoon" class="spidercocoon" x="-1016.45" y="-1061.3" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1809" name="spidercocoon" class="spidercocoon" x="921" y="-357" width="190" height="190">
+   <ellipse/>
+  </object>
+  <object id="1810" name="spidercocoon" class="spidercocoon" x="-698.03" y="-585.909" width="190" height="190">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="traps"/>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" class="spiderchest" x="-128" y="-128" width="128" height="128"/>
+  <object id="1793" name="main" class="spiderchest" x="-128" y="0" width="128" height="128"/>
+  <object id="1794" name="main" class="spiderchest" x="0" y="0" width="128" height="128"/>
+ </objectgroup>
+</map>

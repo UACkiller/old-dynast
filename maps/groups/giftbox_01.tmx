@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="12" nextobjectid="1815">
+ <objectgroup id="1" name="floors">
+  <object id="214" name="floor" class="floor" x="-128" y="-256" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="walls"/>
+ <objectgroup id="3" name="towers"/>
+ <objectgroup id="4" name="platforms" locked="1"/>
+ <objectgroup id="5" name="guard_archers"/>
+ <objectgroup id="7" name="wood_spikes"/>
+ <objectgroup id="6" name="guards"/>
+ <objectgroup id="8" name="traps"/>
+ <objectgroup id="9" name="firewatchers"/>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" class="giftbox" x="-128" y="-256" width="128" height="128"/>
+ </objectgroup>
+</map>

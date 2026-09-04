@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="128" infinite="1" nextlayerid="11" nextobjectid="2676">
+ <objectgroup id="2" name="walls">
+  <object id="2134" name="diamond" class="diamond" x="-128" y="-128" width="128" height="128"/>
+  <object id="2135" name="diamond" class="diamond" x="128" y="128" width="128" height="128"/>
+  <object id="2136" name="diamond" class="diamond" x="-128" y="128" width="128" height="128"/>
+  <object id="2137" name="diamond" class="diamond" x="128" y="-128" width="128" height="128"/>
+  <object id="2138" name="diamond" class="diamond" x="0" y="-128" width="128" height="128"/>
+  <object id="2139" name="diamond" class="diamond" x="128" y="0" width="128" height="128"/>
+  <object id="2140" name="diamond" class="diamond" x="0" y="128" width="128" height="128"/>
+  <object id="2141" name="diamond" class="diamond" x="-128" y="0" width="128" height="128"/>
+  <object id="2142" name="diamond" class="diamond" x="256" y="128" width="128" height="128"/>
+  <object id="2143" name="diamond" class="diamond" x="384" y="128" width="128" height="128"/>
+  <object id="2144" name="diamond" class="diamond" x="384" y="256" width="128" height="128"/>
+  <object id="2145" name="diamond" class="diamond" x="384" y="384" width="128" height="128"/>
+  <object id="2146" name="diamond" class="diamond" x="256" y="384" width="128" height="128"/>
+  <object id="2147" name="diamond" class="diamond" x="128" y="384" width="128" height="128"/>
+  <object id="2148" name="diamond" class="diamond" x="128" y="256" width="128" height="128"/>
+  <object id="2149" name="diamond" class="diamond" x="-256" y="-256" width="128" height="128"/>
+  <object id="2150" name="diamond" class="diamond" x="-256" y="-128" width="128" height="128"/>
+  <object id="2151" name="diamond" class="diamond" x="-256" y="-384" width="128" height="128"/>
+  <object id="2152" name="diamond" class="diamond" x="-128" y="-384" width="128" height="128"/>
+  <object id="2153" name="diamond" class="diamond" x="0" y="-384" width="128" height="128"/>
+  <object id="2154" name="diamond" class="diamond" x="0" y="-256" width="128" height="128"/>
+  <object id="2164" name="diamond" class="diamond" x="384" y="0" width="128" height="128"/>
+  <object id="2165" name="diamond" class="diamond" x="384" y="-128" width="128" height="128"/>
+  <object id="2166" name="diamond" class="diamond" x="384" y="-256" width="128" height="128"/>
+  <object id="2167" name="diamond" class="diamond" x="384" y="-384" width="128" height="128"/>
+  <object id="2168" name="diamond" class="diamond" x="256" y="-384" width="128" height="128"/>
+  <object id="2169" name="diamond" class="diamond" x="128" y="-384" width="128" height="128"/>
+  <object id="2170" name="diamond" class="diamond" x="-384" y="-128" width="128" height="128"/>
+  <object id="2171" name="diamond" class="diamond" x="-384" y="0" width="128" height="128"/>
+  <object id="2172" name="diamond" class="diamond" x="-384" y="128" width="128" height="128"/>
+  <object id="2173" name="diamond" class="diamond" x="-384" y="256" width="128" height="128"/>
+  <object id="2174" name="diamond" class="diamond" x="-384" y="384" width="128" height="128"/>
+  <object id="2175" name="diamond" class="diamond" x="-256" y="384" width="128" height="128"/>
+  <object id="2176" name="diamond" class="diamond" x="-128" y="384" width="128" height="128"/>
+  <object id="2177" name="diamond" class="diamond" x="0" y="384" width="128" height="128"/>
+  <object id="2178" name="diamond" class="diamond" x="-384" y="-256" width="128" height="128"/>
+  <object id="2179" name="diamond" class="diamond" x="-384" y="-384" width="128" height="128"/>
+  <object id="2197" name="diamond" class="diamond" x="-768" y="-768" width="128" height="128"/>
+  <object id="2198" name="diamond" class="diamond" x="-640" y="-768" width="128" height="128"/>
+  <object id="2199" name="diamond" class="diamond" x="-384" y="-768" width="128" height="128"/>
+  <object id="2200" name="diamond" class="diamond" x="-512" y="-768" width="128" height="128"/>
+  <object id="2201" name="diamond" class="diamond" x="-256" y="-768" width="128" height="128"/>
+  <object id="2202" name="diamond" class="diamond" x="-128" y="-768" width="128" height="128"/>
+  <object id="2203" name="diamond" class="diamond" x="0" y="-768" width="128" height="128"/>
+  <object id="2204" name="diamond" class="diamond" x="256" y="-768" width="128" height="128"/>
+  <object id="2205" name="diamond" class="diamond" x="384" y="-768" width="128" height="128"/>
+  <object id="2206" name="diamond" class="diamond" x="640" y="-768" width="128" height="128"/>
+  <object id="2207" name="diamond" class="diamond" x="768" y="-768" width="128" height="128"/>
+  <object id="2208" name="diamond" class="diamond" x="768" y="-640" width="128" height="128"/>
+  <object id="2209" name="diamond" class="diamond" x="768" y="-512" width="128" height="128"/>
+  <object id="2210" name="diamond" class="diamond" x="512" y="-768" width="128" height="128"/>
+  <object id="2211" name="diamond" class="diamond" x="128" y="-768" width="128" height="128"/>
+  <object id="2212" name="diamond" class="diamond" x="768" y="-384" width="128" height="128"/>
+  <object id="2213" name="diamond" class="diamond" x="768" y="-128" width="128" height="128"/>
+  <object id="2214" name="diamond" class="diamond" x="768" y="-256" width="128" height="128"/>
+  <object id="2215" name="diamond" class="diamond" x="768" y="0" width="128" height="128"/>
+  <object id="2216" name="diamond" class="diamond" x="768" y="128" width="128" height="128"/>
+  <object id="2217" name="diamond" class="diamond" x="768" y="256" width="128" height="128"/>
+  <object id="2218" name="diamond" class="diamond" x="768" y="384" width="128" height="128"/>
+  <object id="2219" name="diamond" class="diamond" x="768" y="512" width="128" height="128"/>
+  <object id="2220" name="diamond" class="diamond" x="768" y="640" width="128" height="128"/>
+  <object id="2221" name="diamond" class="diamond" x="768" y="768" width="128" height="128"/>
+  <object id="2222" name="diamond" class="diamond" x="640" y="768" width="128" height="128"/>
+  <object id="2223" name="diamond" class="diamond" x="512" y="768" width="128" height="128"/>
+  <object id="2224" name="diamond" class="diamond" x="384" y="768" width="128" height="128"/>
+  <object id="2225" name="diamond" class="diamond" x="256" y="768" width="128" height="128"/>
+  <object id="2226" name="diamond" class="diamond" x="128" y="768" width="128" height="128"/>
+  <object id="2227" name="diamond" class="diamond" x="0" y="768" width="128" height="128"/>
+  <object id="2228" name="diamond" class="diamond" x="-128" y="768" width="128" height="128"/>
+  <object id="2229" name="diamond" class="diamond" x="-256" y="768" width="128" height="128"/>
+  <object id="2230" name="diamond" class="diamond" x="-384" y="768" width="128" height="128"/>
+  <object id="2231" name="diamond" class="diamond" x="-512" y="768" width="128" height="128"/>
+  <object id="2232" name="diamond" class="diamond" x="-640" y="768" width="128" height="128"/>
+  <object id="2233" name="diamond" class="diamond" x="-768" y="640" width="128" height="128"/>
+  <object id="2234" name="diamond" class="diamond" x="-768" y="768" width="128" height="128"/>
+  <object id="2235" name="diamond" class="diamond" x="-768" y="512" width="128" height="128"/>
+  <object id="2236" name="diamond" class="diamond" x="-768" y="384" width="128" height="128"/>
+  <object id="2237" name="diamond" class="diamond" x="-768" y="256" width="128" height="128"/>
+  <object id="2238" name="diamond" class="diamond" x="-768" y="128" width="128" height="128"/>
+  <object id="2239" name="diamond" class="diamond" x="-768" y="0" width="128" height="128"/>
+  <object id="2240" name="diamond" class="diamond" x="-768" y="-128" width="128" height="128"/>
+  <object id="2241" name="diamond" class="diamond" x="-768" y="-256" width="128" height="128"/>
+  <object id="2242" name="diamond" class="diamond" x="-768" y="-384" width="128" height="128"/>
+  <object id="2243" name="diamond" class="diamond" x="-768" y="-512" width="128" height="128"/>
+  <object id="2244" name="diamond" class="diamond" x="-768" y="-640" width="128" height="128"/>
+  <object id="2294" name="diamond" class="diamond" x="896" y="-256" width="128" height="128"/>
+  <object id="2295" name="diamond" class="diamond" x="1024" y="-256" width="128" height="128"/>
+  <object id="2296" name="diamond" class="diamond" x="1152" y="-256" width="128" height="128"/>
+  <object id="2297" name="diamond" class="diamond" x="1152" y="-128" width="128" height="128"/>
+  <object id="2298" name="diamond" class="diamond" x="1152" y="0" width="128" height="128"/>
+  <object id="2299" name="diamond" class="diamond" x="1152" y="128" width="128" height="128"/>
+  <object id="2300" name="diamond" class="diamond" x="1024" y="128" width="128" height="128"/>
+  <object id="2301" name="diamond" class="diamond" x="896" y="128" width="128" height="128"/>
+  <object id="2302" name="diamond" class="diamond" x="256" y="896" width="128" height="128"/>
+  <object id="2303" name="diamond" class="diamond" x="256" y="1024" width="128" height="128"/>
+  <object id="2304" name="diamond" class="diamond" x="256" y="1152" width="128" height="128"/>
+  <object id="2305" name="diamond" class="diamond" x="128" y="1152" width="128" height="128"/>
+  <object id="2306" name="diamond" class="diamond" x="0" y="1152" width="128" height="128"/>
+  <object id="2307" name="diamond" class="diamond" x="-128" y="1024" width="128" height="128"/>
+  <object id="2308" name="diamond" class="diamond" x="-128" y="1152" width="128" height="128"/>
+  <object id="2309" name="diamond" class="diamond" x="-128" y="896" width="128" height="128"/>
+  <object id="2310" name="diamond" class="diamond" x="-256" y="1152" width="128" height="128"/>
+  <object id="2311" name="diamond" class="diamond" x="-512" y="1152" width="128" height="128"/>
+  <object id="2312" name="diamond" class="diamond" x="-640" y="1152" width="128" height="128"/>
+  <object id="2313" name="diamond" class="diamond" x="-384" y="1152" width="128" height="128"/>
+  <object id="2314" name="diamond" class="diamond" x="-768" y="1152" width="128" height="128"/>
+  <object id="2315" name="diamond" class="diamond" x="-896" y="1152" width="128" height="128"/>
+  <object id="2316" name="diamond" class="diamond" x="-1024" y="1152" width="128" height="128"/>
+  <object id="2317" name="diamond" class="diamond" x="-1152" y="1152" width="128" height="128"/>
+  <object id="2318" name="diamond" class="diamond" x="-1152" y="1024" width="128" height="128"/>
+  <object id="2319" name="diamond" class="diamond" x="-1152" y="896" width="128" height="128"/>
+  <object id="2320" name="diamond" class="diamond" x="-1152" y="768" width="128" height="128"/>
+  <object id="2321" name="diamond" class="diamond" x="-1152" y="640" width="128" height="128"/>
+  <object id="2322" name="diamond" class="diamond" x="-1152" y="512" width="128" height="128"/>
+  <object id="2323" name="diamond" class="diamond" x="-1152" y="384" width="128" height="128"/>
+  <object id="2324" name="diamond" class="diamond" x="-1152" y="256" width="128" height="128"/>
+  <object id="2325" name="diamond" class="diamond" x="-1152" y="128" width="128" height="128"/>
+  <object id="2326" name="diamond" class="diamond" x="-1152" y="0" width="128" height="128"/>
+  <object id="2327" name="diamond" class="diamond" x="-1152" y="-128" width="128" height="128"/>
+  <object id="2328" name="diamond" class="diamond" x="-1152" y="-256" width="128" height="128"/>
+  <object id="2329" name="diamond" class="diamond" x="-1152" y="-384" width="128" height="128"/>
+  <object id="2330" name="diamond" class="diamond" x="-1152" y="-512" width="128" height="128"/>
+  <object id="2331" name="diamond" class="diamond" x="-1152" y="-640" width="128" height="128"/>
+  <object id="2332" name="diamond" class="diamond" x="-1152" y="-768" width="128" height="128"/>
+  <object id="2333" name="diamond" class="diamond" x="1152" y="-384" width="128" height="128"/>
+  <object id="2334" name="diamond" class="diamond" x="1152" y="-512" width="128" height="128"/>
+  <object id="2335" name="diamond" class="diamond" x="1152" y="-768" width="128" height="128"/>
+  <object id="2336" name="diamond" class="diamond" x="1152" y="-640" width="128" height="128"/>
+  <object id="2337" name="diamond" class="diamond" x="1152" y="256" width="128" height="128"/>
+  <object id="2338" name="diamond" class="diamond" x="1152" y="384" width="128" height="128"/>
+  <object id="2339" name="diamond" class="diamond" x="1152" y="512" width="128" height="128"/>
+  <object id="2340" name="diamond" class="diamond" x="1152" y="640" width="128" height="128"/>
+  <object id="2341" name="diamond" class="diamond" x="1152" y="768" width="128" height="128"/>
+  <object id="2342" name="diamond" class="diamond" x="1152" y="896" width="128" height="128"/>
+  <object id="2343" name="diamond" class="diamond" x="1152" y="1024" width="128" height="128"/>
+  <object id="2344" name="diamond" class="diamond" x="1152" y="1152" width="128" height="128"/>
+  <object id="2345" name="diamond" class="diamond" x="1024" y="1152" width="128" height="128"/>
+  <object id="2346" name="diamond" class="diamond" x="768" y="1152" width="128" height="128"/>
+  <object id="2347" name="diamond" class="diamond" x="1152" y="-896" width="128" height="128"/>
+  <object id="2348" name="diamond" class="diamond" x="512" y="1152" width="128" height="128"/>
+  <object id="2349" name="diamond" class="diamond" x="384" y="1152" width="128" height="128"/>
+  <object id="2350" name="diamond" class="diamond" x="640" y="1152" width="128" height="128"/>
+  <object id="2351" name="diamond" class="diamond" x="896" y="1152" width="128" height="128"/>
+  <object id="2352" name="diamond" class="diamond" x="1152" y="-1024" width="128" height="128"/>
+  <object id="2353" name="diamond" class="diamond" x="1152" y="-1152" width="128" height="128"/>
+  <object id="2354" name="diamond" class="diamond" x="1024" y="-1152" width="128" height="128"/>
+  <object id="2355" name="diamond" class="diamond" x="896" y="-1152" width="128" height="128"/>
+  <object id="2356" name="diamond" class="diamond" x="768" y="-1152" width="128" height="128"/>
+  <object id="2357" name="diamond" class="diamond" x="640" y="-1152" width="128" height="128"/>
+  <object id="2358" name="diamond" class="diamond" x="512" y="-1152" width="128" height="128"/>
+  <object id="2359" name="diamond" class="diamond" x="384" y="-1152" width="128" height="128"/>
+  <object id="2360" name="diamond" class="diamond" x="256" y="-1152" width="128" height="128"/>
+  <object id="2361" name="diamond" class="diamond" x="128" y="-1152" width="128" height="128"/>
+  <object id="2362" name="diamond" class="diamond" x="0" y="-1152" width="128" height="128"/>
+  <object id="2363" name="diamond" class="diamond" x="-128" y="-1152" width="128" height="128"/>
+  <object id="2364" name="diamond" class="diamond" x="-256" y="-1152" width="128" height="128"/>
+  <object id="2365" name="diamond" class="diamond" x="-384" y="-1152" width="128" height="128"/>
+  <object id="2366" name="diamond" class="diamond" x="-512" y="-1152" width="128" height="128"/>
+  <object id="2367" name="diamond" class="diamond" x="-640" y="-1152" width="128" height="128"/>
+  <object id="2368" name="diamond" class="diamond" x="-768" y="-1152" width="128" height="128"/>
+  <object id="2369" name="diamond" class="diamond" x="-896" y="-1152" width="128" height="128"/>
+  <object id="2370" name="diamond" class="diamond" x="-1024" y="-1152" width="128" height="128"/>
+  <object id="2371" name="diamond" class="diamond" x="-1152" y="-1152" width="128" height="128"/>
+  <object id="2372" name="diamond" class="diamond" x="-1152" y="-1024" width="128" height="128"/>
+  <object id="2373" name="diamond" class="diamond" x="-1152" y="-896" width="128" height="128"/>
+  <object id="2374" name="diamond" class="diamond" x="-256" y="-1024" width="128" height="128"/>
+  <object id="2375" name="diamond" class="diamond" x="-256" y="-896" width="128" height="128"/>
+  <object id="2376" name="diamond" class="diamond" x="128" y="-1024" width="128" height="128"/>
+  <object id="2377" name="diamond" class="diamond" x="128" y="-896" width="128" height="128"/>
+  <object id="2378" name="diamond" class="diamond" x="-896" y="-256" width="128" height="128"/>
+  <object id="2379" name="diamond" class="diamond" x="-1024" y="-256" width="128" height="128"/>
+  <object id="2380" name="diamond" class="diamond" x="-896" y="128" width="128" height="128"/>
+  <object id="2381" name="diamond" class="diamond" x="-1024" y="128" width="128" height="128"/>
+  <object id="2382" name="diamond" class="diamond" x="-1024" y="-512" width="128" height="128"/>
+  <object id="2383" name="diamond" class="diamond" x="-896" y="-512" width="128" height="128"/>
+  <object id="2384" name="diamond" class="diamond" x="-512" y="-1024" width="128" height="128"/>
+  <object id="2385" name="diamond" class="diamond" x="-512" y="-896" width="128" height="128"/>
+  <object id="2386" name="diamond" class="diamond" x="512" y="-1024" width="128" height="128"/>
+  <object id="2387" name="diamond" class="diamond" x="512" y="-896" width="128" height="128"/>
+  <object id="2388" name="diamond" class="diamond" x="1024" y="-512" width="128" height="128"/>
+  <object id="2389" name="diamond" class="diamond" x="896" y="-512" width="128" height="128"/>
+  <object id="2390" name="diamond" class="diamond" x="1024" y="512" width="128" height="128"/>
+  <object id="2391" name="diamond" class="diamond" x="896" y="512" width="128" height="128"/>
+  <object id="2392" name="diamond" class="diamond" x="512" y="896" width="128" height="128"/>
+  <object id="2393" name="diamond" class="diamond" x="512" y="1024" width="128" height="128"/>
+  <object id="2394" name="diamond" class="diamond" x="-512" y="1024" width="128" height="128"/>
+  <object id="2395" name="diamond" class="diamond" x="-512" y="896" width="128" height="128"/>
+  <object id="2396" name="diamond" class="diamond" x="-896" y="512" width="128" height="128"/>
+  <object id="2397" name="diamond" class="diamond" x="-1024" y="512" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="towers">
+  <object id="2181" name="fireballtower" class="fireballtower" x="-640" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2182" name="fireballtower" class="fireballtower" x="512" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2183" name="fireballtower" class="fireballtower" x="512" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2184" name="fireballtower" class="fireballtower" x="-640" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2185" name="fireballtower" class="fireballtower" x="-640" y="-128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2186" name="fireballtower" class="fireballtower" x="512" y="0" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2187" name="snowballtower" class="snowballtower" x="-640" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2188" name="snowballtower" class="snowballtower" x="-640" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2189" name="snowballtower" class="snowballtower" x="-384" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2190" name="snowballtower" class="snowballtower" x="256" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2191" name="snowballtower" class="snowballtower" x="512" y="256" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2192" name="snowballtower" class="snowballtower" x="512" y="-384" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2193" name="snowballtower" class="snowballtower" x="256" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2194" name="snowballtower" class="snowballtower" x="-384" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2195" name="snowballtower" class="snowballtower" x="0" y="-640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2196" name="snowballtower" class="snowballtower" x="-128" y="512" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2268" name="fireballtower" class="fireballtower" x="-1024" y="896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2269" name="fireballtower" class="fireballtower" x="896" y="896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2270" name="fireballtower" class="fireballtower" x="-1024" y="-1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2271" name="fireballtower" class="fireballtower" x="896" y="-1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2278" name="snowballtower" class="snowballtower" x="-1024" y="-768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2279" name="snowballtower" class="snowballtower" x="-768" y="-1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2280" name="snowballtower" class="snowballtower" x="640" y="-1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2281" name="snowballtower" class="snowballtower" x="896" y="-768" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2282" name="snowballtower" class="snowballtower" x="896" y="640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2283" name="snowballtower" class="snowballtower" x="640" y="896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2284" name="snowballtower" class="snowballtower" x="-768" y="896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2285" name="snowballtower" class="snowballtower" x="-1024" y="640" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2290" name="snowballtower" class="snowballtower" x="0" y="896" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2291" name="snowballtower" class="snowballtower" x="-128" y="-1024" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2292" name="snowballtower" class="snowballtower" x="896" y="-128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2293" name="snowballtower" class="snowballtower" x="-1024" y="-128" width="256" height="256">
+   <ellipse/>
+  </object>
+  <object id="2423" name="woodspikes" class="woodspikes" x="-384" y="-896" width="128" height="128"/>
+  <object id="2424" name="woodspikes" class="woodspikes" x="896" y="-384" width="128" height="128"/>
+  <object id="2425" name="woodspikes" class="woodspikes" x="384" y="896" width="128" height="128"/>
+  <object id="2426" name="woodspikes" class="woodspikes" x="-896" y="-384" width="128" height="128"/>
+  <object id="2427" name="woodspikes" class="woodspikes" x="-1280" y="-640" width="128" height="128"/>
+  <object id="2428" name="woodspikes" class="woodspikes" x="-1280" y="-768" width="128" height="128"/>
+  <object id="2429" name="woodspikes" class="woodspikes" x="-1280" y="-896" width="128" height="128"/>
+  <object id="2430" name="woodspikes" class="woodspikes" x="-1280" y="-1024" width="128" height="128"/>
+  <object id="2431" name="woodspikes" class="woodspikes" x="-1280" y="-1152" width="128" height="128"/>
+  <object id="2432" name="woodspikes" class="woodspikes" x="-1280" y="-1280" width="128" height="128"/>
+  <object id="2433" name="woodspikes" class="woodspikes" x="-1152" y="-1280" width="128" height="128"/>
+  <object id="2434" name="woodspikes" class="woodspikes" x="-1024" y="-1280" width="128" height="128"/>
+  <object id="2435" name="woodspikes" class="woodspikes" x="-896" y="-1280" width="128" height="128"/>
+  <object id="2436" name="woodspikes" class="woodspikes" x="-768" y="-1280" width="128" height="128"/>
+  <object id="2437" name="woodspikes" class="woodspikes" x="-640" y="-1280" width="128" height="128"/>
+  <object id="2438" name="woodspikes" class="woodspikes" x="640" y="-1280" width="128" height="128"/>
+  <object id="2439" name="woodspikes" class="woodspikes" x="768" y="-1280" width="128" height="128"/>
+  <object id="2440" name="woodspikes" class="woodspikes" x="896" y="-1280" width="128" height="128"/>
+  <object id="2441" name="woodspikes" class="woodspikes" x="1024" y="-1280" width="128" height="128"/>
+  <object id="2442" name="woodspikes" class="woodspikes" x="1152" y="-1280" width="128" height="128"/>
+  <object id="2443" name="woodspikes" class="woodspikes" x="1280" y="-1280" width="128" height="128"/>
+  <object id="2444" name="woodspikes" class="woodspikes" x="1280" y="-1152" width="128" height="128"/>
+  <object id="2445" name="woodspikes" class="woodspikes" x="1280" y="-1024" width="128" height="128"/>
+  <object id="2446" name="woodspikes" class="woodspikes" x="1280" y="-896" width="128" height="128"/>
+  <object id="2447" name="woodspikes" class="woodspikes" x="1280" y="-768" width="128" height="128"/>
+  <object id="2448" name="woodspikes" class="woodspikes" x="1280" y="-640" width="128" height="128"/>
+  <object id="2449" name="woodspikes" class="woodspikes" x="1280" y="640" width="128" height="128"/>
+  <object id="2450" name="woodspikes" class="woodspikes" x="1280" y="768" width="128" height="128"/>
+  <object id="2451" name="woodspikes" class="woodspikes" x="1280" y="1024" width="128" height="128"/>
+  <object id="2452" name="woodspikes" class="woodspikes" x="1280" y="1152" width="128" height="128"/>
+  <object id="2453" name="woodspikes" class="woodspikes" x="1280" y="896" width="128" height="128"/>
+  <object id="2454" name="woodspikes" class="woodspikes" x="1280" y="1280" width="128" height="128"/>
+  <object id="2455" name="woodspikes" class="woodspikes" x="1152" y="1280" width="128" height="128"/>
+  <object id="2456" name="woodspikes" class="woodspikes" x="1024" y="1280" width="128" height="128"/>
+  <object id="2457" name="woodspikes" class="woodspikes" x="896" y="1280" width="128" height="128"/>
+  <object id="2458" name="woodspikes" class="woodspikes" x="768" y="1280" width="128" height="128"/>
+  <object id="2459" name="woodspikes" class="woodspikes" x="640" y="1280" width="128" height="128"/>
+  <object id="2460" name="woodspikes" class="woodspikes" x="-640" y="1280" width="128" height="128"/>
+  <object id="2461" name="woodspikes" class="woodspikes" x="-768" y="1280" width="128" height="128"/>
+  <object id="2462" name="woodspikes" class="woodspikes" x="-896" y="1280" width="128" height="128"/>
+  <object id="2463" name="woodspikes" class="woodspikes" x="-1024" y="1280" width="128" height="128"/>
+  <object id="2464" name="woodspikes" class="woodspikes" x="-1152" y="1280" width="128" height="128"/>
+  <object id="2465" name="woodspikes" class="woodspikes" x="-1280" y="1280" width="128" height="128"/>
+  <object id="2466" name="woodspikes" class="woodspikes" x="-1280" y="1152" width="128" height="128"/>
+  <object id="2467" name="woodspikes" class="woodspikes" x="-1280" y="1024" width="128" height="128"/>
+  <object id="2468" name="woodspikes" class="woodspikes" x="-1280" y="896" width="128" height="128"/>
+  <object id="2469" name="woodspikes" class="woodspikes" x="-1280" y="768" width="128" height="128"/>
+  <object id="2470" name="woodspikes" class="woodspikes" x="-1280" y="640" width="128" height="128"/>
+  <object id="2471" name="woodspikes" class="woodspikes" x="0" y="1280" width="128" height="128"/>
+  <object id="2472" name="woodspikes" class="woodspikes" x="128" y="1280" width="128" height="128"/>
+  <object id="2473" name="woodspikes" class="woodspikes" x="1280" y="-128" width="128" height="128"/>
+  <object id="2474" name="woodspikes" class="woodspikes" x="1280" y="0" width="128" height="128"/>
+  <object id="2475" name="woodspikes" class="woodspikes" x="-1280" y="-128" width="128" height="128"/>
+  <object id="2476" name="woodspikes" class="woodspikes" x="-1280" y="0" width="128" height="128"/>
+  <object id="2477" name="woodspikes" class="woodspikes" x="-128" y="-1280" width="128" height="128"/>
+  <object id="2478" name="woodspikes" class="woodspikes" x="0" y="-1280" width="128" height="128"/>
+  <object id="2576" name="trap" class="trap" x="-128" y="-1792" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2577" name="trap" class="trap" x="0" y="-1792" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2578" name="trap" class="trap" x="0" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2579" name="trap" class="trap" x="-128" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2580" name="trap" class="trap" x="-256" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2581" name="trap" class="trap" x="-384" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2582" name="trap" class="trap" x="-512" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2583" name="trap" class="trap" x="128" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2584" name="trap" class="trap" x="256" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2585" name="trap" class="trap" x="384" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2586" name="trap" class="trap" x="512" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2587" name="trap" class="trap" x="-896" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2588" name="trap" class="trap" x="-1152" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2589" name="trap" class="trap" x="-1408" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2590" name="trap" class="trap" x="-1408" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2591" name="trap" class="trap" x="-1408" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2592" name="trap" class="trap" x="-1280" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2593" name="trap" class="trap" x="-1280" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2594" name="trap" class="trap" x="-1280" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2595" name="trap" class="trap" x="-1280" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2596" name="trap" class="trap" x="-1280" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2597" name="trap" class="trap" x="-1280" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2598" name="trap" class="trap" x="-1280" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2599" name="trap" class="trap" x="-1536" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2600" name="trap" class="trap" x="-1536" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2601" name="trap" class="trap" x="-1792" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2602" name="trap" class="trap" x="-1792" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2603" name="trap" class="trap" x="-1408" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2604" name="trap" class="trap" x="-1408" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2605" name="trap" class="trap" x="-1408" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2606" name="trap" class="trap" x="-1152" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2607" name="trap" class="trap" x="-896" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2608" name="trap" class="trap" x="-512" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2609" name="trap" class="trap" x="-384" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2610" name="trap" class="trap" x="-256" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2611" name="trap" class="trap" x="-128" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2612" name="trap" class="trap" x="256" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2613" name="trap" class="trap" x="384" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2614" name="trap" class="trap" x="512" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2615" name="trap" class="trap" x="128" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2616" name="trap" class="trap" x="0" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2617" name="trap" class="trap" x="0" y="1792" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2618" name="trap" class="trap" x="128" y="1792" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2619" name="trap" class="trap" x="384" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2620" name="trap" class="trap" x="-1024" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2621" name="trap" class="trap" x="1024" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2622" name="trap" class="trap" x="-384" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2623" name="trap" class="trap" x="-512" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2624" name="trap" class="trap" x="-384" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2625" name="trap" class="trap" x="-256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2626" name="trap" class="trap" x="-128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2627" name="trap" class="trap" x="0" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2628" name="trap" class="trap" x="256" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2629" name="trap" class="trap" x="128" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2630" name="trap" class="trap" x="384" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2631" name="trap" class="trap" x="512" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2632" name="trap" class="trap" x="512" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2633" name="trap" class="trap" x="512" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2634" name="trap" class="trap" x="512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2635" name="trap" class="trap" x="512" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2636" name="trap" class="trap" x="512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2637" name="trap" class="trap" x="512" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2638" name="trap" class="trap" x="512" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2639" name="trap" class="trap" x="512" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2640" name="trap" class="trap" x="384" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2641" name="trap" class="trap" x="256" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2642" name="trap" class="trap" x="128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2643" name="trap" class="trap" x="0" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2644" name="trap" class="trap" x="-128" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2645" name="trap" class="trap" x="-256" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2646" name="trap" class="trap" x="-384" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2647" name="trap" class="trap" x="-512" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2648" name="trap" class="trap" x="-512" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2649" name="trap" class="trap" x="-512" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2650" name="trap" class="trap" x="-512" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2651" name="trap" class="trap" x="-512" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2652" name="trap" class="trap" x="-512" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2653" name="trap" class="trap" x="-512" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2654" name="trap" class="trap" x="-512" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2655" name="trap" class="trap" x="1280" y="512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2656" name="trap" class="trap" x="1280" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2657" name="trap" class="trap" x="1280" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2658" name="trap" class="trap" x="1280" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2659" name="trap" class="trap" x="1280" y="-384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2660" name="trap" class="trap" x="1280" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2661" name="trap" class="trap" x="1280" y="-512" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2662" name="trap" class="trap" x="1536" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2663" name="trap" class="trap" x="1536" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2664" name="trap" class="trap" x="1792" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2665" name="trap" class="trap" x="1792" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2666" name="trap" class="trap" x="1408" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2667" name="trap" class="trap" x="1408" y="-1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2668" name="trap" class="trap" x="1408" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2669" name="trap" class="trap" x="1152" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2670" name="trap" class="trap" x="896" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2671" name="trap" class="trap" x="896" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2672" name="trap" class="trap" x="1152" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2673" name="trap" class="trap" x="1408" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2674" name="trap" class="trap" x="1408" y="1152" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2675" name="trap" class="trap" x="1408" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="platforms">
+  <object id="2155" name="platform" class="platform" x="256" y="0" width="128" height="128"/>
+  <object id="2156" name="platform" class="platform" x="256" y="-128" width="128" height="128"/>
+  <object id="2157" name="platform" class="platform" x="256" y="-256" width="128" height="128"/>
+  <object id="2158" name="platform" class="platform" x="128" y="-256" width="128" height="128"/>
+  <object id="2159" name="platform" class="platform" x="-256" y="0" width="128" height="128"/>
+  <object id="2160" name="platform" class="platform" x="-256" y="128" width="128" height="128"/>
+  <object id="2161" name="platform" class="platform" x="-256" y="256" width="128" height="128"/>
+  <object id="2162" name="platform" class="platform" x="-128" y="256" width="128" height="128"/>
+  <object id="2163" name="platform" class="platform" x="0" y="256" width="128" height="128"/>
+  <object id="2245" name="platform" class="platform" x="640" y="-128" width="128" height="128"/>
+  <object id="2246" name="platform" class="platform" x="-128" y="-640" width="128" height="128"/>
+  <object id="2247" name="platform" class="platform" x="-640" y="128" width="128" height="128"/>
+  <object id="2248" name="platform" class="platform" x="128" y="640" width="128" height="128"/>
+  <object id="2398" name="platform" class="platform" x="896" y="256" width="128" height="128"/>
+  <object id="2399" name="platform" class="platform" x="1024" y="256" width="128" height="128"/>
+  <object id="2400" name="platform" class="platform" x="1024" y="384" width="128" height="128"/>
+  <object id="2401" name="platform" class="platform" x="896" y="384" width="128" height="128"/>
+  <object id="2402" name="platform" class="platform" x="-384" y="896" width="128" height="128"/>
+  <object id="2403" name="platform" class="platform" x="-256" y="896" width="128" height="128"/>
+  <object id="2404" name="platform" class="platform" x="-256" y="1024" width="128" height="128"/>
+  <object id="2405" name="platform" class="platform" x="-384" y="1024" width="128" height="128"/>
+  <object id="2406" name="platform" class="platform" x="-1024" y="256" width="128" height="128"/>
+  <object id="2407" name="platform" class="platform" x="-1024" y="384" width="128" height="128"/>
+  <object id="2408" name="platform" class="platform" x="-896" y="384" width="128" height="128"/>
+  <object id="2409" name="platform" class="platform" x="-896" y="256" width="128" height="128"/>
+  <object id="2410" name="platform" class="platform" x="256" y="-1024" width="128" height="128"/>
+  <object id="2411" name="platform" class="platform" x="256" y="-896" width="128" height="128"/>
+  <object id="2412" name="platform" class="platform" x="384" y="-896" width="128" height="128"/>
+  <object id="2413" name="platform" class="platform" x="384" y="-1024" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="5" name="guard_archers">
+  <object id="2254" name="guardarcher" class="guardarcher" x="640" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2255" name="guardarcher" class="guardarcher" x="-128" y="-640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2256" name="guardarcher" class="guardarcher" x="-640" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2257" name="guardarcher" class="guardarcher" x="128" y="640" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2258" name="guardarcher" class="guardarcher" x="-256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2259" name="guardarcher" class="guardarcher" x="-256" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2260" name="guardarcher" class="guardarcher" x="0" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2261" name="guardarcher" class="guardarcher" x="128" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2262" name="guardarcher" class="guardarcher" x="256" y="-256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2263" name="guardarcher" class="guardarcher" x="256" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2264" name="guardarcher" class="guardarcher" x="256" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2265" name="guardarcher" class="guardarcher" x="-128" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2414" name="guardarcher" class="guardarcher" x="1024" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2415" name="guardarcher" class="guardarcher" x="1024" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2416" name="guardarcher" class="guardarcher" x="-256" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2417" name="guardarcher" class="guardarcher" x="-384" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2418" name="guardarcher" class="guardarcher" x="-1024" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2419" name="guardarcher" class="guardarcher" x="-1024" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2420" name="guardarcher" class="guardarcher" x="256" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2421" name="guardarcher" class="guardarcher" x="384" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="guards">
+  <object id="2479" name="guard" class="guard" x="-1536" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2480" name="guard" class="guard" x="-1408" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2481" name="guard" class="guard" x="-1536" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2482" name="guard" class="guard" x="-1280" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2483" name="guard" class="guard" x="-1408" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2484" name="guard" class="guard" x="-1024" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2485" name="guard" class="guard" x="-768" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2486" name="guard" class="guard" x="-1408" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2487" name="guard" class="guard" x="-1408" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2488" name="guard" class="guard" x="-128" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2489" name="guard" class="guard" x="0" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2490" name="guard" class="guard" x="-128" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2491" name="guard" class="guard" x="0" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2492" name="guard" class="guard" x="-128" y="-1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2493" name="guard" class="guard" x="0" y="-1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2494" name="guard" class="guard" x="0" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2495" name="guard" class="guard" x="128" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2496" name="guard" class="guard" x="128" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2497" name="guard" class="guard" x="0" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2498" name="guard" class="guard" x="0" y="1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2499" name="guard" class="guard" x="128" y="1920" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2500" name="guard" class="guard" x="1408" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2501" name="guard" class="guard" x="1408" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2502" name="guard" class="guard" x="1664" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2503" name="guard" class="guard" x="1664" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2504" name="guard" class="guard" x="1920" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2505" name="guard" class="guard" x="1920" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2506" name="guard" class="guard" x="-1408" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2507" name="guard" class="guard" x="-1408" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2508" name="guard" class="guard" x="-1664" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2509" name="guard" class="guard" x="-1664" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2510" name="guard" class="guard" x="-1920" y="-128" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2511" name="guard" class="guard" x="-1920" y="0" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2512" name="guard" class="guard" x="1280" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2513" name="guard" class="guard" x="1408" y="-1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2514" name="guard" class="guard" x="1408" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2515" name="guard" class="guard" x="1536" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2516" name="guard" class="guard" x="1536" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2517" name="guard" class="guard" x="1408" y="-1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2518" name="guard" class="guard" x="1408" y="-768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2519" name="guard" class="guard" x="1024" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2520" name="guard" class="guard" x="768" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2521" name="guard" class="guard" x="1408" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2522" name="guard" class="guard" x="1280" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2523" name="guard" class="guard" x="1408" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2524" name="guard" class="guard" x="1536" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2525" name="guard" class="guard" x="1536" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2526" name="guard" class="guard" x="1024" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2527" name="guard" class="guard" x="768" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2528" name="guard" class="guard" x="1408" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2529" name="guard" class="guard" x="1408" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2530" name="guard" class="guard" x="-1408" y="1280" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2531" name="guard" class="guard" x="-1280" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2532" name="guard" class="guard" x="-1408" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2533" name="guard" class="guard" x="-1536" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2534" name="guard" class="guard" x="-1536" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2535" name="guard" class="guard" x="-1024" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2536" name="guard" class="guard" x="-768" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2537" name="guard" class="guard" x="-1408" y="1024" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2538" name="guard" class="guard" x="-1408" y="768" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2539" name="wallbreaker" class="wallbreaker" x="-2048" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2540" name="wallbreaker" class="wallbreaker" x="-2048" y="0" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2541" name="wallbreaker" class="wallbreaker" x="-128" y="-2048" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2542" name="wallbreaker" class="wallbreaker" x="0" y="-2048" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2543" name="wallbreaker" class="wallbreaker" x="2048" y="-128" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2544" name="wallbreaker" class="wallbreaker" x="2048" y="0" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2545" name="wallbreaker" class="wallbreaker" x="1664" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2546" name="wallbreaker" class="wallbreaker" x="1664" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2547" name="wallbreaker" class="wallbreaker" x="1664" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2548" name="wallbreaker" class="wallbreaker" x="1536" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2549" name="wallbreaker" class="wallbreaker" x="1408" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2550" name="wallbreaker" class="wallbreaker" x="0" y="2048" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2551" name="wallbreaker" class="wallbreaker" x="128" y="2048" width="128" height="128">
+   <properties>
+    <property name="level" type="int" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="2552" name="wallbreaker" class="wallbreaker" x="-1408" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2553" name="wallbreaker" class="wallbreaker" x="-1536" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2554" name="wallbreaker" class="wallbreaker" x="-1664" y="1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2555" name="wallbreaker" class="wallbreaker" x="-1664" y="1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2556" name="wallbreaker" class="wallbreaker" x="-1664" y="1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2557" name="wallbreaker" class="wallbreaker" x="1408" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2558" name="wallbreaker" class="wallbreaker" x="1664" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2559" name="wallbreaker" class="wallbreaker" x="1536" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2560" name="wallbreaker" class="wallbreaker" x="1664" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2561" name="wallbreaker" class="wallbreaker" x="1664" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2562" name="wallbreaker" class="wallbreaker" x="-1408" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2563" name="wallbreaker" class="wallbreaker" x="-1536" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2564" name="wallbreaker" class="wallbreaker" x="-1664" y="-1664" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2565" name="wallbreaker" class="wallbreaker" x="-1664" y="-1536" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2566" name="wallbreaker" class="wallbreaker" x="-1664" y="-1408" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2567" name="wallbreaker" class="wallbreaker" x="256" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2568" name="wallbreaker" class="wallbreaker" x="384" y="-896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2569" name="wallbreaker" class="wallbreaker" x="896" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2570" name="wallbreaker" class="wallbreaker" x="896" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2571" name="wallbreaker" class="wallbreaker" x="-896" y="256" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2572" name="wallbreaker" class="wallbreaker" x="-896" y="384" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2573" name="wallbreaker" class="wallbreaker" x="-256" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2574" name="wallbreaker" class="wallbreaker" x="-384" y="896" width="128" height="128">
+   <ellipse/>
+  </object>
+  <object id="2575" name="wallbreaker" class="wallbreaker" x="-256" y="128" width="128" height="128">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="firewatchers">
+  <object id="2249" name="firewatchertower" class="firewatchertower" x="512" y="-128" width="128" height="128"/>
+  <object id="2250" name="firewatchertower" class="firewatchertower" x="128" y="512" width="128" height="128"/>
+  <object id="2251" name="firewatchertower" class="firewatchertower" x="-512" y="128" width="128" height="128"/>
+  <object id="2252" name="firewatchertower" class="firewatchertower" x="-128" y="-512" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="10" name="main">
+  <object id="2" name="main" class="blackchest" x="0" y="0" width="128" height="128"/>
+  <object id="2130" name="secretchest" class="secretchest" x="-128" y="-256" width="128" height="128"/>
+  <object id="2133" name="blka=" class="blackchest" x="256" y="256" width="128" height="128"/>
+ </objectgroup>
+</map>
